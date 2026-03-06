@@ -3,3 +3,5 @@ pandas
 shapely
 geopandas
 rapidfuzz
+polars
+pyarrow
