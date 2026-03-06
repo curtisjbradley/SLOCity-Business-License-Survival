@@ -1,0 +1,8917 @@
+closure_time,censor,type,zone
+7638,1,Downtown Association,C-D
+6114,1,Service,R-2
+5972,1,Rental,R-1
+2558,1,Service,R-2
+3957,1,Service,C-D
+1452,1,Rental,R-2
+1434,1,Rental,R-1
+5662,1,Rental,C-S
+7350,1,Downtown Association,R-1
+1281,1,Retail,R-1
+5652,1,Rental,
+5459,1,Retail,R-2
+1606,1,Rental,R-2
+3783,1,Rental,R-1
+4935,1,Rental,M
+5662,1,Rental,C-R
+3230,1,Rental,R-2
+1767,1,Rental,R-2
+3461,1,Rental,C-S
+11296,1,Retail,R-1
+2890,1,Rental,C-S
+2613,1,Service,C/OS
+5271,1,Rental,C-S
+4033,1,Downtown Association,R-2
+8854,1,Downtown Association,R-1
+7601,1,Service,R-3
+1159,1,Retail,C-D
+13061,1,Retail,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+5656,1,Rental,
+2771,1,Rental,O
+9166,1,Rental,M
+1457,1,Rental,C-D
+3230,1,Service,M
+1456,1,Rental,R-1
+1025,1,Service,R-2
+2809,1,Service,C-S
+4948,1,Rental,O
+5655,1,Rental,R-2
+4810,1,Rental,R-2
+7707,1,Retail,C-R
+1815,1,Retail,O
+6057,1,Retail,R-3
+1662,1,Service,R-1
+5650,1,Service,R-2
+3432,1,Downtown Association,C-S
+6630,1,Service,C-S
+1524,1,Rental,O
+2970,1,Other,"1172    M
+1172    M
+Name: zone, dtype: object"
+15953,1,Service,R-4
+7393,1,Service,R-1
+7699,1,Service,C-S
+3184,1,Service,R-2
+1781,1,Service,R-1
+6804,1,Service,R-1
+7587,1,Retail,O
+9151,1,Rental,R-1
+8206,1,Rental,C-D
+3549,1,Rental,C-S
+5617,1,Rental,R-1
+9198,1,Rental,C-S
+1093,1,Rental,C-C
+15953,1,Rental,O
+2711,1,Rental,C-R
+5005,1,Downtown Association,R-3
+1276,1,Downtown Association,C-S
+242,1,Service,C-S
+2487,1,Service,R-3
+1577,1,Service,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+15953,1,Retail,R-1
+1626,1,Rental,R-1
+7733,1,Downtown Association,C-C
+2884,1,Rental,O
+5874,1,Service,C-D
+5839,1,Service,M
+9109,1,Other,R-1
+8676,1,Service,
+5125,1,Service,R-2
+9359,1,Service,M
+14770,1,Service,C-S
+11266,1,Service,R-1
+5634,1,Rental,R-3
+11937,1,Service,C-S
+9374,1,Service,O
+5154,1,Service,C-C
+5706,1,Service,R-2
+7289,1,Service,R-2
+6021,1,Downtown Association,R-2
+8919,1,Service,R-2
+7000,1,Service,R-1
+7241,1,Service,M
+10345,1,,R-1
+8732,1,Service,R-1
+2200,1,Service,O
+15588,1,Service,C-S
+2778,1,Retail,R-1
+4896,1,Downtown Association,C-T
+6848,1,Service,R-2
+8522,1,Service,R-1
+5362,1,Other,R-3
+6008,1,Service,O
+7107,1,Service,O
+4320,1,Downtown Association,R-2
+4628,1,Other,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+3823,1,Service,R-1
+5027,1,,R-2
+11724,1,Service,C-S
+6064,1,,C-D
+1421,1,Service,C-D
+5627,1,Rental,O
+6251,1,Retail,R-1
+7911,1,Service,C-D
+9666,1,Downtown Association,
+7855,1,Service,R-2
+11230,1,Service,R-3
+11731,1,Retail,R-2
+6390,1,Service,C-D
+4138,1,Service,R-1
+5999,1,Service,R-1
+9465,1,Service,R-2
+8668,1,Service,C-S
+7321,1,Retail,O
+6555,1,Service,C-S
+7146,1,Service,C-S
+9479,1,Downtown Association,R-1
+9732,1,Service,C-D
+7491,1,Service,O
+1444,1,Service,C-C
+6230,1,Service,O
+11676,1,Service,R-3
+5613,1,Rental,R-4
+14004,1,Service,R-2
+9667,1,Retail,C-D
+6611,1,Retail,C-S
+5627,1,Rental,C-S
+5627,1,Rental,R-2
+6114,1,,
+7596,1,Downtown Association,R-2
+7281,1,Service,R-2
+3916,1,Rental,R-2
+4264,1,Retail,C-D
+3366,1,Service,R-1
+8340,1,Service,R-3
+6875,1,Service,R-2
+4047,1,Downtown Association,R-2
+2835,1,Service,O
+6635,1,Service,C-C
+9211,1,Rental,BP
+2912,1,Downtown Association,"806    M
+806    M
+Name: zone, dtype: object"
+9884,1,Downtown Association,R-1
+4826,1,Service,C-S
+4208,1,Service,C-R
+9747,1,Service,M
+3710,1,Service,O
+5627,1,Other,C-D
+1251,1,Retail,O
+3663,1,Service,C-D
+6261,1,Service,R-2
+5546,1,Service,R-2
+13475,1,Service,C-S
+14248,1,Retail,O
+7611,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+10825,1,Service,R-1
+6765,1,,R-1
+4959,1,Retail,R-1
+2662,1,Downtown Association,C-T
+6314,1,Service,C-R
+11490,1,Service,C-D
+6345,1,Service,R-3
+5622,1,Rental,R-2
+3779,1,Service,C-S
+5655,1,Rental,C-D
+8254,1,Service,C-C
+5335,1,Rental,O
+1441,1,Rental,C-S
+4161,1,Service,C-S
+8536,1,Service,C-R
+5655,1,Rental,M
+8886,1,Service,R-2
+10600,1,Service,C-C
+8218,1,Service,C-S
+6923,1,Downtown Association,R-2
+7300,1,Downtown Association,C-D
+9236,1,Service,C-S
+6064,1,Service,C-D
+3557,1,Rental,O
+6524,1,Service,C-C
+7570,1,Downtown Association,R-2
+978,1,Service,C-S
+7049,1,Downtown Association,C-D
+10587,1,Service,C-D
+6281,1,Service,"102    R-1
+102    R-1
+Name: zone, dtype: object"
+6744,1,Rental,R-4
+4727,1,Downtown Association,R-4
+1129,1,Service,C-S
+7049,1,Service,C-S
+9892,1,Service,R-1
+3095,1,Downtown Association,C-D
+3438,1,Service,R-1
+2617,1,Service,C-S
+12027,1,Downtown Association,O
+7429,1,Service,R-2
+7070,1,Service,R-2
+10039,1,Other,C-S
+8029,1,Service,R-2
+4668,1,Service,C-D
+1933,1,Retail,C-D
+7504,1,Service,R-2
+8672,1,Service,C-S
+642,1,Service,C-D
+1599,1,Service,R-4
+1493,1,Rental,R-1
+7119,1,Retail,R-2
+247,1,Retail,R-2
+2320,1,Service,R-1
+6393,1,Rental,C-D
+10118,1,Service,C-D
+13061,1,Service,R-3
+6041,1,Retail,R-2
+978,1,Retail,C-S
+10886,1,Retail,C-S
+14559,1,Service,R-1
+4977,1,Service,C-D
+10676,1,Service,C-S
+2213,1,Service,R-2
+2765,1,Downtown Association,C-S
+2422,1,Other,C-S
+2422,1,Other,R-1
+15953,1,Other,R-2
+6911,1,Service,R-1
+9502,1,Downtown Association,C-S
+5251,1,Retail,C-D
+3542,1,Retail,C-D
+1963,1,Service,C-N
+4517,1,Service,C-C
+9087,1,Rental,BP
+1950,1,Downtown Association,R-1
+4465,1,Service,R-1
+5662,1,Rental,C-D
+9207,1,Rental,R-3
+12908,1,Service,R-1
+12266,1,Downtown Association,R-1
+5460,1,Rental,C-C
+5650,1,Rental,R-1
+8591,1,Service,R-1
+15953,1,Other,R-1
+5648,1,Rental,R-1
+12400,1,Rental,R-2
+9206,1,Rental,R-1
+5664,1,Rental,C-S
+5627,1,Rental,O
+11840,1,Retail,R-1
+9092,1,,R-1
+3499,1,Retail,R-2
+15953,1,Rental,R-2
+3635,1,Service,R-2
+2717,1,Downtown Association,O
+7923,1,Service,R-2
+5606,1,Rental,R-1
+8078,1,Rental,R-3
+10417,1,Rental,R-1
+8912,1,,
+3633,1,Other,R-1
+7987,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+3226,1,,R-1
+14650,1,Service,R-2
+12412,1,Rental,R-3
+11081,1,Service,R-2
+5651,1,Rental,R-1
+5278,1,Rental,R-1
+14029,1,Rental,R-2
+5546,1,Rental,R-3
+11179,1,Rental,R-1
+9149,1,Rental,M
+2554,1,Service,C-R
+763,1,,R-1
+5606,1,Rental,R-1
+7329,1,Downtown Association,R-4
+8249,1,Service,O
+5610,1,Rental,R-1
+9186,1,Retail,BP
+15953,1,Service,R-3
+4628,1,Retail,C-D
+8441,1,Service,
+6705,1,Service,R-1
+1974,1,Retail,C-R
+7800,1,Service,R-1
+6216,1,Service,R-1
+4124,1,Retail,C-D
+7566,1,Service,O
+6114,1,Service,C-S
+3632,1,Service,C-R
+2799,1,Downtown Association,C-N
+13334,1,Service,C-S
+7092,1,Service,R-1
+12231,1,Retail,C-S
+8693,1,Service,C-R
+587,1,Service,R-1
+2480,1,Service,O
+5613,1,Rental,M
+5672,1,Rental,O
+7665,1,Other,C-D
+11935,1,Rental,C-R
+12392,1,Rental,R-2
+5650,1,Rental,
+4215,1,Service,C-D
+3990,1,Service,C-R
+6972,1,,O
+5131,1,Service,R-2
+3880,1,Service,M
+5141,1,Service,R-1
+6126,1,Service,R-1
+6854,1,Service,M
+9954,1,Service,R-1
+6933,1,Service,R-1
+6888,1,Service,R-2
+12398,1,Rental,O
+5650,1,Rental,R-1
+5628,1,Rental,R-1
+3492,1,Downtown Association,R-1
+5379,1,,C-N
+6357,1,Retail,R-1
+1128,1,Retail,R-2
+6015,1,Service,C-S
+6141,1,Other,R-3
+1522,1,Retail,R-1
+13135,1,Service,R-1
+5400,1,Service,C-D
+15953,1,Service,C-N
+8107,1,Rental,C-S
+5663,1,Rental,C-S
+2299,1,Retail,C-S
+5651,1,Rental,R-2
+9717,1,Retail,C-D
+8666,1,,M
+4580,1,Downtown Association,C-D
+5306,1,Downtown Association,M
+5781,1,Rental,
+5607,1,Rental,
+2039,1,Service,R-1
+3746,1,Downtown Association,R-1
+8353,1,Service,R-1
+3310,1,Rental,C-N
+3874,1,Service,R-3
+6265,1,Downtown Association,R-3
+6541,1,Service,R-2
+2610,1,Rental,R-4
+5064,1,Downtown Association,R-1
+7297,1,Downtown Association,"1172    M
+1172    M
+Name: zone, dtype: object"
+941,1,Service,R-1
+9199,1,Rental,C-S
+2429,1,Downtown Association,R-1
+5406,1,Service,R-1
+4585,1,Service,R-2
+1159,1,Service,R-1
+550,1,Service,C-S
+1683,1,Downtown Association,C-R
+6085,1,Service,O
+12299,1,Rental,R-1
+7080,1,Service,R-1
+8149,1,Service,C-C
+5012,1,Service,O
+15953,1,Service,O
+5349,1,Service,R-1
+521,1,Retail,C-S
+8065,1,Service,R-1
+2745,1,Downtown Association,C-R
+12176,1,Downtown Association,R-1
+5140,1,Service,R-1
+8436,1,,R-1
+4643,1,Service,R-2
+5173,1,Service,PF
+14552,1,Service,R-1
+4875,1,Service,
+15953,1,Other,BP
+11489,1,Downtown Association,C-R
+2712,1,Service,
+15953,1,Service,C-S
+7700,1,Downtown Association,R-1
+1966,1,Service,R-1
+8343,1,Service,C-S
+6237,1,Service,R-1
+6643,1,Downtown Association,R-1
+5642,1,Rental,O
+7296,1,Downtown Association,O
+3520,1,Service,C-S
+5349,1,Downtown Association,O
+3059,1,Other,R-1
+5859,1,Other,R-1
+2813,1,Service,R-1
+8583,1,Retail,R-1
+7605,1,Service,R-1
+6314,1,Service,C-S
+9484,1,Service,R-3
+8122,1,Service,R-2
+12414,1,Rental,O
+12398,1,Rental,C-D
+10416,1,Rental,R-2
+12383,1,Rental,R-3
+5657,1,Rental,M
+2570,1,Service,C-S
+1458,1,Rental,R-4
+6743,1,Rental,R-1
+7401,1,Service,O
+6621,1,Rental,R-1
+5651,1,Rental,R-2
+5714,1,Other,C-D
+5615,1,Rental,C-D
+5952,1,Service,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+5652,1,Rental,R-3
+664,1,Retail,R-1
+4060,1,Retail,O
+8766,1,Rental,R-4
+13031,1,Service,C-S
+4984,1,Service,C/OS
+3452,1,Service,R-1
+4900,1,Retail,C-D
+9670,1,Service,R-2
+5643,1,Rental,
+3433,1,Service,C-S
+1024,1,Service,R-1
+10139,1,Downtown Association,M
+7114,1,Service,C-T
+12986,1,Service,C-D
+9743,1,Downtown Association,R-1
+2911,1,Service,O
+8077,1,Service,M
+3774,1,Service,C-R
+5762,1,Retail,R-2
+9599,1,Retail,R-1
+5313,1,Service,R-1
+4595,1,Service,R-2
+5656,1,Rental,O
+5554,1,Downtown Association,R-2
+13880,1,Service,O
+9389,1,Service,"83    C-C
+83    C-C
+83    C-C
+Name: zone, dtype: object"
+8373,1,Rental,O
+12406,1,Rental,C-D
+4007,1,,PF
+6146,1,Service,PF
+6756,1,Retail,C/OS
+12404,1,Rental,C-S
+5614,1,Rental,M
+5610,1,Rental,C-S
+15953,1,Downtown Association,R-1
+12407,1,Rental,R-1
+4312,1,Downtown Association,O
+3991,1,Service,O
+3475,1,Service,R-1
+12422,1,Service,O
+5028,1,Downtown Association,O
+9211,1,Rental,R-1
+308,1,Retail,C-C
+3927,1,Service,
+6488,1,Service,C-C
+5595,1,Rental,C-R
+9184,1,Rental,O
+12781,1,Downtown Association,R-1
+9142,1,Rental,C-R
+2953,1,Service,O
+5532,1,Downtown Association,M
+4901,1,Retail,M
+8078,1,Downtown Association,C-R
+5258,1,Service,C-D
+9185,1,Rental,R-1
+12392,1,Rental,R-1
+10416,1,Rental,C-T
+15953,1,Service,C-D
+642,1,Rental,
+11102,1,Service,R-1
+5608,1,Rental,C-S
+4929,1,Service,R-3
+8031,1,Service,O
+2103,1,Downtown Association,R-1
+794,1,Service,R-3
+9337,1,Downtown Association,R-1
+14812,1,Retail,R-4
+7413,1,Retail,R-1
+3062,1,Retail,R-1
+13884,1,Rental,R-1
+7064,1,Service,R-3
+2722,1,Service,PF
+5386,1,Rental,C-N
+6015,1,Service,C-D
+3691,1,Service,R-1
+5105,1,,C-S
+6923,1,Service,M
+9856,1,Service,R-1
+10411,1,Retail,R-1
+5636,1,Service,R-2
+3891,1,Service,R-2
+11139,1,Retail,C-C
+9348,1,Service,O
+15588,1,Service,C-S
+5692,1,Service,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+5461,1,Other,
+7276,1,Service,C-S
+6923,1,Service,R-3
+7049,1,Retail,R-2
+5594,1,Service,R-1
+8119,1,Service,R-1
+8617,1,Downtown Association,R-1
+7038,1,Service,R-1
+14603,1,Service,R-4
+7637,1,Service,C-S
+10751,1,Retail,
+7444,1,Other,R-1
+8408,1,Service,C-D
+5841,1,Service,C-D
+2038,1,Service,R-1
+7714,1,Service,R-2
+7265,1,Service,R-1
+5470,1,Other,R-2
+5733,1,Downtown Association,O
+3362,1,Other,O
+5628,1,Rental,R-1
+3786,1,Retail,
+6008,1,Retail,C-R
+8647,1,Other,R-1
+4991,1,Other,C-S
+9519,1,Service,R-2
+5440,1,Service,C-D
+4159,1,,C-D
+581,1,Retail,
+2957,1,Downtown Association,O
+8368,1,Other,C-D
+9093,1,Rental,R-1
+5455,1,Service,C-R
+6748,1,Service,C-R
+21066,1,Service,R-1
+4334,1,Service,O
+1431,1,Rental,R-2
+9563,1,Service,M
+12708,1,Service,R-2
+3215,1,Other,O
+5686,1,Other,C-S
+5158,1,Retail,R-2
+6629,1,Service,R-2
+1414,1,Retail,R-1
+5519,1,Retail,R-2
+3984,1,Service,R-1
+9502,1,Downtown Association,R-1
+15953,1,Retail,O
+6076,1,Retail,M
+3793,1,Service,
+1452,1,Rental,R-4
+5582,1,Rental,R-1
+12400,1,Rental,
+9206,1,Rental,PF
+5539,1,Service,C-S
+12706,1,Service,C-S
+12354,1,Rental,O
+2785,1,Service,R-2
+6847,1,Service,R-1
+8051,1,Service,C-D
+4578,1,Service,C-S
+9956,1,Retail,O
+8259,1,Other,R-1
+6734,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+14622,1,Service,C-S
+1845,1,Retail,PF
+5650,1,Rental,O
+7498,1,Retail,C-S
+5349,1,Retail,R-1
+2345,1,Downtown Association,C-S
+5019,1,Service,C-S
+6362,1,Downtown Association,C-D
+6988,1,Downtown Association,R-1
+3006,1,Service,R-1
+5620,1,Rental,R-4
+7727,1,Retail,M
+14826,1,Service,R-1
+2593,1,Downtown Association,R-1
+10012,1,Service,R-2
+7821,1,Service,C-N
+819,1,Service,C-D
+3172,1,Rental,C-S
+9957,1,Service,R-1
+5652,1,Rental,C-S
+5624,1,Service,C-C
+5144,1,Retail,O
+8546,1,Service,O
+10027,1,Service,R-3
+4805,1,Service,R-2
+2435,1,Service,R-2
+5658,1,Service,C-S
+14386,1,Service,R-1
+5300,1,Service,PF
+11734,1,Service,
+7226,1,Retail,R-2
+3075,1,Downtown Association,C-D
+2073,1,Downtown Association,R-2
+4507,1,Retail,C-D
+3919,1,Downtown Association,M
+9703,1,Service,O
+2941,1,Service,M
+3228,1,Service,O
+6114,1,Downtown Association,R-1
+11564,1,Downtown Association,R-2
+6428,1,Other,C-D
+13706,1,Retail,O
+6146,1,Service,C-D
+2887,1,Downtown Association,R-1
+6106,1,Service,M
+15953,1,Service,R-4
+15953,1,Retail,R-4
+5622,1,Service,C-R
+6554,1,Retail,C-D
+3684,1,Service,C-S
+9043,1,Service,C-S
+14358,1,Downtown Association,R-1
+1515,1,Downtown Association,M
+7048,1,Downtown Association,R-2
+5442,1,Retail,C-D
+4935,1,Other,M
+3501,1,Rental,O
+3375,1,,C-S
+10929,1,Downtown Association,R-1
+3528,1,Service,O
+8536,1,Service,R-1
+4921,1,Service,O
+6344,1,Service,R-1
+972,1,Service,R-2
+2711,1,Service,R-1
+6874,1,Service,R-2
+7604,1,Service,R-2
+7471,1,Service,R-1
+14812,1,Service,C-T
+11047,1,Service,C-D
+6616,1,Retail,C/OS
+6944,1,Other,O
+2044,1,Downtown Association,
+8875,1,Retail,"1172    M
+1172    M
+Name: zone, dtype: object"
+10556,1,Service,R-3
+7155,1,Downtown Association,R-1
+7678,1,Service,R-2
+2192,1,Retail,R-1
+14423,1,Downtown Association,C-D
+8347,1,,R-1
+1436,1,,M
+11039,1,Service,R-1
+7955,1,Service,C-R
+5057,1,Retail,C-R
+3769,1,Service,R-3
+4608,1,Service,C-S
+3646,1,Service,R-3
+3017,1,Downtown Association,R-1
+9152,1,Downtown Association,C-T
+8031,1,Retail,C-S
+7223,1,Retail,R-3
+4469,1,Other,R-1
+5568,1,Rental,
+5631,1,Rental,R-4
+8373,1,Service,R-2
+6870,1,Service,O
+2807,1,Service,R-1
+4773,1,Rental,R-4
+6798,1,Service,R-1
+7086,1,Retail,R-3
+3738,1,Rental,R-4
+5656,1,Rental,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+3996,1,Retail,O
+6182,1,Other,"1172    M
+1172    M
+Name: zone, dtype: object"
+8443,1,Service,
+2760,1,Downtown Association,R-2
+1344,1,Rental,R-1
+3901,1,Other,R-1
+535,1,Service,C-D
+6607,1,Service,R-1
+5650,1,Rental,R-4
+4963,1,Retail,R-3
+6994,1,Service,R-2
+3181,1,Service,O
+5595,1,Rental,"102    R-1
+102    R-1
+Name: zone, dtype: object"
+8126,1,Service,R-2
+3964,1,Downtown Association,C-D
+3430,1,Retail,O
+5670,1,Rental,O
+9170,1,Service,O
+8588,1,Downtown Association,R-1
+4287,1,Retail,C-D
+5902,1,Service,C-D
+673,1,Service,C-R
+4279,1,Service,R-1
+7884,1,Service,R-1
+2809,1,Retail,R-2
+5981,1,Retail,R-2
+3227,1,Service,C-S
+3758,1,Rental,C-S
+9087,1,Rental,O
+7651,1,Retail,R-1
+13489,1,Downtown Association,R-1
+10122,1,Downtown Association,R-2
+5999,1,Downtown Association,R-4
+3661,1,Retail,R-1
+6685,1,Downtown Association,R-1
+1281,1,Service,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+11249,1,Retail,R-3
+5089,1,Service,R-2
+4550,1,Other,R-1
+5624,1,Downtown Association,O
+11194,1,Rental,R-3
+2082,1,Retail,R-2
+5651,1,Rental,R-1
+7170,1,Service,R-3
+7317,1,Rental,R-2
+10234,1,Retail,R-4
+5663,1,Rental,R-1
+5652,1,Rental,O
+9207,1,Rental,R-2
+11174,1,Rental,R-2
+5655,1,Rental,R-1
+12411,1,Rental,R-1
+11216,1,Rental,R-1
+1452,1,Rental,R-1
+5655,1,Rental,O
+5027,1,Rental,C-S
+5658,1,Rental,R-3
+10027,1,Rental,C-S
+5657,1,Rental,O
+3818,1,Service,R-1
+10906,1,Rental,C-C
+6981,1,Service,R-2
+12400,1,Rental,C-R
+8413,1,Service,O
+2397,1,Downtown Association,M
+16683,1,Service,O
+5470,1,Downtown Association,R-1
+1283,1,Other,R-2
+6037,1,Service,R-2
+5592,1,Rental,O
+5971,1,Rental,R-1
+15953,1,Service,C-S
+916,1,Retail,R-2
+5649,1,Rental,C-T
+3843,1,Downtown Association,R-4
+8071,1,Rental,R-1
+9492,1,Service,R-1
+3653,1,Rental,R-2
+5651,1,Rental,M
+12393,1,Rental,C-D
+11296,1,Service,O
+5678,1,Rental,O
+14015,1,Service,R-1
+14611,1,Rental,O
+2233,1,Other,R-4
+3499,1,Downtown Association,R-2
+6966,1,Service,C-N
+5651,1,Rental,O
+7479,1,Service,R-4
+12607,1,Retail,C-S
+10389,1,Downtown Association,R-4
+6981,1,Service,R-1
+1283,1,Downtown Association,R-2
+8857,1,Service,R-4
+7778,1,Service,R-4
+3006,1,Retail,O
+1400,1,Service,O
+11728,1,Service,
+8578,1,Service,C-D
+15222,1,Rental,C-N
+6218,1,Downtown Association,R-1
+5879,1,Service,R-3
+1819,1,Service,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+6730,1,Service,C-S
+12314,1,Rental,R-1
+7812,1,Retail,C-D
+1381,1,Service,R-1
+3586,1,Service,R-1
+8171,1,Retail,R-1
+6478,1,Service,C-R
+7772,1,Retail,R-1
+6574,1,Retail,R-2
+10156,1,Retail,R-3
+3732,1,Retail,C-D
+2478,1,Downtown Association,C-D
+3506,1,Service,C-S
+2663,1,Service,C-S
+5475,1,Service,
+7160,1,Retail,C-S
+2806,1,Service,R-2
+14419,1,Service,R-1
+3039,1,Service,R-3
+9326,1,Retail,R-1
+6821,1,Retail,C-D
+5680,1,Retail,R-2
+4977,1,Service,M
+7960,1,Service,C-N
+7553,1,Service,
+7066,1,Downtown Association,C-R
+3111,1,Service,C-R
+7030,1,Downtown Association,R-1
+5537,1,Downtown Association,C-N
+3370,1,Retail,R-1
+6869,1,Service,O
+4046,1,Retail,R-1
+4243,1,Retail,R-4
+8882,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+15953,1,Service,O
+4679,1,Retail,
+777,1,Retail,R-1
+10837,1,Retail,R-1
+3863,1,Service,R-1
+2619,1,Retail,R-1
+5649,1,Rental,O
+19605,1,Service,C-D
+1524,1,Rental,R-1
+8646,1,Downtown Association,C-D
+12412,1,Rental,O
+9198,1,Rental,R-1
+6952,1,Service,C-S
+4858,1,Service,C-S
+2214,1,Retail,R-1
+6321,1,Service,R-1
+7422,1,Service,O
+7204,1,Other,R-1
+6338,1,Retail,O
+8519,1,Service,R-1
+3593,1,Downtown Association,C-S
+3919,1,Service,O
+12413,1,Rental,O
+5658,1,Rental,R-2
+3888,1,Downtown Association,R-3
+6442,1,Service,O
+9166,1,Rental,O
+6181,1,Other,R-1
+6616,1,Service,R-2
+3977,1,Service,R-1
+5389,1,Service,C-D
+6201,1,Service,
+5706,1,Service,R-3
+12964,1,,C-S
+12354,1,Rental,C-S
+4842,1,Other,C-S
+8262,1,Service,R-1
+13675,1,Service,R-1
+15953,1,Retail,R-1
+1746,1,Rental,C-S
+5617,1,Rental,C-D
+24354,1,Service,C-R
+5658,1,Rental,R-1
+12299,1,Rental,C-R
+15953,1,Retail,C-S
+6674,1,Service,R-3
+12361,1,Downtown Association,R-1
+5657,1,Rental,C-S
+4417,1,Service,R-1
+9185,1,Rental,R-2
+15953,1,Downtown Association,C-S
+3955,1,Service,R-1
+12385,1,Rental,R-2
+10627,1,Service,C-R
+5603,1,Rental,C-R
+1791,1,Service,R-1
+1858,1,Downtown Association,C-R
+7294,1,Other,R-1
+5613,1,Rental,R-1
+15588,1,Retail,
+11062,1,Retail,O
+8137,1,Service,C-S
+13031,1,Retail,R-1
+15953,1,Service,O
+5104,1,Service,C-D
+4186,1,Rental,C-S
+9178,1,Downtown Association,R-1
+5628,1,Rental,O
+3746,1,Rental,O
+12398,1,Rental,R-2
+5271,1,Rental,R-2
+7975,1,Other,R-1
+4943,1,Downtown Association,R-1
+6644,1,Service,R-2
+3475,1,Service,R-1
+12407,1,Rental,R-1
+7114,1,Other,C-D
+4249,1,Retail,R-1
+14513,1,Service,R-1
+6258,1,Service,C-R
+550,1,Service,R-3
+5022,1,Downtown Association,R-1
+5846,1,Service,R-3
+7812,1,Downtown Association,R-1
+3843,1,Other,O
+3535,1,Retail,R-2
+3850,1,Rental,R-4
+8864,1,Service,O
+9017,1,Service,M
+5090,1,Service,C-N
+1382,1,Service,C-D
+5573,1,Rental,C-S
+1429,1,Rental,R-2
+7290,1,Service,C-S
+5635,1,Rental,C-D
+6351,1,Service,M
+3780,1,Downtown Association,R-1
+3565,1,Retail,R-4
+15222,1,Downtown Association,"1172    M
+1172    M
+Name: zone, dtype: object"
+5747,1,Service,R-1
+4944,1,Downtown Association,R-2
+1830,1,Service,R-3
+10566,1,Downtown Association,M
+2393,1,Service,R-4
+3878,1,Service,R-1
+12533,1,Retail,C-S
+7959,1,Downtown Association,C-S
+7248,1,Other,R-1
+3390,1,Retail,O
+5684,1,Downtown Association,C-D
+3955,1,Downtown Association,"1172    M
+1172    M
+Name: zone, dtype: object"
+5655,1,,R-3
+5876,1,Service,R-4
+139,1,Service,C-C
+3506,1,Downtown Association,R-2
+7421,1,Service,C-D
+3632,1,Service,R-4
+6842,1,Downtown Association,C-T
+15222,1,Retail,R-1
+6751,1,Service,C-T
+6148,1,Service,R-2
+8186,1,Retail,
+5837,1,Other,R-1
+4955,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+6216,1,Service,C-D
+4411,1,Retail,R-2
+7070,1,Downtown Association,R-3
+7785,1,Service,C-R
+6742,1,Service,
+825,1,Retail,R-1
+2970,1,Retail,BP
+8653,1,Other,C-R
+5553,1,Rental,C/OS
+5714,1,Service,R-1
+5652,1,Rental,R-2
+3592,1,Service,R-1
+10713,1,Service,R-1
+5655,1,Rental,R-1
+6433,1,Retail,C/OS
+11094,1,Downtown Association,C-S
+1960,1,Service,C-R
+548,1,Retail,M
+6146,1,Other,C-C
+1493,1,Retail,C-S
+8255,1,,M
+3881,1,,R-1
+5271,1,,C-S
+2779,1,,R-1
+7997,1,,R-1
+7021,1,Service,C-S
+4208,1,Downtown Association,O
+6351,1,Service,C-R
+9625,1,Rental,R-3
+3223,1,Service,C-D
+6069,1,Service,C-D
+15032,1,Service,C-S
+9185,1,Rental,C-S
+3345,1,Rental,O
+12391,1,Rental,C-D
+7573,1,Service,C-D
+10030,1,Service,C-D
+7371,1,Service,C/OS
+15953,1,Retail,R-1
+8497,1,Retail,R-4
+5656,1,Rental,C-S
+550,1,Retail,C-S
+6246,1,Other,O
+15953,1,Downtown Association,C-C
+1322,1,Service,C-D
+5439,1,Downtown Association,R-1
+10936,1,Service,R-1
+10262,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+223,1,Service,C-R
+4048,1,Hotel,R-1
+8611,1,Service,R-1
+3381,1,Retail,C-D
+5049,1,,"1172    M
+1172    M
+Name: zone, dtype: object"
+5118,1,Downtown Association,O
+11251,1,Retail,C-T
+3228,1,Retail,R-4
+6496,1,Retail,O
+4900,1,Other,R-1
+12560,1,Downtown Association,C-S
+3076,1,Service,C-S
+6160,1,Rental,C-S
+6352,1,Downtown Association,R-4
+5656,1,Rental,R-2
+14155,1,Rental,C-C
+12451,1,Service,R-3
+5622,1,Rental,C-D
+5608,1,Rental,R-1
+12412,1,Rental,C-D
+1471,1,Service,C-R
+5090,1,Service,R-2
+6996,1,Service,R-1
+2255,1,Service,C-D
+12319,1,Rental,R-1
+5627,1,Service,O
+13924,1,Retail,M
+2526,1,Service,R-1
+5643,1,Other,R-1
+2312,1,Downtown Association,
+7801,1,Retail,R-1
+4977,1,Retail,R-2
+6191,1,,R-1
+9432,1,Retail,
+6231,1,Downtown Association,C-S
+4370,1,Retail,R-1
+763,1,Service,R-1
+3802,1,Service,R-3
+1998,1,Service,R-1
+4214,1,Service,R-1
+15953,1,Service,R-2
+12285,1,Service,O
+5679,1,Rental,O
+5651,1,Rental,C-S
+8865,1,Other,C-D
+7059,1,Rental,C-D
+1611,1,Service,C-D
+3192,1,Downtown Association,C-C
+7680,1,Rental,C-C
+5623,1,Rental,C-D
+2813,1,,R-3
+6274,1,Service,O
+12798,1,Service,R-1
+12412,1,Rental,O
+8389,1,Downtown Association,R-1
+1631,1,Service,C-C
+5607,1,Rental,PF
+1786,1,Service,C-S
+7217,1,Service,C-S
+5651,1,Rental,C-S
+4241,1,Hotel,O
+6862,1,Downtown Association,R-3
+3990,1,Rental,R-2
+11193,1,Service,R-2
+3076,1,Service,O
+1623,1,Rental,C-D
+1361,1,Rental,C-C
+7442,1,Downtown Association,R-1
+3101,1,Rental,R-1
+5770,1,Retail,C-R
+6972,1,Service,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+3578,1,Service,R-2
+4419,1,Service,
+2444,1,Service,R-1
+1507,1,Service,R-2
+7553,1,Service,R-1
+5539,1,,R-1
+3550,1,Service,C-D
+5300,1,Service,R-1
+10153,1,Service,
+3193,1,Retail,C-R
+5879,1,Service,R-1
+1174,1,Downtown Association,PF
+6314,1,Retail,R-1
+6680,1,Retail,C-S
+12836,1,Service,R-1
+8157,1,Service,M
+5649,1,Rental,R-3
+5155,1,Service,R-3
+5454,1,Downtown Association,
+10261,1,Service,R-2
+15953,1,Rental,M
+4326,1,Service,BP
+5607,1,Rental,R-2
+4767,1,Downtown Association,C-R
+5595,1,Rental,R-1
+2408,1,Other,R-1
+12413,1,Rental,R-4
+9891,1,Downtown Association,C-R
+8800,1,Downtown Association,R-1
+1373,1,Service,R-3
+9015,1,,
+4026,1,Downtown Association,R-3
+2428,1,Service,C/OS
+5082,1,Service,R-1
+5656,1,Rental,R-3
+18691,1,Rental,R-3
+2849,1,Service,R-2
+5683,1,Rental,M
+5652,1,Rental,R-1
+7211,1,Service,R-1
+5649,1,Rental,R-4
+5656,1,Rental,R-1
+3787,1,Rental,R-1
+5656,1,Rental,C-S
+12364,1,Rental,R-1
+14512,1,Service,R-1
+6996,1,Service,C-S
+1487,1,Rental,R-1
+1159,1,Rental,R-2
+5657,1,Rental,C-N
+1898,1,Rental,R-3
+2205,1,Service,R-1
+4524,1,Service,C-S
+3825,1,Service,"806    M
+806    M
+Name: zone, dtype: object"
+5588,1,Rental,R-3
+5650,1,Rental,M
+9185,1,Rental,C-R
+9166,1,Rental,R-3
+5621,1,Rental,R-4
+5678,1,Rental,R-3
+1732,1,Service,R-1
+11935,1,Downtown Association,R-1
+8136,1,Retail,C-D
+2814,1,Retail,R-2
+1071,1,Retail,
+7500,1,Retail,C-T
+1631,1,Retail,R-1
+5624,1,Service,C-R
+7674,1,Service,R-4
+11160,1,Retail,R-1
+577,1,Service,R-1
+5636,1,Rental,O
+6922,1,Service,C-D
+7309,1,Downtown Association,C-D
+4362,1,Service,R-2
+2863,1,Service,C-S
+8093,1,Rental,O
+6233,1,Rental,R-2
+7839,1,Retail,R-1
+9110,1,Rental,R-1
+5649,1,Rental,C/OS
+6211,1,Service,C-R
+6715,1,Service,R-1
+7161,1,Service,O
+9179,1,Service,C-S
+6729,1,Downtown Association,R-1
+11026,1,Service,C-S
+1281,1,Retail,R-1
+9362,1,Service,
+8318,1,Retail,C-C
+2285,1,Service,C-S
+4111,1,Retail,R-1
+13645,1,Downtown Association,C-C
+5655,1,Rental,R-3
+7029,1,Service,C-S
+7076,1,Service,R-2
+10454,1,Service,C-C
+7507,1,Service,R-1
+10717,1,Service,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+4215,1,Service,C-D
+12393,1,Rental,C-C
+2612,1,Downtown Association,R-3
+12389,1,Rental,R-1
+3647,1,Service,R-1
+9211,1,Rental,R-3
+2870,1,Retail,O
+5638,1,Rental,C-T
+5057,1,Retail,C-S
+5686,1,Service,R-3
+2677,1,Service,R-1
+3193,1,Downtown Association,C-S
+1137,1,Service,O
+8388,1,Service,C-S
+7267,1,Other,R-1
+9589,1,Retail,R-1
+5608,1,Rental,R-1
+5512,1,Downtown Association,C-S
+8673,1,Retail,M
+2438,1,Downtown Association,R-1
+3228,1,Downtown Association,C-R
+5994,1,Service,C-R
+4448,1,Service,C-T
+6328,1,Retail,R-2
+4565,1,Downtown Association,C-R
+3934,1,Service,C-S
+5165,1,Retail,O
+6488,1,Retail,O
+1935,1,Service,C-D
+13524,1,Retail,C-S
+8386,1,Retail,R-1
+3894,1,Service,R-3
+3864,1,Service,R-1
+5649,1,Rental,C-R
+6498,1,Other,R-1
+6433,1,Service,R-1
+6470,1,Service,R-3
+4236,1,Service,O
+2394,1,Retail,C-S
+9687,1,Downtown Association,R-2
+4642,1,Service,O
+11364,1,Service,R-1
+2401,1,Service,R-2
+1452,1,Rental,R-1
+12295,1,Other,C-S
+8533,1,Service,R-1
+6380,1,Service,C-S
+5588,1,Service,R-4
+6114,1,Retail,C-S
+6981,1,Service,R-1
+6324,1,Retail,C/OS
+10397,1,Service,O
+7604,1,Retail,C-S
+7408,1,Service,O
+6555,1,Service,R-4
+8290,1,Service,R-1
+338,1,Retail,R-3
+3817,1,Service,R-1
+5935,1,Service,O
+6051,1,Service,R-1
+5994,1,Downtown Association,C-S
+7504,1,Service,R-1
+3121,1,Rental,R-3
+5684,1,Rental,R-2
+7091,1,Service,R-1
+4780,1,Service,R-1
+15953,1,Rental,C-S
+1424,1,Service,C-S
+6083,1,Rental,R-3
+3810,1,Downtown Association,C-S
+15953,1,Rental,R-2
+7503,1,Service,C-S
+3940,1,Service,C-R
+5294,1,Rental,C-D
+6973,1,Service,R-2
+4798,1,Retail,R-1
+11432,1,Retail,C-R
+5614,1,Rental,C-S
+10479,1,Rental,C-S
+12400,1,Rental,R-3
+2437,1,Downtown Association,R-2
+6712,1,Service,C/OS
+11703,1,Retail,C-S
+15953,1,Retail,R-4
+143,1,Service,R-1
+5650,1,Rental,C-N
+10978,1,Service,C-N
+12271,1,Service,R-1
+9492,1,Service,R-1
+5648,1,Rental,R-1
+12407,1,Rental,M
+15222,1,Service,R-2
+3314,1,Service,O
+5663,1,Rental,O
+16318,1,Downtown Association,O
+12081,1,Retail,R-1
+7910,1,Retail,C-D
+1076,1,Retail,R-2
+8310,1,Rental,R-1
+7798,1,Rental,C-N
+5663,1,Rental,C-S
+5656,1,Rental,R-1
+4712,1,Service,R-1
+3432,1,Rental,C-R
+11629,1,Other,R-1
+1431,1,Service,R-2
+5655,1,Rental,C-R
+14307,1,Service,R-1
+2224,1,Downtown Association,"1172    M
+1172    M
+Name: zone, dtype: object"
+5665,1,Rental,R-1
+5151,1,Service,O
+5651,1,Rental,R-2
+9087,1,Rental,C-T
+14791,1,Service,C-D
+6933,1,Service,O
+4157,1,Service,R-1
+6583,1,Rental,O
+4656,1,Service,O
+12400,1,Retail,C-D
+5518,1,Rental,M
+2963,1,Service,R-2
+3076,1,Service,R-1
+7563,1,Rental,R-4
+3172,1,Service,R-1
+9128,1,Rental,R-1
+7647,1,Service,R-2
+12386,1,Rental,C-R
+8389,1,Rental,R-2
+4279,1,Rental,R-2
+5649,1,Rental,R-1
+8340,1,Service,R-1
+7364,1,Rental,C-T
+7860,1,Service,C-D
+5302,1,Rental,O
+7661,1,Downtown Association,R-1
+6247,1,Service,R-1
+1407,1,Downtown Association,R-1
+1512,1,Service,C-D
+14675,1,Service,R-2
+5656,1,Rental,C-D
+7071,1,Service,
+3031,1,Retail,C-S
+3528,1,Service,R-1
+6974,1,Service,C-D
+10229,1,Service,C-D
+15953,1,Rental,R-2
+642,1,Downtown Association,R-1
+3705,1,Rental,C-D
+2522,1,Service,R-1
+5650,1,Rental,R-3
+4111,1,Service,C-D
+3537,1,Service,R-1
+4243,1,Service,R-2
+1465,1,Service,R-2
+2411,1,Rental,R-3
+5657,1,Rental,R-2
+1288,1,Downtown Association,R-2
+13243,1,Other,O
+1784,1,Service,O
+10724,1,Retail,R-2
+6380,1,Service,O
+7314,1,Service,R-1
+13884,1,Service,R-4
+3411,1,Service,R-1
+5818,1,Service,R-4
+4623,1,Retail,O
+4501,1,Downtown Association,R-2
+10830,1,,C-D
+3928,1,,R-1
+11200,1,Retail,O
+4279,1,Service,R-1
+2401,1,Service,R-1
+5089,1,Rental,R-1
+3746,1,Rental,R-1
+8183,1,Service,O
+11657,1,Rental,R-1
+5305,1,Retail,R-2
+4161,1,Other,C-D
+5664,1,Service,
+7401,1,Service,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+5617,1,Rental,O
+5475,1,Service,R-2
+4630,1,Downtown Association,R-1
+10999,1,Service,R-1
+10500,1,Rental,R-1
+6268,1,Downtown Association,R-1
+3794,1,Rental,O
+1025,1,Service,R-1
+5623,1,Rental,R-1
+5663,1,Rental,C-R
+12390,1,Rental,R-1
+5657,1,Rental,R-1
+5657,1,Rental,R-2
+2613,1,Service,C-R
+6363,1,Service,O
+9355,1,,R-2
+6303,1,Service,R-2
+3129,1,Service,O
+4542,1,Downtown Association,PF
+6924,1,Service,C-S
+7703,1,Service,R-2
+3604,1,Downtown Association,R-2
+8254,1,Service,O
+10296,1,Retail,C-D
+3496,1,Service,O
+6981,1,Service,R-2
+17414,1,Service,C-D
+7252,1,Other,R-1
+7463,1,Service,C-R
+7091,1,Service,C-R
+5581,1,Service,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+2655,1,Service,R-1
+5937,1,Service,O
+7811,1,Retail,O
+4034,1,Retail,R-1
+5994,1,Service,C-N
+5714,1,,R-1
+7731,1,Service,C-D
+7553,1,Downtown Association,R-2
+2604,1,Other,R-1
+15953,1,Downtown Association,C-S
+7821,1,Other,
+8500,1,Service,BP
+1159,1,Downtown Association,C-S
+2821,1,Service,R-2
+10992,1,Service,R-2
+7239,1,Service,R-1
+6812,1,Service,PF
+4019,1,Service,R-1
+1560,1,Retail,R-1
+7442,1,Service,O
+8563,1,Service,C-S
+2597,1,Service,O
+9033,1,Service,R-1
+15953,1,Service,R-1
+550,1,Service,R-1
+1434,1,Service,O
+6007,1,Service,R-4
+6404,1,Retail,C-D
+1490,1,Retail,R-3
+1416,1,Service,R-1
+21066,1,Service,
+1669,1,Downtown Association,C-T
+6636,1,Downtown Association,O
+10327,1,Retail,R-2
+5753,1,Service,R-4
+8024,1,Service,C-T
+6149,1,Retail,C-S
+2276,1,Service,R-3
+3650,1,Service,R-2
+10571,1,Retail,R-1
+1069,1,Service,R-1
+6448,1,Service,O
+6258,1,Service,R-1
+9008,1,Retail,R-1
+11760,1,Other,R-3
+4391,1,Service,O
+10869,1,Service,R-2
+2031,1,Service,O
+3864,1,Service,R-1
+4223,1,Service,R-4
+7755,1,Other,R-1
+6364,1,Service,O
+8409,1,Service,R-1
+8639,1,Service,R-3
+7552,1,Service,C-D
+9025,1,Service,
+7275,1,Service,R-2
+7358,1,Service,R-3
+13751,1,Downtown Association,
+7464,1,Service,
+7345,1,Retail,
+8626,1,Service,R-2
+4643,1,Service,O
+7472,1,Service,C-T
+6800,1,Service,R-1
+10040,1,Service,C-D
+14887,1,Service,R-2
+7652,1,Retail,C-S
+11217,1,Service,M
+7751,1,Service,C-D
+11745,1,Service,R-1
+2198,1,Service,C-D
+7545,1,Service,R-4
+15222,1,Service,R-4
+632,1,Service,R-2
+3934,1,Downtown Association,C-S
+8725,1,Retail,
+2599,1,Service,R-4
+6120,1,Service,R-1
+9850,1,Service,R-4
+7707,1,Service,R-1
+6385,1,Retail,R-4
+5628,1,Service,R-2
+5173,1,Service,O
+3102,1,Service,R-1
+5476,1,Service,R-1
+2984,1,Retail,R-2
+6338,1,Retail,R-2
+10869,1,Service,R-1
+1111,1,Retail,R-1
+4768,1,Downtown Association,R-1
+6231,1,Service,R-2
+15953,1,Downtown Association,R-1
+10227,1,Service,O
+2317,1,Service,C-S
+6098,1,Service,O
+13960,1,Service,"102    R-1
+102    R-1
+Name: zone, dtype: object"
+4551,1,Service,R-2
+617,1,Service,R-1
+10186,1,Other,C/OS
+1658,1,Retail,O
+2499,1,Service,
+12498,1,Service,R-1
+3661,1,Service,R-3
+7429,1,Downtown Association,R-3
+7426,1,Downtown Association,R-3
+10166,1,Service,R-1
+5606,1,Rental,
+4349,1,Service,R-1
+5454,1,Service,R-1
+3488,1,,O
+8528,1,,R-1
+919,1,Service,R-4
+4684,1,Retail,R-1
+2372,1,,R-1
+5069,1,Downtown Association,"1172    M
+1172    M
+Name: zone, dtype: object"
+15953,1,Downtown Association,O
+8119,1,Retail,R-1
+6854,1,Service,O
+3447,1,Other,R-3
+4550,1,Rental,C-R
+5540,1,Service,R-2
+1063,1,Service,R-1
+9038,1,Rental,R-1
+5652,1,Rental,"102    R-1
+102    R-1
+Name: zone, dtype: object"
+9051,1,Rental,R-2
+5655,1,Rental,R-1
+12400,1,Rental,R-4
+5652,1,Rental,C-S
+5650,1,Rental,C-N
+5656,1,Rental,R-1
+9039,1,Downtown Association,O
+14249,1,Service,
+5651,1,Rental,R-1
+5650,1,Rental,C-D
+11216,1,Rental,R-3
+12370,1,Rental,R-3
+9205,1,Rental,R-4
+9143,1,Rental,R-2
+7665,1,Other,R-2
+15588,1,Service,C-D
+5608,1,Rental,C-R
+5656,1,Rental,C-D
+12398,1,Rental,R-1
+22893,1,Service,C-S
+8093,1,Downtown Association,O
+15953,1,Downtown Association,C-S
+9115,1,Rental,R-1
+3961,1,Downtown Association,C-R
+12694,1,Retail,R-1
+6692,1,Downtown Association,
+7009,1,Service,R-1
+15222,1,Service,R-3
+9970,1,Service,C-S
+10213,1,Service,
+995,1,Downtown Association,"1172    M
+1172    M
+Name: zone, dtype: object"
+1756,1,Retail,R-1
+3201,1,Service,C-S
+1674,1,Retail,R-2
+1780,1,Retail,"1172    M
+1172    M
+Name: zone, dtype: object"
+6503,1,Other,O
+1696,1,Service,C-T
+6237,1,Downtown Association,R-2
+15953,1,Service,R-4
+7415,1,Service,
+5601,1,Rental,R-2
+5664,1,Rental,C-D
+4840,1,Retail,R-2
+17049,1,Service,R-1
+5567,1,Rental,R-2
+9113,1,Rental,R-2
+3746,1,Rental,R-2
+1414,1,Rental,C-D
+5664,1,Rental,O
+6169,1,Service,C-S
+15953,1,Retail,R-2
+4238,1,Service,C-T
+5869,1,Retail,R-1
+7583,1,Downtown Association,O
+12757,1,Retail,R-4
+1889,1,Downtown Association,R-1
+7910,1,Other,R-1
+7237,1,Downtown Association,C-D
+5852,1,Downtown Association,PF
+5595,1,Rental,C-T
+1518,1,Retail,R-2
+6237,1,Service,R-1
+4138,1,Retail,C-N
+5608,1,Rental,R-2
+3879,1,Downtown Association,O
+5613,1,Rental,C-R
+3598,1,Service,C-R
+5656,1,Rental,C-S
+5658,1,Rental,C-D
+9290,1,Rental,C-S
+9794,1,Rental,O
+6883,1,Rental,R-2
+5573,1,Rental,R-1
+5649,1,Rental,O
+5655,1,Rental,R-1
+9206,1,Rental,C-S
+5518,1,Rental,C-S
+5252,1,Service,R-1
+7148,1,Service,O
+5624,1,Rental,O
+7196,1,Service,C-S
+1484,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+15953,1,Service,C-R
+6231,1,Service,C-S
+3817,1,Service,O
+2878,1,Downtown Association,R-1
+5482,1,Rental,C-D
+3646,1,Rental,O
+5109,1,Retail,
+8974,1,,R-1
+4017,1,Retail,O
+1281,1,Service,
+1675,1,Service,C-D
+5663,1,Rental,C-D
+5952,1,Rental,R-2
+4312,1,Downtown Association,R-2
+3171,1,Service,O
+5686,1,Rental,R-1
+4875,1,Service,C-D
+6425,1,Downtown Association,C-R
+9113,1,Rental,R-1
+699,1,Service,
+10900,1,Service,C-D
+5627,1,Rental,R-3
+4320,1,Service,C-S
+9206,1,Rental,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+7596,1,Retail,C-R
+9087,1,Rental,R-1
+2369,1,Service,C-S
+4314,1,Downtown Association,C-S
+5991,1,Service,C-D
+5617,1,Rental,C-D
+3419,1,Rental,C-S
+13577,1,Downtown Association,O
+9095,1,Rental,C-R
+17049,1,Service,C-D
+10082,1,Downtown Association,O
+3647,1,Service,O
+6362,1,Service,C-R
+5537,1,Service,C-S
+4152,1,Downtown Association,C-D
+2096,1,Service,R-2
+7884,1,Service,O
+4896,1,Retail,R-4
+12397,1,Rental,R-3
+5651,1,Rental,R-4
+6141,1,Service,C-C
+4138,1,Service,M
+3341,1,Retail,C-D
+3171,1,Downtown Association,C-S
+3590,1,Downtown Association,C-S
+2957,1,Downtown Association,
+9522,1,Downtown Association,PF
+7344,1,Service,C-D
+6415,1,Service,R-2
+4727,1,Retail,R-1
+6077,1,Service,C-R
+9528,1,Downtown Association,O
+4640,1,Rental,R-1
+13467,1,Retail,C-S
+11220,1,Retail,R-1
+2340,1,Retail,R-1
+7070,1,Retail,R-1
+5601,1,Retail,
+7107,1,Service,C-C
+12682,1,Downtown Association,C-S
+9319,1,Service,R-1
+7092,1,Service,O
+12911,1,Service,C-N
+4993,1,Retail,C-N
+4461,1,Service,C-D
+2452,1,Service,C-D
+6413,1,Service,C-R
+12687,1,Service,R-1
+5586,1,Rental,R-3
+6364,1,Service,R-1
+11355,1,Downtown Association,C-T
+6316,1,Service,C/OS
+5651,1,Rental,O
+11768,1,Service,C-D
+9465,1,Downtown Association,C-D
+5610,1,Rental,O
+3803,1,Service,C-D
+5663,1,Rental,O
+5651,1,Rental,M
+8074,1,Service,C-D
+17049,1,Service,R-1
+6114,1,Service,O
+1326,1,Service,R-1
+5348,1,Service,C-S
+5574,1,Service,R-2
+5636,1,Service,R-2
+1417,1,Service,C-S
+6035,1,Rental,R-1
+5694,1,Service,O
+7899,1,Service,C-R
+4565,1,Service,R-4
+6380,1,Retail,
+7735,1,Service,C-D
+5460,1,Service,R-1
+4467,1,Service,R-4
+7714,1,Service,R-1
+247,1,Service,R-2
+3516,1,Service,C-D
+8942,1,Service,R-1
+3293,1,Service,R-1
+14642,1,Retail,R-1
+7147,1,Service,O
+12969,1,Other,R-1
+11650,1,Service,R-1
+5988,1,Rental,C-N
+3824,1,Retail,O
+8889,1,Service,M
+5657,1,Rental,C-D
+4875,1,Retail,C-S
+2642,1,Service,C-S
+5686,1,Rental,O
+6240,1,Service,C-D
+8448,1,Retail,
+6379,1,Other,C-S
+5874,1,Downtown Association,R-1
+7806,1,Service,R-1
+7906,1,Service,C-D
+3768,1,Service,C-T
+12390,1,Rental,C-S
+5650,1,Rental,C-N
+12389,1,Rental,R-1
+9185,1,Rental,R-4
+1338,1,Downtown Association,C-S
+10258,1,Service,O
+11158,1,Service,R-3
+3373,1,Service,O
+4013,1,Retail,R-4
+4361,1,Service,R-1
+5741,1,Downtown Association,O
+8835,1,Service,C-D
+1781,1,Downtown Association,R-2
+9757,1,Service,R-3
+2379,1,Retail,C-S
+7804,1,Service,R-1
+1452,1,Service,O
+6602,1,Service,R-1
+2026,1,Service,R-2
+2304,1,Retail,R-1
+1900,1,Service,"806    M
+806    M
+Name: zone, dtype: object"
+7933,1,Service,R-1
+4070,1,Downtown Association,R-2
+2970,1,Service,O
+6896,1,Service,C-S
+8067,1,Service,O
+9241,1,Retail,R-2
+11003,1,Service,C-S
+7714,1,Service,R-2
+15953,1,Retail,R-1
+6351,1,Service,R-1
+3957,1,Retail,R-2
+5754,1,Service,R-1
+6490,1,Service,R-3
+1802,1,Service,R-2
+14117,1,Service,R-1
+4634,1,Retail,R-1
+850,1,Service,R-3
+10075,1,Service,C-R
+6669,1,Downtown Association,C-D
+2747,1,Rental,R-1
+12384,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+8493,1,Other,C-D
+4040,1,Other,R-3
+3787,1,Service,R-1
+1764,1,Retail,R-2
+5999,1,Service,C-D
+3884,1,Service,C-S
+1905,1,Retail,R-1
+3366,1,Service,R-2
+686,1,Retail,R-3
+13551,1,Service,C-S
+10839,1,Downtown Association,C-R
+5064,1,Retail,C-S
+5732,1,Service,R-1
+6015,1,Retail,O
+1281,1,Service,R-4
+7448,1,Service,R-1
+9205,1,Rental,R-4
+9240,1,Retail,R-2
+7262,1,Service,O
+5638,1,Rental,R-2
+12361,1,Downtown Association,R-1
+6352,1,Service,C-S
+8347,1,Downtown Association,R-1
+363,1,Service,R-1
+6524,1,Service,R-1
+7654,1,Service,O
+8165,1,Retail,R-1
+7986,1,Service,R-1
+3334,1,Service,R-1
+4242,1,Service,R-4
+11546,1,Service,R-4
+6820,1,Service,C-D
+3877,1,Service,R-3
+9638,1,Service,O
+3697,1,Service,R-2
+5694,1,Retail,C-C
+2290,1,Downtown Association,C-S
+2296,1,Service,C-D
+1066,1,Service,R-3
+2431,1,Service,C-N
+5217,1,Service,R-4
+2607,1,Service,R-4
+521,1,Service,R-1
+15588,1,Service,C-D
+16683,1,Service,C-S
+11052,1,Retail,R-4
+8259,1,Retail,R-2
+15953,1,Retail,R-3
+9198,1,Rental,R-2
+5922,1,Rental,R-2
+6708,1,Service,C-S
+7709,1,Service,O
+7289,1,Service,C-C
+1261,1,,
+12348,1,Rental,R-1
+4882,1,Downtown Association,C-D
+7527,1,Downtown Association,R-2
+3978,1,Retail,
+7427,1,Retail,R-3
+5651,1,Rental,R-1
+3836,1,Downtown Association,R-4
+5960,1,Service,R-4
+11187,1,Service,R-3
+7716,1,Downtown Association,C-S
+6996,1,Downtown Association,R-1
+5483,1,Service,R-3
+5601,1,Rental,C-D
+5694,1,Other,C-D
+5291,1,Service,O
+5922,1,Other,R-1
+11914,1,Downtown Association,R-1
+11817,1,Downtown Association,C-T
+15953,1,Downtown Association,R-1
+8743,1,Downtown Association,O
+3831,1,Service,C-S
+4502,1,Other,R-2
+11935,1,Service,R-3
+5658,1,Service,R-2
+5686,1,Service,R-1
+5608,1,Service,R-1
+3467,1,Service,C-S
+11817,1,Service,
+7882,1,Service,
+7434,1,Downtown Association,R-1
+5663,1,Rental,R-1
+7092,1,Service,R-1
+7128,1,Rental,C-D
+4713,1,Downtown Association,R-2
+4094,1,Service,R-3
+7714,1,Service,R-3
+5519,1,Downtown Association,R-2
+13031,1,Service,O
+5181,1,Downtown Association,O
+5627,1,Rental,R-2
+5699,1,Service,O
+8507,1,Service,R-4
+1546,1,Rental,C-D
+12962,1,Service,C-D
+8225,1,Service,C-T
+5652,1,Rental,O
+5643,1,Rental,O
+5167,1,Other,C-R
+9150,1,Rental,C-D
+6008,1,Service,R-2
+6798,1,Service,
+9883,1,Other,C-S
+15953,1,Downtown Association,R-2
+5169,1,Retail,C-S
+14857,1,Retail,R-4
+2387,1,Service,R-1
+5648,1,Rental,R-1
+295,1,Retail,C-S
+5349,1,Retail,R-1
+1710,1,Retail,R-1
+7384,1,Service,
+4853,1,Downtown Association,C-D
+15953,1,Other,R-2
+15953,1,Downtown Association,R-3
+14297,1,Service,M
+3653,1,,R-1
+5022,1,Downtown Association,R-1
+5050,1,,C/OS
+4565,1,Service,R-1
+7889,1,Service,C/OS
+3888,1,Service,R-2
+3762,1,Downtown Association,C-S
+3823,1,Service,C-S
+17779,1,Service,R-4
+7531,1,Service,C-C
+5628,1,Rental,C-R
+9185,1,Rental,R-1
+11108,1,Service,R-3
+8326,1,Rental,R-4
+5617,1,Rental,R-3
+5837,1,Service,C-D
+5629,1,Rental,R-1
+15953,1,Service,R-1
+1413,1,Rental,C-D
+15953,1,Retail,R-1
+4279,1,Retail,C-D
+4537,1,Service,R-2
+11781,1,Downtown Association,R-1
+7021,1,Retail,O
+11812,1,Downtown Association,C-S
+2639,1,Downtown Association,R-1
+6099,1,Service,C-R
+5019,1,Service,R-3
+7225,1,Service,R-1
+8310,1,Service,C-R
+7856,1,Retail,C-R
+7456,1,Retail,C-D
+12271,1,Rental,M
+4872,1,Service,C-D
+5015,1,,C-T
+6321,1,Service,R-1
+15953,1,Rental,R-2
+3405,1,Service,R-1
+2808,1,Service,R-3
+3110,1,Service,R-3
+6170,1,Downtown Association,R-1
+5994,1,Service,O
+6356,1,Downtown Association,C-S
+13122,1,Service,O
+5650,1,Rental,R-1
+6135,1,Downtown Association,R-1
+12398,1,Rental,R-2
+6721,1,Downtown Association,C-R
+6196,1,Service,O
+6734,1,Downtown Association,R-1
+12406,1,Rental,R-1
+5627,1,Rental,R-1
+3957,1,Service,O
+5063,1,Service,R-2
+6027,1,Downtown Association,R-1
+5622,1,Rental,R-1
+11136,1,Service,C-D
+5655,1,Rental,C-D
+1679,1,Service,R-3
+7006,1,Retail,R-2
+3362,1,Service,R-1
+10094,1,Service,R-1
+12797,1,Retail,R-1
+6911,1,Other,R-1
+8018,1,Service,O
+5608,1,Rental,O
+4609,1,Retail,O
+11518,1,Retail,R-1
+4874,1,Retail,PF
+3193,1,Service,R-1
+11360,1,Service,R-4
+2097,1,Service,C-S
+5880,1,Service,C-S
+15222,1,Retail,M
+4874,1,Retail,R-3
+4173,1,Service,R-4
+2576,1,Retail,C-D
+15953,1,Retail,C-S
+5651,1,Rental,C-S
+11266,1,Retail,R-2
+14212,1,Service,R-1
+4181,1,Service,R-1
+10024,1,Retail,M
+7244,1,Service,R-1
+8583,1,Service,C-S
+3198,1,Downtown Association,R-2
+16683,1,Service,C-S
+5644,1,Rental,R-4
+7121,1,Downtown Association,R-1
+5606,1,Rental,C-D
+4732,1,Service,C-S
+14792,1,Service,M
+5656,1,Rental,C-D
+4538,1,Service,C-S
+9072,1,Service,M
+14184,1,Service,C-D
+2394,1,Retail,R-4
+6611,1,Service,R-2
+10458,1,Retail,R-2
+247,1,Downtown Association,R-1
+4910,1,Other,C-D
+5651,1,Rental,C-D
+247,1,Service,O
+5662,1,Rental,R-4
+5624,1,Service,O
+6810,1,Retail,R-3
+8780,1,Service,O
+7643,1,Service,R-4
+5642,1,Rental,R-4
+5635,1,Rental,C-S
+12313,1,Rental,C-D
+5651,1,Rental,
+10040,1,Downtown Association,R-4
+3006,1,Service,R-2
+7700,1,Service,C-S
+10632,1,Other,C-S
+12608,1,Service,C-N
+3164,1,Downtown Association,C-D
+6933,1,Service,C-T
+5622,1,Service,O
+12392,1,Rental,O
+3307,1,Rental,R-1
+5638,1,Rental,C-R
+5651,1,Rental,C-C
+13561,1,Service,C-S
+13107,1,Downtown Association,R-1
+5623,1,Rental,C-S
+1233,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+11180,1,Retail,C-S
+9011,1,Service,R-1
+3717,1,Service,C-D
+9886,1,Service,C-S
+12400,1,Rental,R-1
+2383,1,Retail,R-1
+3923,1,Downtown Association,M
+4187,1,Other,R-1
+5651,1,Rental,C-D
+6345,1,Service,R-1
+1100,1,Retail,R-1
+2103,1,Retail,O
+1876,1,Service,C-R
+6302,1,Other,R-2
+9095,1,Rental,R-2
+6344,1,Service,R-3
+8374,1,Rental,R-2
+11296,1,Service,C-D
+5686,1,Rental,R-1
+5665,1,Rental,C-C
+6475,1,Retail,C-S
+3389,1,Rental,O
+5313,1,Rental,C-S
+3783,1,Service,C-R
+6292,1,Service,R-2
+12138,1,Downtown Association,R-1
+15953,1,Rental,
+6173,1,Service,R-1
+7240,1,Service,R-1
+10067,1,Service,R-2
+5925,1,Service,C-S
+6086,1,Downtown Association,"806    M
+806    M
+Name: zone, dtype: object"
+15953,1,Downtown Association,C-T
+6392,1,Service,C-R
+5650,1,Rental,C-N
+5937,1,Rental,C-C
+3405,1,Rental,C-R
+5649,1,Rental,R-2
+12330,1,Service,R-1
+7120,1,Service,R-1
+4921,1,Service,R-1
+8739,1,Downtown Association,R-3
+5665,1,Rental,C-S
+10587,1,Service,R-1
+5638,1,Rental,R-1
+15953,1,Service,R-1
+6463,1,Rental,R-3
+9607,1,Service,R-1
+5649,1,Rental,O
+11096,1,Service,O
+12403,1,Rental,R-2
+8340,1,Downtown Association,C-D
+14492,1,Downtown Association,C-C
+10500,1,Rental,R-1
+4895,1,Service,C-S
+8968,1,Rental,C-D
+7793,1,Rental,C-C
+14479,1,Service,C-S
+5992,1,,C-D
+6506,1,Service,C-S
+5202,1,Service,R-3
+5512,1,Service,R-1
+4040,1,Rental,C-C
+3076,1,Downtown Association,R-1
+3871,1,Service,C-S
+3283,1,Downtown Association,BP
+3366,1,,C-N
+8149,1,Service,C-S
+2649,1,Service,R-2
+6243,1,Retail,M
+9149,1,Rental,R-2
+1190,1,Rental,C-C
+15983,1,Service,C-S
+10489,1,Service,R-1
+11122,1,Service,R-2
+8991,1,Service,C-N
+1159,1,Rental,R-2
+5210,1,Service,R-4
+5027,1,Rental,R-2
+8186,1,Rental,C-S
+9142,1,Rental,O
+5510,1,Service,R-4
+7603,1,Service,R-1
+12966,1,Service,C-C
+6447,1,Service,C-S
+10632,1,Service,R-1
+7813,1,Service,O
+7454,1,Service,R-2
+1823,1,Service,R-1
+5628,1,Rental,R-2
+7163,1,Rental,C-S
+6820,1,Service,M
+1028,1,Service,R-4
+5652,1,Rental,R-1
+5656,1,Rental,R-4
+5652,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+5607,1,Rental,BP
+3626,1,Rental,O
+5617,1,Rental,R-2
+8036,1,Rental,C-C
+12412,1,Rental,C-T
+12400,1,Rental,R-2
+5656,1,Rental,M
+4810,1,Rental,C-D
+12393,1,Rental,R-2
+5663,1,Rental,M
+8861,1,Service,
+5608,1,Rental,C-S
+12410,1,Rental,C-R
+5649,1,Rental,R-4
+4336,1,Hotel,C-T
+5271,1,,O
+12398,1,Rental,R-3
+5610,1,Rental,O
+14479,1,Service,C-S
+11895,1,Downtown Association,R-1
+1450,1,Rental,R-1
+2073,1,Rental,R-2
+5585,1,Rental,R-4
+5621,1,Rental,C-R
+11201,1,Service,O
+5656,1,Rental,R-1
+16318,1,Service,C-D
+3436,1,Service,R-3
+7965,1,Service,C-C
+5657,1,Rental,R-4
+4846,1,Service,O
+11216,1,Rental,O
+10268,1,Service,C-C
+5326,1,Service,M
+6909,1,Rental,C-S
+2224,1,Rental,R-1
+9128,1,Rental,R-4
+13396,1,Service,
+5015,1,Rental,C-D
+9142,1,Rental,O
+3485,1,Retail,R-3
+9170,1,Rental,R-1
+5623,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+5634,1,Rental,C-R
+4060,1,Service,R-1
+4636,1,Rental,O
+9731,1,Service,C-S
+9303,1,Service,R-2
+3454,1,Downtown Association,C-R
+5664,1,Rental,R-1
+2072,1,Rental,C-D
+11865,1,Service,C-S
+7800,1,Rental,R-2
+10383,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+11049,1,Downtown Association,BP
+5831,1,Rental,R-4
+3669,1,Service,PF
+5610,1,Rental,C-N
+10605,1,Other,O
+11403,1,Service,"806    M
+806    M
+Name: zone, dtype: object"
+10233,1,Retail,C-S
+15953,1,Downtown Association,O
+7934,1,Downtown Association,R-2
+12406,1,Rental,C-S
+4691,1,Other,R-1
+5686,1,Service,C/OS
+6729,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+8077,1,,O
+5686,1,,R-1
+5501,1,Rental,C-D
+5628,1,Rental,C-S
+4628,1,Downtown Association,M
+520,1,Service,R-2
+15953,1,Retail,C-T
+5650,1,Rental,C-S
+7735,1,Other,O
+1452,1,Downtown Association,R-3
+6636,1,Service,
+6523,1,Downtown Association,C-S
+5610,1,Rental,O
+9206,1,Rental,C-N
+2849,1,Other,R-2
+2283,1,Retail,C-D
+8707,1,Retail,C-C
+7559,1,Retail,M
+9150,1,Rental,C-D
+6362,1,Downtown Association,C-D
+5230,1,,C-D
+6860,1,Service,C-R
+5666,1,Rental,C/OS
+5573,1,Rental,C-N
+4713,1,Rental,O
+3258,1,,C-R
+5628,1,Rental,C-R
+12414,1,Rental,R-2
+7804,1,Rental,R-1
+10073,1,Service,O
+5427,1,Rental,R-1
+12299,1,Rental,R-1
+4346,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+7451,1,Retail,R-3
+8864,1,Service,R-2
+14308,1,Service,R-1
+3299,1,Service,R-4
+1646,1,Service,C-T
+5629,1,Rental,
+3101,1,Rental,O
+5629,1,Rental,
+1476,1,Rental,O
+2368,1,Service,R-2
+15953,1,Service,C-S
+12393,1,Rental,R-1
+6357,1,,R-1
+7794,1,Rental,C-S
+7276,1,Service,C-S
+5657,1,Rental,R-1
+16683,1,Service,R-1
+1445,1,Rental,
+9149,1,Rental,
+5686,1,Rental,R-1
+12773,1,Downtown Association,R-1
+7911,1,Service,C-S
+8009,1,Retail,R-1
+9207,1,Rental,O
+13862,1,Service,BP
+3879,1,,O
+6553,1,Service,R-2
+3408,1,Other,R-3
+2295,1,Service,R-1
+11199,1,Service,R-1
+7115,1,Rental,O
+1039,1,Retail,C-R
+13852,1,Other,C-C
+6146,1,Downtown Association,O
+8606,1,,R-4
+4369,1,Service,C-S
+3442,1,Service,C-D
+6316,1,Service,C-D
+6798,1,Service,R-1
+7665,1,Retail,C-D
+6061,1,Service,R-1
+5140,1,Service,O
+2424,1,Rental,R-4
+4238,1,Other,C-S
+5606,1,Rental,R-1
+5655,1,Rental,C-S
+3983,1,Service,O
+3150,1,Service,R-1
+15953,1,Rental,C-S
+1445,1,Rental,C-S
+4718,1,Service,C-S
+3467,1,Rental,R-3
+6401,1,Rental,C-D
+3062,1,Service,R-1
+12404,1,Rental,R-2
+5657,1,Rental,
+5622,1,Rental,R-1
+12414,1,Rental,R-1
+3298,1,Service,R-2
+5628,1,Rental,R-1
+4326,1,Rental,R-2
+14521,1,Service,R-1
+8092,1,Rental,C-S
+15953,1,Retail,
+6035,1,Service,R-1
+1128,1,Downtown Association,R-1
+13880,1,Service,O
+10269,1,Service,R-1
+5840,1,Other,O
+8023,1,Downtown Association,O
+14857,1,Service,C/OS
+5645,1,Rental,R-1
+5609,1,Rental,R-4
+5656,1,Rental,R-1
+4033,1,Service,R-1
+12738,1,Service,R-4
+12138,1,Service,C-R
+7448,1,Service,R-4
+14522,1,Retail,C-S
+7953,1,Service,O
+3492,1,Service,C-D
+13611,1,Service,O
+5977,1,Retail,M
+1317,1,Service,C-D
+11935,1,Downtown Association,C-C
+6533,1,Service,C-D
+7469,1,Service,R-2
+6751,1,Service,R-2
+14659,1,Service,R-1
+1248,1,Service,O
+12090,1,Service,M
+1975,1,Retail,C-R
+6800,1,Service,C-D
+6246,1,Service,R-1
+5656,1,Rental,C-S
+3578,1,Downtown Association,R-4
+6749,1,Service,BP
+10777,1,,R-1
+1889,1,Rental,R-3
+6419,1,Retail,R-4
+5636,1,Rental,C-S
+5657,1,Rental,C-D
+5656,1,Rental,C-S
+5047,1,Rental,R-2
+5652,1,Downtown Association,O
+9113,1,Rental,C-R
+13819,1,Service,C-C
+3424,1,Downtown Association,C-S
+7633,1,Retail,C-S
+11234,1,Other,C-S
+5655,1,Rental,O
+15953,1,Rental,R-1
+5610,1,Rental,C-S
+2075,1,Retail,R-2
+1843,1,Service,R-3
+5177,1,Service,C-D
+4963,1,Retail,R-1
+8443,1,Service,C-R
+8385,1,Retail,C-S
+3095,1,Downtown Association,O
+8004,1,Downtown Association,
+7821,1,Service,M
+10128,1,Service,C-R
+1008,1,Retail,
+2858,1,Service,C-D
+14249,1,Service,C-S
+10493,1,Rental,C-S
+5615,1,Rental,
+6748,1,Retail,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+5694,1,Other,C-D
+8240,1,Other,R-2
+9589,1,Service,C-D
+9198,1,Rental,O
+13443,1,Other,C-D
+6400,1,Other,"1172    M
+1172    M
+Name: zone, dtype: object"
+8137,1,Service,C-C
+6503,1,Service,C/OS
+8395,1,Rental,O
+6146,1,Retail,C-N
+2081,1,Service,C-S
+8441,1,Downtown Association,C-S
+7246,1,Downtown Association,C-C
+7822,1,Retail,R-2
+1631,1,Service,R-2
+1016,1,Service,R-1
+1318,1,Downtown Association,R-2
+5663,1,Rental,R-2
+9138,1,Downtown Association,
+5379,1,Service,R-2
+13482,1,Service,C-S
+4829,1,Retail,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+7196,1,Service,O
+5476,1,Service,R-2
+5776,1,Service,C-S
+7506,1,Service,C-C
+13563,1,Service,C-D
+3663,1,Retail,R-4
+2526,1,Service,C-S
+4124,1,Service,R-4
+5764,1,Retail,R-1
+5652,1,Rental,R-1
+12392,1,Rental,C-R
+5664,1,Rental,O
+8249,1,,R-1
+12321,1,Rental,R-4
+722,1,Service,O
+10833,1,Retail,R-1
+3426,1,Rental,R-2
+12413,1,Rental,R-3
+9772,1,Service,R-1
+8252,1,Service,R-1
+5648,1,Rental,C-D
+3746,1,Rental,R-2
+10605,1,Service,O
+15953,1,Service,R-2
+14308,1,Downtown Association,M
+5655,1,Rental,C-D
+12404,1,Rental,BP
+11250,1,Downtown Association,R-2
+5650,1,Rental,O
+12411,1,Rental,C-S
+5662,1,Rental,C-S
+5519,1,Rental,M
+10475,1,Rental,R-1
+4930,1,Rental,R-1
+5657,1,Rental,R-4
+9151,1,Rental,C-C
+5684,1,Rental,C-R
+12410,1,Rental,C-S
+18144,1,Service,R-2
+2970,1,Retail,R-1
+9185,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+9149,1,Rental,R-3
+7874,1,Downtown Association,R-1
+5977,1,Rental,M
+4215,1,Downtown Association,
+9150,1,Rental,R-2
+3228,1,Service,R-1
+3228,1,Service,C-S
+8037,1,Service,R-1
+8541,1,Retail,R-1
+6964,1,Service,R-2
+9732,1,Service,R-1
+5636,1,Rental,C-C
+1373,1,Rental,M
+5666,1,Rental,C-S
+4643,1,Retail,
+9170,1,Rental,R-1
+5652,1,Rental,M
+12403,1,Rental,O
+12405,1,Rental,M
+1498,1,Rental,
+5070,1,,C-D
+2299,1,Retail,C-D
+3653,1,Rental,R-1
+6385,1,Retail,C-T
+10416,1,Retail,O
+5553,1,Rental,C-S
+14653,1,Other,"1172    M
+1172    M
+Name: zone, dtype: object"
+1524,1,Rental,R-4
+5008,1,Downtown Association,R-1
+5649,1,Rental,R-4
+12468,1,Service,R-1
+5553,1,Rental,R-2
+7164,1,Service,O
+3885,1,Service,C-D
+11210,1,Service,
+10236,1,Other,R-1
+5838,1,Service,R-1
+13761,1,Downtown Association,C-R
+5572,1,Downtown Association,R-3
+7359,1,Service,R-2
+7084,1,Service,C-D
+6659,1,Service,R-1
+12396,1,Rental,R-2
+6751,1,Service,R-1
+15953,1,Service,R-2
+12585,1,Service,R-2
+34215,1,Downtown Association,O
+9170,1,Rental,O
+5133,1,Service,C/OS
+4628,1,Downtown Association,C-D
+4542,1,Service,R-3
+4745,1,Service,R-2
+5298,1,Service,C-C
+10422,1,Service,C-C
+6127,1,Retail,C-D
+5623,1,Rental,C-S
+1725,1,Service,M
+7331,1,Service,C-R
+6142,1,Service,R-1
+1249,1,Service,R-1
+3370,1,Service,R-1
+1506,1,Retail,R-2
+13426,1,Service,R-1
+4963,1,Retail,R-1
+7037,1,Retail,C-C
+727,1,Retail,R-2
+1704,1,Retail,R-1
+6512,1,Service,PF
+2264,1,Retail,
+4272,1,Service,R-1
+3705,1,Service,R-1
+4139,1,Service,C-S
+5672,1,Rental,C-R
+10586,1,Service,C-R
+5638,1,Rental,R-2
+8065,1,Downtown Association,R-1
+5634,1,Rental,R-1
+9689,1,Service,C-R
+9243,1,Downtown Association,R-1
+9345,1,Service,R-1
+15588,1,Rental,O
+3082,1,Downtown Association,R-1
+1410,1,Rental,R-3
+2696,1,Service,R-1
+7014,1,Service,R-4
+7974,1,Service,
+952,1,Service,R-2
+3859,1,Service,C-S
+5349,1,Service,C-D
+3650,1,Other,C-S
+7293,1,Other,R-1
+7923,1,Service,R-2
+2597,1,Service,O
+2831,1,Service,R-4
+13457,1,Service,R-1
+6173,1,Service,R-2
+7314,1,Retail,R-1
+4320,1,Rental,C-S
+3263,1,Rental,R-1
+3689,1,Rental,O
+12313,1,Rental,BP
+4998,1,Retail,C-T
+4797,1,Service,C-R
+6588,1,Service,C-D
+15953,1,Retail,C-S
+5621,1,Rental,C-D
+1424,1,Rental,R-4
+9149,1,Rental,O
+3878,1,Service,C-D
+2255,1,Downtown Association,M
+5272,1,,O
+7547,1,Retail,C-D
+6232,1,Service,C/OS
+6201,1,Service,R-3
+11627,1,Other,R-1
+1458,1,Retail,R-1
+3660,1,Retail,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+4047,1,,R-1
+7947,1,Service,R-1
+15953,1,Retail,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+5223,1,Service,R-4
+691,1,Retail,R-1
+4727,1,Service,C-D
+4886,1,Downtown Association,O
+10804,1,Downtown Association,O
+5876,1,Service,C-D
+6259,1,Service,R-1
+3444,1,Service,C-S
+5638,1,Rental,R-1
+1801,1,Service,R-1
+4187,1,Service,R-1
+6937,1,Service,C-S
+7834,1,Service,R-2
+7435,1,Service,R-1
+5621,1,Rental,R-4
+2057,1,Rental,R-1
+5663,1,Rental,C-R
+4896,1,Service,R-2
+5651,1,Rental,R-2
+5665,1,Rental,C-S
+1410,1,Service,C-R
+5439,1,Service,C-N
+2383,1,Service,R-1
+12356,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+5623,1,Rental,C-S
+12413,1,Rental,R-1
+5655,1,Rental,C-S
+2933,1,Service,C-S
+3223,1,,
+10564,1,Other,C-S
+6196,1,Retail,O
+5651,1,Rental,C-S
+12391,1,Rental,R-3
+11217,1,Service,C-R
+9319,1,Service,C-D
+1967,1,Rental,C-D
+6681,1,Service,C-S
+10153,1,Service,C-S
+12363,1,Rental,C-S
+12393,1,Rental,C-D
+12413,1,Rental,C-S
+5652,1,Rental,O
+1452,1,Rental,C-R
+11173,1,,C-S
+9110,1,Rental,C-R
+2668,1,Downtown Association,PF
+8193,1,Retail,C-S
+6240,1,Downtown Association,R-2
+5959,1,Service,C-S
+5666,1,Rental,O
+5614,1,Rental,R-1
+1800,1,Service,C-D
+6596,1,Service,R-1
+5622,1,Rental,R-1
+3514,1,Service,C-D
+9149,1,Rental,O
+6551,1,Other,C-D
+9211,1,Rental,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+9198,1,Rental,C-D
+10598,1,Retail,R-2
+6106,1,Service,R-2
+6503,1,Retail,C-T
+8567,1,Service,O
+4721,1,Service,R-2
+9711,1,Service,O
+3517,1,Rental,R-1
+9207,1,Rental,R-2
+5663,1,Rental,C-S
+12321,1,Rental,
+12414,1,Rental,C-D
+8967,1,Service,
+7190,1,Service,C-S
+6615,1,Service,C-S
+8889,1,Service,C-S
+10457,1,Service,C-S
+12410,1,Rental,O
+12414,1,Rental,R-2
+12363,1,Rental,R-2
+3916,1,Service,R-2
+13546,1,Service,C-T
+15953,1,Service,R-2
+6863,1,Downtown Association,
+7252,1,Service,R-1
+3957,1,Service,C-R
+9572,1,Service,R-3
+12482,1,Service,C-C
+9185,1,Rental,R-4
+5664,1,Rental,R-1
+11017,1,Service,R-1
+2963,1,Service,R-1
+7140,1,Service,R-1
+5855,1,Service,C-R
+7492,1,Service,C-S
+7492,1,Service,R-2
+6314,1,Service,R-1
+6240,1,Service,C-S
+10131,1,Service,C-R
+5658,1,Rental,C-R
+9149,1,Rental,C-R
+9086,1,Rental,R-1
+12652,1,Rental,R-2
+12104,1,Service,C-S
+4622,1,,R-2
+2990,1,Downtown Association,M
+12847,1,Service,R-4
+3437,1,Rental,R-1
+5651,1,Rental,R-3
+7394,1,Service,C-D
+12354,1,Downtown Association,R-1
+6720,1,Downtown Association,C-S
+7934,1,Rental,C-S
+12753,1,Service,R-1
+3594,1,Rental,R-1
+5651,1,Rental,C/OS
+3774,1,Service,R-1
+5622,1,Rental,O
+2250,1,Rental,C-D
+14756,1,Service,R-2
+5645,1,Rental,C-S
+2347,1,Rental,C-R
+14673,1,Service,C-S
+397,1,Service,
+12413,1,Rental,O
+3461,1,Service,C-D
+7415,1,Service,R-2
+2688,1,Service,M
+6084,1,,C/OS
+5882,1,Service,R-2
+4468,1,Retail,O
+5326,1,Downtown Association,R-1
+4279,1,Retail,BP
+8151,1,Service,C-D
+7827,1,Service,C-S
+6786,1,,C-D
+916,1,Retail,C-R
+6357,1,,
+5132,1,Retail,R-4
+455,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+5649,1,Rental,R-4
+6692,1,Service,R-1
+4003,1,Service,R-3
+5756,1,Service,R-1
+3279,1,,C/OS
+1767,1,Service,R-1
+5876,1,Service,R-2
+1220,1,Service,R-3
+9492,1,Service,R-2
+5161,1,Downtown Association,C-S
+6114,1,Retail,C-N
+1493,1,Other,R-2
+6146,1,Service,C-D
+5986,1,Service,
+4551,1,Service,R-2
+2603,1,Service,C-D
+3536,1,Service,O
+15403,1,Service,O
+8996,1,Service,C-D
+1389,1,Retail,O
+9652,1,Service,C-N
+7675,1,Service,R-1
+3858,1,Retail,C-C
+12413,1,Rental,R-1
+15222,1,Retail,R-1
+4901,1,Rental,C-S
+7358,1,Service,R-1
+5643,1,Rental,C-D
+7429,1,Service,R-3
+12955,1,Retail,M
+6215,1,Retail,C-S
+16683,1,Service,R-1
+6526,1,Service,
+4679,1,Service,R-1
+4523,1,Downtown Association,C-D
+6288,1,Other,C-S
+1597,1,Retail,C-C
+11108,1,Service,C-D
+10577,1,Downtown Association,C-S
+10177,1,Service,R-1
+6202,1,Service,C/OS
+5302,1,Service,"102    R-1
+102    R-1
+Name: zone, dtype: object"
+12405,1,Rental,C-T
+10738,1,Service,C-D
+5645,1,Rental,C/OS
+5652,1,Rental,R-1
+5929,1,Rental,R-1
+3501,1,Service,R-1
+7575,1,Service,R-2
+11384,1,Service,O
+9149,1,Rental,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+5547,1,Rental,C-D
+9113,1,Rental,R-2
+2275,1,Rental,R-3
+12363,1,Downtown Association,O
+1403,1,Service,R-1
+6392,1,Downtown Association,
+2677,1,Service,R-1
+4766,1,Service,M
+2467,1,Downtown Association,C-S
+5251,1,Service,O
+1451,1,Rental,R-1
+5904,1,,R-1
+6230,1,Service,R-2
+3173,1,Service,BP
+9170,1,Rental,R-1
+12432,1,Rental,R-2
+9214,1,Service,C-C
+5246,1,Service,"83    C-C
+83    C-C
+83    C-C
+Name: zone, dtype: object"
+4684,1,Other,R-1
+1507,1,Downtown Association,C-S
+4550,1,Service,C-R
+3205,1,,O
+15953,1,Rental,C-D
+5859,1,Service,O
+8004,1,Retail,R-1
+11355,1,Service,C-S
+3123,1,Other,C-R
+8039,1,Other,O
+12393,1,Rental,C-D
+5652,1,Rental,R-1
+10747,1,Retail,R-1
+9690,1,Retail,R-1
+4060,1,Service,R-2
+6169,1,Service,C-D
+2302,1,Downtown Association,O
+8465,1,Service,C-S
+5652,1,Rental,R-2
+2922,1,Downtown Association,R-1
+6203,1,Service,C/OS
+5621,1,Rental,C/OS
+5539,1,Rental,O
+9110,1,Rental,C-S
+5645,1,Rental,C-R
+5663,1,Rental,R-2
+18144,1,Service,O
+10228,1,Retail,R-1
+3864,1,Service,O
+9192,1,Service,C-R
+720,1,Service,R-1
+11296,1,Service,C-S
+4739,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+7162,1,Service,R-4
+5664,1,Rental,R-4
+1408,1,Rental,C-S
+6463,1,Service,
+5655,1,Rental,C-R
+12411,1,Rental,R-1
+12407,1,Rental,C-C
+12413,1,Rental,R-1
+5169,1,Service,R-3
+9484,1,Service,R-1
+5278,1,Retail,C-D
+3576,1,Service,R-1
+5999,1,Service,C-S
+5656,1,Rental,O
+2862,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+7940,1,Service,C-S
+7308,1,Retail,C-S
+7680,1,Retail,C-D
+5460,1,Service,M
+4137,1,Downtown Association,C-C
+6708,1,Service,C-N
+3223,1,Service,R-4
+937,1,Retail,R-2
+1112,1,Retail,C-R
+6526,1,Service,R-2
+5628,1,Rental,R-1
+8479,1,Downtown Association,C-S
+11843,1,Downtown Association,
+5335,1,Retail,C-C
+6303,1,Service,R-2
+6797,1,Service,O
+7209,1,Retail,O
+6692,1,Service,C-R
+757,1,Retail,C-R
+12351,1,Rental,M
+11929,1,Service,M
+5642,1,Rental,C-D
+3297,1,Service,R-4
+9198,1,Rental,C-D
+5636,1,Rental,R-3
+3006,1,Service,R-4
+14653,1,Retail,C-R
+251,1,Service,C-D
+3993,1,Service,R-1
+7009,1,Service,R-4
+4928,1,Service,R-1
+15222,1,Service,C-D
+5144,1,Service,R-1
+1662,1,Downtown Association,C-S
+4935,1,Retail,O
+9149,1,Rental,R-3
+2515,1,Service,O
+5657,1,Rental,C-D
+3906,1,Service,R-1
+5985,1,Service,R-2
+4643,1,Service,R-1
+15953,1,Other,R-2
+12414,1,Rental,PF
+4125,1,Downtown Association,C-T
+3853,1,Service,R-1
+4634,1,Service,C-D
+1914,1,Retail,R-1
+15953,1,Other,C-R
+14694,1,Retail,C-S
+7325,1,Service,C-D
+8011,1,Retail,C-T
+12608,1,Service,R-2
+13030,1,Downtown Association,R-1
+5740,1,Downtown Association,C-S
+7007,1,Service,C-D
+2460,1,Retail,C-S
+3010,1,Retail,C-R
+2677,1,Downtown Association,R-1
+5663,1,Rental,C-R
+10705,1,Service,C-C
+2319,1,Service,M
+8955,1,Downtown Association,C-S
+15953,1,Downtown Association,R-3
+5049,1,Other,R-2
+5573,1,Rental,R-2
+2470,1,Service,C-D
+3398,1,Service,C-N
+15953,1,Rental,
+2747,1,Downtown Association,C-D
+4809,1,Service,R-3
+1338,1,Rental,C-S
+3305,1,Service,R-1
+6960,1,Other,C-S
+6357,1,Retail,R-1
+6463,1,Service,O
+7791,1,Downtown Association,C-R
+5319,1,Other,R-1
+10472,1,Rental,R-3
+2547,1,Service,R-1
+5544,1,Rental,M
+5637,1,Service,R-1
+6821,1,Retail,PF
+1819,1,Retail,O
+7433,1,Service,R-1
+5638,1,Rental,R-1
+5601,1,Retail,R-1
+4021,1,Service,O
+7258,1,Downtown Association,C-T
+2401,1,Service,C-S
+8830,1,Retail,
+9555,1,Service,M
+3200,1,Service,R-1
+11864,1,Retail,C-C
+7723,1,Service,R-2
+1367,1,Service,C-D
+2247,1,Service,C-D
+9663,1,Downtown Association,C-S
+14218,1,Retail,C-D
+15222,1,Other,R-2
+18510,1,Service,R-2
+6362,1,Service,C-D
+3559,1,Service,
+5706,1,Service,C-R
+5645,1,Rental,
+5615,1,Rental,C-D
+5365,1,Retail,R-1
+5631,1,Rental,C-D
+11003,1,Service,R-1
+3537,1,Service,R-3
+3684,1,Service,O
+6310,1,Service,C-T
+14472,1,,R-1
+2815,1,Service,R-2
+160,1,Service,C-D
+7506,1,Service,C-T
+14035,1,Service,O
+5750,1,Service,C-R
+5918,1,Rental,O
+9358,1,Downtown Association,C-R
+5390,1,Service,C-R
+9205,1,Rental,C-D
+7954,1,Service,R-4
+4157,1,Service,C-D
+5644,1,Retail,"1172    M
+1172    M
+Name: zone, dtype: object"
+5218,1,Downtown Association,R-3
+2773,1,Service,C-D
+8035,1,Retail,R-1
+7713,1,Retail,
+10478,1,Rental,M
+3901,1,Retail,R-1
+12411,1,Rental,R-1
+5651,1,Rental,R-4
+5601,1,Rental,R-1
+3138,1,Retail,C-S
+9451,1,Retail,R-4
+5655,1,Rental,R-4
+2569,1,Service,C-R
+2387,1,Service,R-4
+11634,1,Retail,C-S
+6539,1,Retail,R-2
+6121,1,Downtown Association,R-2
+3783,1,Service,"102    R-1
+102    R-1
+Name: zone, dtype: object"
+15953,1,Service,R-4
+5979,1,Retail,R-1
+5629,1,Rental,
+5097,1,Downtown Association,O
+5706,1,Other,C-T
+1008,1,Rental,R-1
+15953,1,Downtown Association,R-1
+9122,1,Service,R-2
+4133,1,Downtown Association,BP
+14307,1,Service,C-D
+2715,1,Downtown Association,R-1
+6077,1,Retail,C-C
+4313,1,Service,R-4
+5655,1,Rental,C-D
+12057,1,Retail,O
+1765,1,Downtown Association,R-3
+3062,1,Retail,M
+8080,1,Retail,R-2
+8050,1,Other,C-S
+5652,1,Rental,R-1
+12952,1,Service,C-S
+15953,1,Downtown Association,R-1
+6924,1,Downtown Association,R-3
+7602,1,Service,C-D
+2213,1,Retail,C-D
+15953,1,Rental,M
+2317,1,Retail,PF
+5600,1,Service,R-1
+13877,1,Other,C-S
+15953,1,Retail,C-S
+5622,1,Rental,
+12413,1,Rental,R-1
+8267,1,Rental,C-D
+5699,1,Rental,R-1
+6084,1,Service,R-3
+6141,1,Downtown Association,C/OS
+12400,1,Rental,R-1
+12403,1,Rental,C-D
+8050,1,Service,PF
+4831,1,Service,C-C
+12410,1,Rental,O
+5655,1,Rental,C-R
+12407,1,Rental,R-3
+9185,1,Rental,M
+12397,1,Rental,C-D
+5663,1,Rental,C/OS
+5663,1,Rental,R-2
+8318,1,Rental,C-C
+15953,1,Service,R-1
+9205,1,Rental,C-S
+12412,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+5651,1,Rental,C-D
+5980,1,Rental,O
+14254,1,Downtown Association,"1172    M
+1172    M
+Name: zone, dtype: object"
+15953,1,Service,PF
+1725,1,Service,R-2
+15953,1,Service,R-2
+10139,1,Service,C-S
+5662,1,Rental,R-3
+12392,1,Rental,
+5634,1,Rental,R-3
+9796,1,Rental,C-D
+5662,1,Rental,R-3
+12412,1,Rental,O
+7714,1,Rental,C-D
+10410,1,Rental,R-4
+12399,1,Rental,
+7997,1,Downtown Association,R-3
+14651,1,Service,O
+5651,1,Rental,R-1
+9207,1,Rental,R-1
+3524,1,Service,R-4
+5231,1,Retail,O
+6625,1,Service,R-2
+4468,1,Service,R-2
+2367,1,Downtown Association,C-R
+15953,1,Downtown Association,
+8674,1,Service,C-S
+5110,1,Retail,C-N
+11355,1,Downtown Association,M
+5848,1,Service,R-1
+10118,1,Service,R-1
+1290,1,Retail,R-2
+6146,1,Service,
+6826,1,Retail,R-1
+6050,1,Retail,O
+4591,1,Downtown Association,O
+5652,1,Rental,C-S
+3228,1,,C-N
+8351,1,Other,
+11370,1,Retail,R-2
+3559,1,Service,C-S
+8756,1,Service,R-1
+6490,1,Service,R-3
+2983,1,Retail,R-1
+1261,1,Retail,
+1275,1,Retail,O
+1997,1,Rental,R-1
+9502,1,Service,
+4503,1,Service,R-2
+3269,1,Service,R-2
+12139,1,Service,C/OS
+6142,1,Other,R-1
+6834,1,Downtown Association,R-3
+13454,1,Service,R-2
+4004,1,Service,C-S
+7008,1,Retail,C-D
+3633,1,Service,R-1
+2081,1,Service,C-D
+5582,1,Rental,R-1
+5586,1,Service,C-D
+10486,1,Rental,R-2
+6736,1,Service,R-1
+3382,1,Service,O
+20336,1,Downtown Association,PF
+6890,1,Downtown Association,O
+7895,1,Service,
+4679,1,Service,O
+2926,1,Service,
+3734,1,Service,O
+6126,1,Rental,R-2
+3895,1,Retail,"1172    M
+1172    M
+Name: zone, dtype: object"
+5665,1,Rental,R-1
+7483,1,Downtown Association,O
+3080,1,Service,R-2
+8931,1,Service,R-1
+3865,1,Service,R-1
+1819,1,Service,C-S
+5686,1,Retail,R-3
+1421,1,Rental,R-3
+14478,1,Service,M
+8064,1,Rental,R-3
+7839,1,Rental,R-2
+9211,1,Rental,C-C
+5615,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+5634,1,Rental,"1172    M
+1172    M
+Name: zone, dtype: object"
+4395,1,Service,R-3
+5650,1,Rental,C-C
+8120,1,Rental,C-C
+15953,1,Rental,"83    C-C
+83    C-C
+83    C-C
+Name: zone, dtype: object"
+15953,1,Rental,R-1
+5657,1,Rental,C-R
+2817,1,Downtown Association,R-2
+7847,1,Retail,O
+4174,1,Service,C-D
+15588,1,Other,C-S
+11791,1,Downtown Association,R-2
+3275,1,Service,O
+7652,1,Service,O
+8612,1,Service,C-S
+7464,1,Retail,R-1
+5302,1,Downtown Association,C-D
+9722,1,Downtown Association,C-D
+9276,1,Service,BP
+4577,1,Downtown Association,C-D
+2530,1,Retail,R-1
+10223,1,Service,C-R
+10306,1,Downtown Association,R-1
+12410,1,Rental,R-1
+5655,1,Rental,PF
+9149,1,Rental,C-D
+7506,1,Service,O
+17414,1,Service,
+7772,1,Rental,C-D
+2081,1,Rental,C-R
+12403,1,Rental,R-1
+10255,1,Service,"1172    M
+1172    M
+Name: zone, dtype: object"
+5901,1,Retail,R-3
+3082,1,Service,R-3
+4201,1,Service,R-4
+10416,1,Rental,R-2
+5649,1,Rental,C-R
+6434,1,Service,C-R
+1557,1,,O
+9842,1,Service,C-D
+11563,1,Service,O
+5684,1,Rental,R-2
+5588,1,Rental,C-C
+15588,1,Service,C-D
+4391,1,Rental,C-R
+3933,1,Service,C-N
+6079,1,Other,R-1
+5652,1,Rental,R-1
+794,1,Retail,C-R
+7434,1,Service,R-1
+5553,1,Rental,R-1
+7962,1,Rental,R-2
+5595,1,Rental,R-1
+11634,1,Service,
+5645,1,Rental,R-2
+6238,1,Service,O
+6218,1,Retail,M
+6218,1,Retail,M
+4353,1,Service,R-3
+15953,1,Retail,O
+14350,1,Retail,C-D
+12411,1,Rental,C-R
+6357,1,Service,O
+2614,1,Service,R-1
+8708,1,Service,C-D
+982,1,Rental,C-D
+5721,1,Service,
+5629,1,Rental,R-1
+5662,1,Rental,R-3
+5651,1,Rental,C-D
+5683,1,Rental,R-1
+8354,1,Service,R-2
+9142,1,Rental,R-1
+5651,1,Rental,O
+11026,1,Retail,
+5650,1,Rental,C-S
+9113,1,Rental,C-D
+1443,1,Rental,O
+14492,1,Service,R-1
+5603,1,Rental,C-S
+5601,1,Rental,R-2
+9149,1,Rental,R-1
+12544,1,Rental,R-2
+11551,1,Service,R-1
+9205,1,Rental,C-S
+2002,1,Service,M
+3447,1,Service,C-N
+3625,1,Service,R-2
+6310,1,Retail,C-S
+12404,1,Rental,R-1
+2410,1,Service,M
+3999,1,Service,R-1
+4235,1,Service,R-1
+10968,1,Other,R-3
+5817,1,Retail,"396    R-1
+396    R-1
+Name: zone, dtype: object"
+9205,1,Rental,O
+1557,1,Service,C-S
+4264,1,Downtown Association,R-3
+5777,1,Service,R-1
+5944,1,Retail,C-S
+2103,1,Retail,R-1
+1233,1,Retail,C-D
+3661,1,Retail,R-1
+5617,1,Rental,
+7164,1,Rental,C-C
+1725,1,Service,C-D
+11168,1,Service,R-1
+5651,1,Rental,C-S
+2639,1,Service,R-1
+7560,1,Service,R-1
+5613,1,Rental,C-T
+6288,1,,R-1
+6707,1,Downtown Association,R-1
+3101,1,Rental,R-1
+8592,1,Downtown Association,R-1
+1127,1,Retail,R-1
+10513,1,Service,C-N
+3950,1,Downtown Association,R-1
+15335,1,Rental,R-1
+5652,1,Rental,R-1
+4161,1,Rental,C-T
+12407,1,Rental,R-1
+15953,1,Rental,R-1
+12482,1,Service,C-R
+5734,1,Other,PF
+5645,1,Rental,R-1
+5629,1,Rental,R-2
+1477,1,Rental,R-2
+5631,1,Rental,C-S
+8532,1,Service,R-3
+6757,1,Service,R-4
+10319,1,Service,O
+7357,1,Service,R-1
+6821,1,Retail,R-2
+9204,1,Service,R-2
+6526,1,Service,C-S
+7505,1,Retail,R-1
+642,1,Retail,R-4
+5663,1,Rental,R-1
+7107,1,Rental,C-C
+7107,1,Service,C-R
+10724,1,Rental,C-D
+9142,1,Rental,PF
+8485,1,Service,C-S
+3227,1,Downtown Association,R-3
+563,1,Retail,O
+11031,1,Downtown Association,R-4
+3125,1,Rental,R-1
+1404,1,Rental,O
+862,1,Service,M
+5957,1,Service,C-S
+1889,1,Retail,R-1
+9810,1,Service,"117    R-4
+117    R-4
+Name: zone, dtype: object"
+12300,1,Downtown Association,C-S
+3900,1,Service,C-S
+5252,1,Service,R-2
+5629,1,Rental,R-1
+7044,1,Downtown Association,C-D
+15953,1,Retail,R-1
+2219,1,Service,C-S
+14986,1,Service,R-1
+14096,1,Other,C-C
+19926,1,Downtown Association,C-S
+2250,1,Service,R-3
+2800,1,Service,C-T
+5344,1,Service,C-T
+7857,1,Retail,C-R
+14749,1,Downtown Association,C-S
+2933,1,Service,R-1
+14004,1,Service,C-C
+4124,1,Retail,R-3
+12144,1,Service,C-D
+6828,1,Retail,
+6909,1,Retail,
+3430,1,Service,
+12412,1,Rental,
+2081,1,Service,
+9149,1,Rental,
+2103,1,Retail,
+6692,1,Service,
+6425,1,Service,
+2215,1,Retail,
+5546,1,Downtown Association,
+5657,1,Rental,
+9095,1,Rental,
+5649,1,Rental,
+4720,1,Service,
+1424,1,Rental,
+15953,1,Retail,
+5656,1,Rental,
+14367,1,Retail,
+5663,1,Rental,
+6380,1,Service,
+5734,1,Downtown Association,
+4787,1,Downtown Association,
+3914,1,Service,
+6135,1,Service,
+1373,1,Service,
+4535,1,Service,
+7350,1,Service,
+9143,1,Rental,
+5553,1,Rental,
+8883,1,Service,
+15953,1,Retail,
+3684,1,Service,
+6246,1,Downtown Association,
+5482,1,Service,
+10615,1,Retail,
+5629,1,Rental,
+15953,1,Retail,
+5853,1,Other,
+5439,1,Downtown Association,
+3452,1,Downtown Association,
+8990,1,Downtown Association,
+4305,1,Service,
+5649,1,Rental,
+5728,1,Service,
+510,1,Service,
+7707,1,Service,
+5105,1,Retail,
+6681,1,Other,
+17779,1,Service,
+4551,1,Rental,
+8186,1,Downtown Association,
+10345,1,Service,
+2059,1,Downtown Association,
+3831,1,Service,
+3461,1,Service,
+6855,1,Service,
+6090,1,Service,
+4110,1,Service,
+5988,1,Service,
+626,1,Downtown Association,
+12407,1,Rental,
+5651,1,Rental,
+9198,1,Rental,
+2201,1,Service,
+1448,1,Rental,
+8112,1,Retail,
+7357,1,Rental,
+12392,1,Rental,
+9243,1,Service,
+6546,1,Service,
+6743,1,Retail,
+15953,1,Service,
+4020,1,Service,
+14600,1,Service,
+5655,1,Rental,
+6103,1,Downtown Association,
+6720,1,,
+7070,1,Service,
+5207,1,Service,
+11327,1,Service,
+6552,1,Rental,
+4412,1,Service,
+5629,1,Rental,
+5636,1,Rental,
+8270,1,Service,
+5657,1,Rental,
+11733,1,Service,
+9390,1,Service,
+9805,1,Service,
+5904,1,Retail,
+2743,1,Retail,
+4157,1,Other,
+8851,1,Service,
+13863,1,Retail,
+1543,1,Rental,
+7024,1,Retail,
+10114,1,Service,
+10559,1,Other,
+5652,1,Rental,
+7325,1,Service,
+1674,1,Retail,
+7399,1,Service,
+13497,1,Retail,
+1918,1,Retail,
+5607,1,Rental,
+12364,1,Rental,
+4545,1,Service,
+5582,1,Rental,
+12390,1,Rental,
+12413,1,Rental,
+14826,1,,
+12407,1,Rental,
+10598,1,Rental,
+12414,1,Rental,
+3101,1,Rental,
+4138,1,Service,
+3669,1,Service,
+7745,1,Rental,
+9115,1,Rental,
+4959,1,Service,
+11587,1,Service,
+10039,1,Rental,
+7895,1,Service,
+5656,1,Rental,
+15953,1,Retail,
+4787,1,Retail,
+13516,1,Service,
+4941,1,Service,
+5734,1,Service,
+4937,1,Service,
+6692,1,Downtown Association,
+6555,1,Service,
+6924,1,Service,
+10605,1,Service,
+4789,1,Retail,
+4952,1,Service,
+9115,1,Rental,
+15953,1,Service,
+6345,1,,
+1494,1,Rental,
+2379,1,Retail,
+6021,1,Retail,
+4882,1,Service,
+8679,1,Retail,
+15953,1,Retail,
+15953,1,Downtown Association,
+7885,1,Retail,
+3576,1,Service,
+2429,1,Service,
+4417,1,Service,
+4419,1,Service,
+8458,1,Service,
+6562,1,,
+1764,1,Service,
+4551,1,,
+5109,1,Service,
+4871,1,Service,
+9542,1,Service,
+1708,1,Rental,
+15953,1,Service,
+1702,1,Retail,
+2542,1,Service,
+5655,1,Rental,
+4677,1,Service,
+4040,1,Service,
+6204,1,Service,
+1903,1,Service,
+1291,1,Rental,
+1429,1,Rental,
+5386,1,Downtown Association,
+6204,1,Retail,
+4682,1,Service,
+4928,1,Retail,
+9185,1,Rental,
+13210,1,Service,
+10452,1,Rental,
+17414,1,Service,
+5608,1,Rental,
+9039,1,Rental,
+2191,1,Service,
+7694,1,Service,
+1744,1,Rental,
+428,1,Service,
+3576,1,Service,
+5609,1,Service,
+5144,1,Service,
+11858,1,Service,
+9207,1,Rental,
+6167,1,Rental,
+5656,1,Rental,
+2863,1,Service,
+5623,1,Rental,
+2096,1,Other,
+5628,1,Rental,
+7000,1,Service,
+5622,1,Rental,
+5553,1,Rental,
+6385,1,Downtown Association,
+1493,1,Retail,
+7934,1,Retail,
+4994,1,Other,
+2015,1,Service,
+5610,1,Other,
+7493,1,Service,
+2444,1,,
+1099,1,,
+3265,1,,
+3635,1,Rental,
+5662,1,Rental,
+15016,1,Service,
+13638,1,Retail,
+4342,1,Downtown Association,
+15953,1,Service,
+2775,1,Service,
+8273,1,Service,
+4060,1,,
+5110,1,Service,
+6268,1,Service,
+7492,1,,
+2976,1,,
+6135,1,,
+2922,1,Retail,
+4090,1,Service,
+8389,1,Service,
+15953,1,Retail,
+10356,1,Service,
+7640,1,Service,
+5540,1,,
+11535,1,Service,
+7874,1,Service,
+3643,1,,
+4969,1,Downtown Association,
+3612,1,Service,
+2787,1,Service,
+8196,1,Retail,
+13092,1,Service,
+4867,1,Service,
+3913,1,,
+770,1,Service,
+4096,1,Downtown Association,
+7689,1,Service,
+7472,1,Service,
+7276,1,Service,
+5005,1,Downtown Association,
+3048,1,Service,
+3976,1,Downtown Association,
+3461,1,Service,
+1456,1,Rental,
+5649,1,Rental,
+8660,1,Service,
+3829,1,Service,
+9326,1,Downtown Association,
+1554,1,Service,
+9418,1,Retail,
+7416,1,Service,
+10417,1,Rental,
+9185,1,Rental,
+5957,1,Rental,
+12411,1,Rental,
+3891,1,Rental,
+3675,1,Service,
+10132,1,Retail,
+1424,1,Rental,
+8259,1,Downtown Association,
+10542,1,Downtown Association,
+10803,1,Downtown Association,
+8137,1,Service,
+4041,1,Service,
+12487,1,Service,
+6981,1,Downtown Association,
+5370,1,Service,
+2495,1,Service,
+9045,1,Service,
+5902,1,Service,
+9926,1,Service,
+9207,1,Rental,
+1455,1,Rental,
+2873,1,Downtown Association,
+5809,1,Service,
+3716,1,Service,
+8375,1,Service,
+13593,1,Service,
+4798,1,Service,
+5533,1,Retail,
+2747,1,Retail,
+4314,1,Service,
+10137,1,Other,
+1120,1,Service,
+12876,1,Service,
+10777,1,Rental,
+5007,1,Rental,
+7500,1,Service,
+8794,1,Retail,
+3030,1,Retail,
+6545,1,Service,
+5655,1,Rental,
+5656,1,Rental,
+14596,1,Service,
+10199,1,Other,
+7603,1,Service,
+10587,1,,
+2453,1,Downtown Association,
+4917,1,Service,
+3019,1,Other,
+5050,1,Service,
+6001,1,Service,
+7379,1,Service,
+1459,1,Rental,
+5606,1,Rental,
+6981,1,Service,
+4952,1,Service,
+12391,1,Rental,
+5631,1,Rental,
+868,1,Rental,
+868,1,Rental,
+3046,1,Service,
+7426,1,Downtown Association,
+7799,1,Rental,
+3656,1,Service,
+1708,1,Service,
+5655,1,Rental,
+6622,1,Service,
+5666,1,Rental,
+4644,1,Service,
+3109,1,,
+3131,1,,
+8442,1,Downtown Association,
+9137,1,Rental,
+4830,1,Downtown Association,
+7499,1,Rental,
+5475,1,Service,
+10977,1,Retail,
+9022,1,Rental,
+3314,1,Rental,
+4881,1,Other,
+9674,1,Service,
+8371,1,Service,
+14584,1,Service,
+12790,1,Rental,
+8966,1,Retail,
+2641,1,Service,
+2387,1,Service,
+2425,1,Service,
+3381,1,Service,
+3186,1,Service,
+3844,1,Retail,
+9247,1,Service,
+7910,1,Retail,
+4951,1,Service,
+7338,1,Service,
+4608,1,Retail,
+4117,1,Retail,
+6209,1,Downtown Association,
+1253,1,Service,
+1356,1,Downtown Association,
+4656,1,Service,
+7363,1,Other,
+6630,1,Downtown Association,
+4810,1,Service,
+5649,1,Rental,
+6763,1,Service,
+5627,1,Rental,
+4622,1,Downtown Association,
+5664,1,Rental,
+5621,1,Rental,
+1008,1,Service,
+10661,1,Service,
+6027,1,Service,
+6033,1,Downtown Association,
+1093,1,Downtown Association,
+5600,1,Service,
+2145,1,Service,
+6083,1,Service,
+15953,1,Retail,
+5683,1,Rental,
+3529,1,Rental,
+15953,1,Rental,
+12407,1,Rental,
+12313,1,Rental,
+12405,1,Rental,
+5603,1,Rental,
+5630,1,Rental,
+5652,1,Rental,
+10485,1,Service,
+4692,1,Retail,
+5503,1,Service,
+3759,1,Service,
+6386,1,Service,
+1420,1,Rental,
+5651,1,Rental,
+5655,1,Rental,
+4236,1,Service,
+8862,1,Service,
+3669,1,Service,
+703,1,Service,
+3180,1,Service,
+5666,1,Rental,
+6078,1,Service,
+9173,1,Downtown Association,
+1613,1,Rental,
+6191,1,Service,
+14650,1,Service,
+4958,1,Service,
+10054,1,Service,
+6798,1,Service,
+4138,1,Service,
+1917,1,Service,
+7021,1,Service,
+7461,1,Service,
+4705,1,Service,
+8311,1,Service,
+2845,1,Other,
+7596,1,Retail,
+5740,1,Other,
+8521,1,Service,
+1570,1,Service,
+5643,1,Rental,
+6595,1,Downtown Association,
+442,1,Service,
+5167,1,Service,
+7188,1,Downtown Association,
+5781,1,Service,
+5019,1,Retail,
+15953,1,Other,
+15953,1,Other,
+3446,1,Downtown Association,
+3692,1,Other,
+7821,1,Service,
+2570,1,Downtown Association,
+5656,1,Rental,
+2565,1,Retail,
+10758,1,Service,
+11055,1,Retail,
+6204,1,Service,
+6967,1,Retail,
+4656,1,Other,
+4347,1,Retail,
+14827,1,Downtown Association,
+6378,1,Service,
+5008,1,Downtown Association,
+7076,1,Retail,
+4455,1,Service,
+2283,1,,
+2772,1,Rental,
+9186,1,Service,
+3961,1,Service,
+5994,1,Downtown Association,
+5848,1,Downtown Association,
+7091,1,Service,
+8631,1,Service,
+5173,1,Service,
+11683,1,Service,
+10839,1,Retail,
+8333,1,Downtown Association,
+1436,1,Rental,
+5190,1,Retail,
+6393,1,Service,
+2605,1,Service,
+8948,1,Retail,
+4047,1,,
+6331,1,Service,
+3312,1,Retail,
+5167,1,Service,
+3587,1,Service,
+7239,1,Service,
+8541,1,Retail,
+10598,1,Retail,
+3461,1,Retail,
+5714,1,Service,
+855,1,Service,
+12060,1,Service,
+5848,1,Service,
+9745,1,Service,
+5594,1,Service,
+2761,1,Service,
+4383,1,,
+5252,1,Service,
+3284,1,Service,
+4046,1,Service,
+6993,1,Retail,
+4481,1,Retail,
+14218,1,Service,
+9151,1,Service,
+15953,1,Service,
+9268,1,Service,
+6181,1,Service,
+2697,1,Downtown Association,
+4391,1,Downtown Association,
+1151,1,Service,
+2256,1,Service,
+7692,1,Service,
+10289,1,Service,
+3732,1,Service,
+2046,1,Service,
+4517,1,Downtown Association,
+5666,1,Rental,
+1830,1,Downtown Association,
+455,1,Service,
+1554,1,Downtown Association,
+6106,1,Retail,
+12398,1,Rental,
+9110,1,Rental,
+4619,1,Rental,
+13742,1,Service,
+700,1,Retail,
+6363,1,Service,
+3985,1,Retail,
+10944,1,Service,
+8219,1,Service,
+10073,1,Service,
+8912,1,Retail,
+836,1,Retail,
+12361,1,Downtown Association,
+6520,1,Retail,
+2891,1,Retail,
+9432,1,Service,
+3438,1,Service,
+5645,1,Rental,
+6233,1,Retail,
+3487,1,Rental,
+4010,1,Service,
+6345,1,Retail,
+6601,1,Service,
+5973,1,Retail,
+6503,1,Service,
+4165,1,Service,
+7118,1,Service,
+14594,1,Rental,
+2022,1,Downtown Association,
+10417,1,Rental,
+8373,1,Service,
+4963,1,Downtown Association,
+8392,1,Service,
+4376,1,Retail,
+6981,1,Service,
+11096,1,Service,
+17779,1,Downtown Association,
+3774,1,Service,
+5210,1,Other,
+12384,1,Rental,
+5615,1,Service,
+7148,1,Retail,
+8315,1,Other,
+4613,1,Retail,
+5645,1,Rental,
+4551,1,Retail,
+7841,1,Retail,
+7651,1,Service,
+6757,1,Service,
+2233,1,Service,
+3216,1,Service,
+6924,1,Service,
+5028,1,Service,
+11205,1,Downtown Association,
+3612,1,Service,
+5167,1,Service,
+5678,1,Service,
+3879,1,Downtown Association,
+11296,1,Downtown Association,
+6748,1,Service,
+4342,1,Service,
+3199,1,Other,
+13208,1,Service,
+6204,1,Service,
+3213,1,Service,
+3019,1,Retail,
+10621,1,Retail,
+6007,1,Downtown Association,
+3409,1,Service,
+12410,1,Rental,
+7906,1,Service,
+12412,1,Rental,
+18875,1,Service,
+12398,1,Rental,
+9211,1,Downtown Association,
+9191,1,Service,
+9143,1,Rental,
+9207,1,Rental,
+5070,1,Other,
+8777,1,Service,
+8205,1,Service,
+3892,1,Service,
+5636,1,Rental,
+2911,1,Downtown Association,
+9068,1,Service,
+7596,1,Downtown Association,
+5599,1,Rental,
+4060,1,Service,
+5645,1,Rental,
+5658,1,Rental,
+12413,1,Rental,
+10171,1,Service,
+5651,1,Rental,
+6267,1,Rental,
+4564,1,Service,
+1159,1,Downtown Association,
+6469,1,Rental,
+5932,1,Service,
+5665,1,Rental,
+5754,1,Downtown Association,
+10121,1,Service,
+5615,1,Rental,
+5658,1,Rental,
+5621,1,Rental,
+5615,1,Rental,
+12414,1,Rental,
+5645,1,Rental,
+8052,1,Rental,
+5677,1,Rental,
+4369,1,Hotel,
+12400,1,Rental,
+6687,1,Rental,
+5655,1,Rental,
+5638,1,Rental,
+14308,1,Rental,
+2011,1,Rental,
+2862,1,Rental,
+9211,1,Rental,
+12320,1,Rental,
+16683,1,Downtown Association,
+1907,1,Service,
+12396,1,Rental,
+9199,1,Rental,
+5649,1,Rental,
+9151,1,Rental,
+5662,1,Rental,
+12356,1,Rental,
+9142,1,Rental,
+5665,1,Rental,
+9166,1,Rental,
+5635,1,Rental,
+5603,1,Rental,
+7671,1,Downtown Association,
+9150,1,Rental,
+5652,1,Rental,
+7967,1,Service,
+13518,1,Service,
+5610,1,Rental,
+5636,1,Rental,
+9207,1,Rental,
+9087,1,Rental,
+5655,1,Rental,
+14639,1,Downtown Association,
+5669,1,Rental,
+15953,1,Service,
+4623,1,Rental,
+5650,1,Rental,
+6565,1,Downtown Association,
+12413,1,Rental,
+9087,1,Rental,
+4752,1,Service,
+3382,1,Rental,
+5607,1,Rental,
+9207,1,Rental,
+11453,1,Service,
+9128,1,Rental,
+11296,1,Service,
+5621,1,Rental,
+14673,1,Service,
+12371,1,Rental,
+7651,1,Rental,
+4734,1,Rental,
+7162,1,Downtown Association,
+9718,1,Downtown Association,
+12319,1,Rental,
+5764,1,,
+7433,1,,
+5651,1,Rental,
+5988,1,Rental,
+12405,1,Rental,
+1413,1,Rental,
+11419,1,Service,
+5650,1,Rental,
+9170,1,Rental,
+5651,1,Rental,
+520,1,Service,
+4034,1,Downtown Association,
+6875,1,Service,
+15953,1,Service,
+10910,1,Service,
+5384,1,Service,
+6804,1,Service,
+7812,1,Rental,
+5608,1,Rental,
+7468,1,Downtown Association,
+5655,1,Rental,
+9087,1,Rental,
+12299,1,Rental,
+6996,1,Rental,
+9095,1,Rental,
+4215,1,Downtown Association,
+7967,1,,
+5238,1,Rental,
+7420,1,Service,
+1456,1,Rental,
+7128,1,Rental,
+5986,1,Rental,
+3228,1,Service,
+2409,1,Rental,
+3492,1,Service,
+4474,1,,
+1889,1,Downtown Association,
+5181,1,Service,
+8501,1,Downtown Association,
+3499,1,Service,
+3321,1,Retail,
+5613,1,Rental,
+4773,1,Other,
+8759,1,Rental,
+2676,1,Service,
+10839,1,Service,
+15222,1,Service,
+11908,1,Service,
+3326,1,Retail,
+3669,1,Service,
+13135,1,Service,
+2215,1,Service,
+1949,1,Service,
+4000,1,Retail,
+8617,1,Service,
+4370,1,Downtown Association,
+9149,1,Rental,
+8492,1,Service,
+12022,1,Other,
+5651,1,Rental,
+5602,1,Rental,
+12371,1,Rental,
+6705,1,Rental,
+2949,1,Rental,
+6118,1,Service,
+4207,1,,
+2732,1,Rental,
+3412,1,Service,
+7545,1,,
+3110,1,Service,
+3207,1,Service,
+6324,1,Rental,
+6769,1,Downtown Association,
+5252,1,Rental,
+5617,1,Rental,
+9701,1,Downtown Association,
+7160,1,Service,
+7822,1,Downtown Association,
+14143,1,Service,
+4374,1,Hotel,
+15953,1,Service,
+1658,1,Retail,
+9341,1,Service,
+7514,1,Service,
+5460,1,Rental,
+14066,1,Service,
+7661,1,Rental,
+3419,1,Service,
+5650,1,Rental,
+9534,1,Service,
+2970,1,Service,
+9149,1,Service,
+9206,1,Rental,
+3803,1,Service,
+1689,1,Service,
+11089,1,Downtown Association,
+9166,1,Rental,
+2209,1,Service,
+5747,1,Rental,
+15953,1,Service,
+5173,1,Downtown Association,
+1879,1,Service,
+7700,1,Service,
+3857,1,Service,
+8339,1,Downtown Association,
+6882,1,Downtown Association,
+12405,1,Rental,
+5085,1,,
+9187,1,Service,
+12407,1,Rental,
+483,1,Service,
+4588,1,Downtown Association,
+1717,1,Rental,
+4007,1,,
+7119,1,Service,
+3515,1,Service,
+7563,1,Service,
+3320,1,Downtown Association,
+9038,1,Service,
+7576,1,Downtown Association,
+2712,1,Service,
+8051,1,Rental,
+4361,1,,
+3160,1,Service,
+3054,1,Service,
+4362,1,Service,
+6337,1,Service,
+1423,1,Rental,
+13541,1,Service,
+6898,1,Service,
+1524,1,Rental,
+5664,1,Rental,
+2200,1,Service,
+18875,1,Service,
+5586,1,Rental,
+19240,1,Service,
+9086,1,Rental,
+6356,1,Rental,
+5574,1,Rental,
+12410,1,Rental,
+7420,1,Service,
+12412,1,Rental,
+9170,1,Rental,
+5645,1,Rental,
+8326,1,Retail,
+4985,1,Service,
+2606,1,Rental,
+794,1,Service,
+4181,1,,
+7500,1,Downtown Association,
+1343,1,Service,
+5330,1,Service,
+8189,1,Service,
+8353,1,Service,
+13484,1,Retail,
+2571,1,Service,
+4635,1,Other,
+8332,1,Retail,
+15953,1,Service,
+7892,1,Service,
+9206,1,Rental,
+8421,1,Service,
+5624,1,Rental,
+1435,1,Rental,
+2225,1,Service,
+5651,1,Rental,
+9193,1,Rental,
+15953,1,Service,
+5642,1,Rental,
+5937,1,Rental,
+3486,1,Rental,
+5573,1,Rental,
+9185,1,Rental,
+5622,1,Rental,
+5610,1,Rental,
+5959,1,Rental,
+10132,1,Downtown Association,
+6215,1,Rental,
+7772,1,Retail,
+15953,1,Downtown Association,
+5614,1,Rental,
+7135,1,Service,
+4656,1,Retail,
+2502,1,Retail,
+5140,1,Retail,
+15953,1,Other,
+1702,1,Service,
+9087,1,Rental,
+12004,1,Service,
+7420,1,Retail,
+10501,1,Service,
+12412,1,Rental,
+2654,1,Service,
+5595,1,Rental,
+5686,1,Rental,
+12404,1,Rental,
+5663,1,Rental,
+4417,1,Service,
+12412,1,Rental,
+1920,1,Rental,
+7973,1,Downtown Association,
+9667,1,Downtown Association,
+5651,1,Rental,
+7905,1,Service,
+9199,1,Rental,
+6911,1,Rental,
+15953,1,Downtown Association,
+5866,1,Rental,
+11558,1,Service,
+8351,1,,
+646,1,,
+2970,1,Rental,
+7678,1,Rental,
+12398,1,Rental,
+6281,1,Service,
+12393,1,Rental,
+5662,1,Rental,
+6880,1,Retail,
+5628,1,Rental,
+6875,1,Service,
+9129,1,,
+2312,1,Downtown Association,
+5039,1,,
+5657,1,Rental,
+5669,1,Rental,
+4417,1,Rental,
+5649,1,Rental,
+7126,1,Rental,
+5651,1,Rental,
+9038,1,Rental,
+8036,1,Rental,
+12390,1,Rental,
+5645,1,Rental,
+7071,1,Service,
+5680,1,Rental,
+10808,1,Downtown Association,
+5538,1,Service,
+14622,1,Service,
+5594,1,Rental,
+6973,1,Service,
+5627,1,Rental,
+12392,1,Rental,
+8225,1,Retail,
+1435,1,Rental,
+7272,1,Rental,
+8295,1,Rental,
+12404,1,Rental,
+9137,1,Rental,
+10937,1,Service,
+9169,1,Rental,
+19971,1,Service,
+6344,1,Service,
+9185,1,Rental,
+8086,1,Rental,
+5610,1,Rental,
+9170,1,Rental,
+10417,1,Rental,
+9834,1,Service,
+5650,1,Rental,
+9149,1,Rental,
+5827,1,Service,
+7253,1,Other,
+7316,1,Downtown Association,
+9205,1,Rental,
+5714,1,Rental,
+13314,1,Other,
+5652,1,Rental,
+12382,1,Rental,
+5631,1,Rental,
+8360,1,Rental,
+9142,1,Rental,
+15953,1,Rental,
+12404,1,Rental,
+3754,1,Rental,
+5663,1,Rental,
+9039,1,Rental,
+15953,1,Service,
+8064,1,Rental,
+2449,1,Rental,
+7973,1,Service,
+7470,1,Downtown Association,
+9095,1,Rental,
+5601,1,Rental,
+5650,1,Rental,
+5649,1,Rental,
+9110,1,Rental,
+15953,1,Rental,
+12896,1,Rental,
+6768,1,Downtown Association,
+15953,1,Service,
+10643,1,Service,
+7819,1,Retail,
+5664,1,Rental,
+5656,1,Rental,
+5649,1,Rental,
+10501,1,Rental,
+12398,1,Rental,
+5638,1,Rental,
+6769,1,Service,
+5665,1,Rental,
+1374,1,Rental,
+5650,1,Rental,
+15953,1,Retail,
+9106,1,Service,
+2933,1,Other,
+15222,1,Retail,
+7814,1,Rental,
+15953,1,Downtown Association,
+12285,1,Rental,
+15953,1,Downtown Association,
+6247,1,Service,
+3031,1,Retail,
+4542,1,,
+2576,1,Downtown Association,
+5634,1,Rental,
+5656,1,Rental,
+9116,1,Downtown Association,
+5662,1,Rental,
+5651,1,Rental,
+5650,1,Rental,
+9207,1,Rental,
+5652,1,Rental,
+446,1,Service,
+9163,1,Retail,
+7153,1,Rental,
+15953,1,Downtown Association,
+6975,1,Downtown Association,
+1324,1,Service,
+9386,1,Downtown Association,
+1455,1,Rental,
+16683,1,Service,
+5652,1,Rental,
+5595,1,Rental,
+11251,1,Downtown Association,
+9185,1,Rental,
+15588,1,Rental,
+9199,1,Rental,
+2239,1,Rental,
+5652,1,Rental,
+10416,1,Rental,
+7541,1,Service,
+2478,1,Service,
+5656,1,Rental,
+5594,1,Rental,
+3640,1,Service,
+9115,1,Rental,
+9110,1,Rental,
+10627,1,Service,
+5615,1,Rental,
+5315,1,Retail,
+2134,1,Rental,
+4559,1,Service,
+2782,1,Service,
+6546,1,Service,
+10048,1,,
+9015,1,Service,
+7763,1,Rental,
+5154,1,Service,
+7106,1,Service,
+5377,1,Service,
+612,1,Service,
+3523,1,Service,
+12279,1,Rental,
+5645,1,Rental,
+1252,1,Retail,
+8284,1,Retail,
+9214,1,Downtown Association,
+15953,1,Service,
+7209,1,Service,
+10479,1,Rental,
+8225,1,Service,
+652,1,Service,
+11363,1,Service,
+9087,1,Rental,
+13450,1,Service,
+11935,1,Rental,
+5428,1,Rental,
+12354,1,Downtown Association,
+7812,1,Service,
+10915,1,Service,
+10018,1,Service,
+9150,1,Rental,
+12299,1,Rental,
+12468,1,Service,
+7052,1,Service,
+5146,1,Retail,
+5042,1,Downtown Association,
+4521,1,Service,
+2633,1,Service,
+12361,1,Downtown Association,
+1266,1,Rental,
+12412,1,Rental,
+6008,1,,
+15953,1,Rental,
+13475,1,Service,
+5670,1,Rental,
+6657,1,Service,
+2996,1,Service,
+2409,1,Rental,
+7241,1,Downtown Association,
+5985,1,Service,
+7853,1,Rental,
+4866,1,Rental,
+3446,1,Service,
+8610,1,Service,
+5665,1,Rental,
+2305,1,Service,
+2809,1,,
+5662,1,Rental,
+1156,1,Retail,
+978,1,Service,
+7021,1,Service,
+7535,1,Downtown Association,
+9886,1,Other,
+1646,1,Service,
+6737,1,Service,
+4833,1,Service,
+5662,1,Rental,
+12406,1,Rental,
+6908,1,Downtown Association,
+12393,1,Rental,
+4868,1,Retail,
+14825,1,Service,
+8941,1,Service,
+9185,1,Rental,
+5649,1,Rental,
+4279,1,,
+4417,1,Service,
+5272,1,Retail,
+10229,1,Retail,
+5749,1,Service,
+5706,1,Service,
+3171,1,Service,
+5652,1,Rental,
+3502,1,Other,
+3038,1,Service,
+590,1,Service,
+6356,1,,
+1130,1,Retail,
+6167,1,Downtown Association,
+978,1,Rental,
+2310,1,Downtown Association,
+5656,1,Rental,
+793,1,Downtown Association,
+1141,1,Service,
+5651,1,Rental,
+5657,1,Rental,
+6204,1,Service,
+1233,1,Retail,
+5662,1,Rental,
+1430,1,Rental,
+5994,1,Rental,
+7366,1,Downtown Association,
+12547,1,Service,
+5638,1,Rental,
+4580,1,Rental,
+10678,1,Service,
+1554,1,Rental,
+5635,1,Rental,
+4573,1,Service,
+4907,1,Service,
+5642,1,Rental,
+5652,1,Rental,
+7573,1,Rental,
+2255,1,Service,
+7947,1,,
+13149,1,Service,
+7573,1,Retail,
+7412,1,,
+5615,1,Rental,
+8094,1,Rental,
+8912,1,Service,
+13491,1,Service,
+6783,1,,
+7388,1,,
+5645,1,Service,
+4111,1,Service,
+6008,1,Downtown Association,
+4104,1,Service,
+5944,1,Service,
+5686,1,Other,
+12412,1,Rental,
+1159,1,Service,
+15953,1,Rental,
+3690,1,Service,
+5623,1,Rental,
+6098,1,Service,
+5644,1,Rental,
+7248,1,Service,
+7527,1,Service,
+8088,1,Rental,
+9150,1,Rental,
+12411,1,Rental,
+5645,1,Service,
+3709,1,Downtown Association,
+1407,1,Rental,
+9142,1,Rental,
+9211,1,Rental,
+12414,1,Rental,
+2746,1,Service,
+5608,1,Rental,
+3269,1,,
+4201,1,,
+7742,1,Retail,
+6380,1,Service,
+12329,1,Rental,
+5622,1,Rental,
+6579,1,Downtown Association,
+2479,1,Service,
+2325,1,Rental,
+5634,1,Rental,
+8144,1,,
+5627,1,Rental,
+5662,1,Rental,
+5070,1,Retail,
+7314,1,Downtown Association,
+3293,1,Service,
+3640,1,Service,
+1725,1,Downtown Association,
+6385,1,Downtown Association,
+5620,1,Rental,
+9150,1,Rental,
+2781,1,,
+5285,1,Service,
+5937,1,Service,
+5937,1,Service,
+15953,1,Downtown Association,
+6331,1,Other,
+12103,1,Service,
+5553,1,Rental,
+15953,1,Service,
+3535,1,Other,
+5231,1,Retail,
+9198,1,Rental,
+5655,1,Rental,
+3270,1,Service,
+5652,1,Rental,
+6574,1,Service,
+5649,1,Rental,
+10164,1,Service,
+12407,1,Rental,
+15953,1,Retail,
+12923,1,Service,
+4550,1,Service,
+4784,1,Service,
+5566,1,Rental,
+7806,1,Service,
+5879,1,Service,
+6889,1,,
+2817,1,Service,
+6826,1,Retail,
+5638,1,Rental,
+8309,1,Service,
+12410,1,Rental,
+1708,1,Retail,
+2033,1,Service,
+5363,1,,
+5218,1,Service,
+5645,1,Rental,
+5621,1,Rental,
+9207,1,Rental,
+13304,1,Retail,
+6247,1,Service,
+5655,1,Rental,
+5650,1,Rental,
+5650,1,Rental,
+2369,1,Service,
+5868,1,Downtown Association,
+15953,1,Downtown Association,
+5686,1,Rental,
+4732,1,Rental,
+8354,1,Downtown Association,
+9142,1,Rental,
+12407,1,Rental,
+12398,1,Rental,
+12155,1,Rental,
+2282,1,Service,
+8136,1,Downtown Association,
+7575,1,Service,
+10619,1,Rental,
+1158,1,Service,
+12391,1,Downtown Association,
+5652,1,Rental,
+3059,1,Service,
+5651,1,Rental,
+9218,1,Service,
+4976,1,Service,
+3090,1,Downtown Association,
+10193,1,Downtown Association,
+5832,1,Service,
+11689,1,Retail,
+11054,1,Service,
+4501,1,Rental,
+5594,1,Rental,
+2054,1,Service,
+4236,1,Service,
+5635,1,Rental,
+10051,1,Downtown Association,
+8024,1,Rental,
+11935,1,Rental,
+3836,1,Service,
+5586,1,Rental,
+10929,1,Service,
+2962,1,Downtown Association,
+6344,1,Retail,
+4430,1,Service,
+7517,1,Downtown Association,
+6790,1,Service,
+12035,1,Service,
+9786,1,Service,
+3709,1,Downtown Association,
+5846,1,Rental,
+5202,1,Service,
+13669,1,Retail,
+7545,1,Service,
+5655,1,Rental,
+4194,1,Service,
+8305,1,Service,
+2225,1,Service,
+1358,1,Service,
+15953,1,Retail,
+6485,1,Service,
+903,1,Retail,
+7273,1,Service,
+3291,1,Service,
+3390,1,Service,
+1610,1,Service,
+223,1,Service,
+7289,1,Service,
+3989,1,Service,
+8239,1,Retail,
+1403,1,Service,
+5349,1,Retail,
+6173,1,Service,
+490,1,Service,
+5603,1,Rental,
+10160,1,Retail,
+6504,1,Rental,
+5651,1,Rental,
+3048,1,Downtown Association,
+7590,1,,
+4682,1,Service,
+6021,1,Retail,
+1159,1,Rental,
+5085,1,Other,
+3711,1,Service,
+947,1,Service,
+12568,1,Service,
+1442,1,Rental,
+10737,1,Downtown Association,
+15953,1,Service,
+15953,1,Service,
+14566,1,Service,
+5824,1,Service,
+1857,1,Service,
+3228,1,Service,
+1438,1,Rental,
+9533,1,Downtown Association,
+10844,1,Service,
+2914,1,Retail,
+7919,1,Service,
+15953,1,Downtown Association,
+5782,1,Retail,
+6044,1,Retail,
+5684,1,Rental,
+9327,1,Service,
+8095,1,Service,
+6673,1,Service,
+6034,1,Downtown Association,
+5642,1,Rental,
+11103,1,Downtown Association,
+6895,1,Service,
+5904,1,Retail,
+11587,1,Retail,
+6692,1,Rental,
+12411,1,Rental,
+10944,1,Service,
+14673,1,Rental,
+2788,1,Service,
+1769,1,Rental,
+3485,1,Retail,
+5655,1,Rental,
+6362,1,Downtown Association,
+5595,1,Rental,
+7352,1,Downtown Association,
+5312,1,Rental,
+1932,1,Service,
+7723,1,Downtown Association,
+4647,1,Service,
+5650,1,Rental,
+5650,1,Rental,
+12349,1,Rental,
+1008,1,Rental,
+5650,1,Service,
+2271,1,Downtown Association,
+7951,1,Retail,
+4909,1,Service,
+12390,1,Rental,
+1628,1,Rental,
+5456,1,Service,
+5628,1,Rental,
+5656,1,Rental,
+6380,1,Downtown Association,
+5603,1,Rental,
+800,1,Service,
+3726,1,Rental,
+1708,1,Retail,
+4530,1,Retail,
+6245,1,Service,
+8532,1,Service,
+14188,1,Downtown Association,
+12391,1,Rental,
+12391,1,Rental,
+6813,1,Downtown Association,
+11296,1,Service,
+6826,1,Retail,
+8163,1,Service,
+5881,1,Service,
+3872,1,Service,
+10180,1,Service,
+5139,1,Downtown Association,
+3094,1,Downtown Association,
+1753,1,Service,
+6468,1,Service,
+10037,1,Retail,
+7671,1,Service,
+1708,1,Retail,
+7057,1,Downtown Association,
+2760,1,Service,
+6981,1,Downtown Association,
+5091,1,Service,
+5083,1,Service,
+3115,1,,
+4378,1,,
+5091,1,Service,
+6282,1,Downtown Association,
+3019,1,Service,
+6538,1,Service,
+5617,1,Rental,
+1455,1,Rental,
+1585,1,Rental,
+7099,1,Service,
+5595,1,Rental,
+1424,1,Rental,
+14400,1,Service,
+5650,1,Rental,
+4138,1,Service,
+6692,1,Service,
+15953,1,Service,
+3633,1,Rental,
+9585,1,Service,
+428,1,Service,
+10355,1,Service,
+4661,1,Service,
+1261,1,Downtown Association,
+3359,1,Other,
+6854,1,Retail,
+9550,1,Service,
+5648,1,Rental,
+5651,1,Rental,
+5553,1,Rental,
+14492,1,Service,
+12369,1,Rental,
+5091,1,Service,
+5608,1,Rental,
+5642,1,Rental,
+5684,1,Rental,
+9198,1,Rental,
+9086,1,Rental,
+5663,1,Rental,
+10458,1,Service,
+14050,1,Service,
+5650,1,Rental,
+12792,1,Service,
+4174,1,Service,
+1259,1,Other,
+12239,1,Retail,
+7149,1,Service,
+11720,1,Service,
+9185,1,Rental,
+3935,1,Service,
+2996,1,Retail,
+6973,1,,
+12407,1,Rental,
+9017,1,Service,
+8522,1,Service,
+9704,1,Service,
+10121,1,Service,
+1069,1,Service,
+3762,1,Service,
+6090,1,Service,
+6849,1,Downtown Association,
+4595,1,Service,
+3573,1,,
+7686,1,Service,
+15953,1,Service,
+12398,1,Retail,
+4553,1,Retail,
+5323,1,Downtown Association,
+6490,1,Downtown Association,
+4340,1,Service,
+6721,1,,
+953,1,Downtown Association,
+1940,1,Service,
+11591,1,Service,
+6533,1,Service,
+5664,1,Rental,
+7811,1,Service,
+12313,1,Rental,
+5650,1,Rental,
+5652,1,Rental,
+7552,1,Service,
+8682,1,Service,
+2822,1,Rental,
+3654,1,Rental,
+1459,1,Rental,
+6162,1,Service,
+4661,1,Service,
+4173,1,Service,
+5601,1,Rental,
+15017,1,Service,
+1820,1,Retail,
+1799,1,Downtown Association,
+5278,1,Retail,
+9425,1,Service,
+5980,1,Service,
+6183,1,Downtown Association,
+4810,1,Service,
+5257,1,Downtown Association,
+8016,1,Downtown Association,
+4941,1,Downtown Association,
+4727,1,Service,
+4165,1,Service,
+4180,1,Downtown Association,
+6364,1,Downtown Association,
+8169,1,Service,
+8186,1,Service,
+5496,1,Downtown Association,
+11910,1,Service,
+4412,1,Downtown Association,
+9443,1,Service,
+4705,1,Service,
+8473,1,Service,
+5662,1,Rental,
+5656,1,Rental,
+9149,1,Rental,
+5657,1,Rental,
+9169,1,Rental,
+10125,1,Service,
+5608,1,Rental,
+15953,1,Downtown Association,
+5608,1,Rental,
+5614,1,Rental,
+12397,1,Rental,
+301,1,Retail,
+642,1,Service,
+7654,1,Retail,
+2845,1,Downtown Association,
+4097,1,Service,
+1738,1,Service,
+7321,1,Service,
+5540,1,Service,
+6692,1,Other,
+4907,1,Service,
+3107,1,Rental,
+17110,1,Rental,
+5663,1,Rental,
+2863,1,Service,
+5645,1,Rental,
+9115,1,Rental,
+5986,1,Rental,
+6912,1,Retail,
+4104,1,Retail,
+5608,1,Downtown Association,
+3548,1,Service,
+8032,1,Service,
+2256,1,Downtown Association,
+2389,1,Service,
+3171,1,Retail,
+3559,1,Other,
+5637,1,Other,
+5652,1,Rental,
+7911,1,Service,
+1452,1,Rental,
+5652,1,Rental,
+9113,1,Rental,
+3382,1,Service,
+5683,1,Service,
+8231,1,Service,
+3674,1,Service,
+9198,1,Rental,
+5655,1,Rental,
+9113,1,Rental,
+9110,1,Rental,
+15953,1,Retail,
+9038,1,Rental,
+12364,1,Rental,
+7352,1,Rental,
+9456,1,Service,
+8352,1,Service,
+5650,1,Rental,
+9110,1,Rental,
+8513,1,Service,
+3908,1,Service,
+6239,1,Service,
+6478,1,Service,
+6952,1,Service,
+6881,1,Retail,
+7086,1,Retail,
+12218,1,Service,
+3481,1,Downtown Association,
+8942,1,Retail,
+11095,1,Service,
+5627,1,Service,
+2922,1,Retail,
+15953,1,Downtown Association,
+7147,1,Service,
+4006,1,Rental,
+7171,1,Rental,
+2278,1,Service,
+5165,1,Service,
+5249,1,Downtown Association,
+6182,1,Service,
+6562,1,Downtown Association,
+11521,1,Downtown Association,
+5622,1,Rental,
+5357,1,Downtown Association,
+5574,1,Rental,
+5586,1,Retail,
+5365,1,Service,
+7602,1,Service,
+10223,1,Other,
+13789,1,Downtown Association,
+7421,1,Service,
+6636,1,Retail,
+6121,1,Service,
+11133,1,Service,
+6784,1,Service,
+8277,1,Service,
+3958,1,Service,
+7086,1,Downtown Association,
+1427,1,Retail,
+5434,1,Downtown Association,
+5656,1,Rental,
+7428,1,,
+5105,1,,
+4020,1,,
+5616,1,Rental,
+3529,1,Rental,
+6328,1,Service,
+10188,1,Service,
+12392,1,Rental,
+4412,1,Service,
+5651,1,Rental,
+1679,1,Service,
+2361,1,Rental,
+7309,1,Service,
+2239,1,Service,
+3759,1,Service,
+9185,1,Rental,
+13304,1,Service,
+7792,1,Service,
+2684,1,Service,
+3097,1,Service,
+5638,1,Rental,
+12410,1,Rental,
+5655,1,Rental,
+10027,1,Service,
+8290,1,Service,
+1465,1,Rental,
+12847,1,Service,
+6609,1,Service,
+7665,1,Downtown Association,
+2857,1,Service,
+7393,1,Service,
+5250,1,Service,
+6420,1,,
+9347,1,Service,
+6798,1,Retail,
+5803,1,Downtown Association,
+13771,1,Service,
+12253,1,Retail,
+1524,1,Service,
+4215,1,Downtown Association,
+4510,1,Service,
+5628,1,Rental,
+3940,1,Service,
+2796,1,Rental,
+2796,1,Rental,
+6714,1,Downtown Association,
+2428,1,Service,
+3921,1,Service,
+5655,1,Rental,
+5363,1,Rental,
+9100,1,Downtown Association,
+5846,1,Downtown Association,
+5957,1,Downtown Association,
+5608,1,Rental,
+5330,1,Service,
+3807,1,Service,
+9345,1,Service,
+6408,1,Service,
+7461,1,Downtown Association,
+1653,1,Retail,
+9093,1,Rental,
+3949,1,Retail,
+6362,1,Downtown Association,
+5657,1,Rental,
+1536,1,Service,
+4143,1,Service,
+5531,1,Service,
+7195,1,Downtown Association,
+2161,1,Retail,
+5650,1,Service,
+7217,1,Service,
+2432,1,Service,
+5168,1,Other,
+7292,1,Service,
+2320,1,Service,
+14640,1,Service,
+5300,1,Service,
+1252,1,Service,
+12321,1,Rental,
+8162,1,Other,
+5904,1,Downtown Association,
+5250,1,Other,
+5910,1,Retail,
+12404,1,Rental,
+15953,1,Service,
+5652,1,Rental,
+5666,1,Rental,
+5650,1,Service,
+1233,1,Retail,
+12055,1,Other,
+2333,1,Service,
+1403,1,Service,
+1100,1,Retail,
+2943,1,Downtown Association,
+7386,1,Other,
+11486,1,Service,
+12554,1,Retail,
+6447,1,Service,
+12281,1,Service,
+6231,1,Service,
+9764,1,Downtown Association,
+5937,1,Downtown Association,
+8536,1,Other,
+12320,1,Rental,
+9198,1,Rental,
+5754,1,Service,
+5307,1,Service,
+5644,1,Rental,
+2060,1,Service,
+5414,1,Retail,
+5666,1,Rental,
+7694,1,Service,
+4452,1,Service,
+5761,1,Service,
+4609,1,Service,
+5740,1,Downtown Association,
+4433,1,Service,
+2243,1,Service,
+6909,1,,
+10076,1,Service,
+12299,1,Rental,
+3920,1,Service,
+9724,1,Service,
+5664,1,Rental,
+6870,1,Downtown Association,
+5684,1,Rental,
+8130,1,Service,
+9087,1,Rental,
+13685,1,Service,
+14741,1,Service,
+3307,1,,
+1008,1,Rental,
+12354,1,Rental,
+716,1,Retail,
+5411,1,Retail,
+3923,1,Downtown Association,
+5649,1,Rental,
+9205,1,Rental,
+5131,1,Service,
+10233,1,Service,
+9208,1,Rental,
+5663,1,Rental,
+906,1,Retail,
+3978,1,Service,
+7156,1,Service,
+4804,1,Service,
+6008,1,,
+2822,1,Other,
+4018,1,Rental,
+1524,1,Service,
+5133,1,Service,
+4609,1,Retail,
+2310,1,Service,
+3410,1,Service,
+489,1,Service,
+7211,1,Other,
+4831,1,Service,
+8324,1,Downtown Association,
+1403,1,Service,
+4159,1,Retail,
+5305,1,Rental,
+7246,1,Downtown Association,
+5655,1,Rental,
+4908,1,Other,
+5110,1,Downtown Association,
+3293,1,Service,
+3482,1,Retail,
+3551,1,Retail,
+3794,1,Retail,
+3919,1,Retail,
+3930,1,Retail,
+4287,1,Downtown Association,
+7392,1,Service,
+1884,1,Service,
+1542,1,Retail,
+5357,1,Downtown Association,
+10702,1,Downtown Association,
+5960,1,Service,
+5629,1,Rental,
+5022,1,Rental,
+6950,1,Service,
+12053,1,Service,
+5663,1,Rental,
+4609,1,Retail,
+8094,1,Other,
+6204,1,Service,
+1524,1,Service,
+6820,1,Service,
+5651,1,Rental,
+7127,1,Rental,
+7434,1,Service,
+5662,1,Rental,
+7302,1,Downtown Association,
+3229,1,Downtown Association,
+5792,1,Rental,
+5643,1,Rental,
+5666,1,Rental,
+11113,1,Downtown Association,
+8249,1,Service,
+3452,1,Service,
+12207,1,Other,
+8282,1,Service,
+7484,1,Service,
+14731,1,Service,
+9149,1,Rental,
+6635,1,Service,
+7140,1,Service,
+8038,1,Service,
+2989,1,Service,
+3984,1,Service,
+6946,1,Service,
+7968,1,Service,
+5655,1,Rental,
+2684,1,Service,
+8365,1,Service,
+2918,1,Rental,
+3395,1,Downtown Association,
+2224,1,Downtown Association,
+4670,1,Retail,
+3634,1,Rental,
+2970,1,Service,
+5938,1,Service,
+10855,1,Retail,
+197,1,Service,
+892,1,Service,
+1505,1,Service,
+9086,1,Rental,
+14205,1,Service,
+6167,1,Service,
+2814,1,Service,
+3564,1,Other,
+13396,1,Retail,
+836,1,Service,
+9122,1,Service,
+2242,1,Service,
+1500,1,Service,
+7541,1,Retail,
+2043,1,Rental,
+2550,1,Service,
+3543,1,Other,
+5663,1,Rental,
+5652,1,Rental,
+15588,1,Service,
+1435,1,Rental,
+4591,1,Downtown Association,
+6786,1,Service,
+5824,1,Service,
+1802,1,Downtown Association,
+5363,1,Downtown Association,
+5656,1,Rental,
+7794,1,Retail,
+12105,1,Other,
+5607,1,Rental,
+4264,1,Rental,
+4279,1,Hotel,
+2968,1,Retail,
+9530,1,Other,
+6362,1,Retail,
+1585,1,Retail,
+7793,1,Service,
+6155,1,Service,
+14687,1,Retail,
+9093,1,Rental,
+6533,1,Retail,
+7321,1,Service,
+15222,1,Downtown Association,
+1901,1,Retail,
+5650,1,Rental,
+3279,1,Service,
+15953,1,Retail,
+6191,1,Service,
+4859,1,Service,
+5620,1,Rental,
+8659,1,Service,
+7350,1,Service,
+7653,1,Service,
+2676,1,Retail,
+7052,1,Service,
+5595,1,Rental,
+5603,1,Rental,
+12396,1,Downtown Association,
+5342,1,Retail,
+2164,1,Rental,
+6457,1,Rental,
+7203,1,Service,
+7253,1,Service,
+8064,1,Downtown Association,
+12400,1,Rental,
+6611,1,Service,
+4387,1,Hotel,
+7132,1,Service,
+5980,1,Rental,
+5650,1,Rental,
+3048,1,Service,
+3709,1,Service,
+1312,1,Service,
+5631,1,Rental,
+5546,1,Rental,
+2431,1,Service,
+8267,1,,
+5658,1,Rental,
+9093,1,Rental,
+6084,1,Service,
+1086,1,Service,
+8849,1,Downtown Association,
+2547,1,Rental,
+7514,1,Rental,
+7092,1,Service,
+10650,1,Downtown Association,
+2422,1,Rental,
+5588,1,Rental,
+15953,1,Service,
+1148,1,Retail,
+5762,1,Retail,
+8849,1,Service,
+1185,1,,
+2792,1,Retail,
+12397,1,Rental,
+6623,1,Service,
+12407,1,Rental,
+4559,1,Rental,
+5651,1,Rental,
+4579,1,,
+1298,1,Retail,
+3170,1,Rental,
+10536,1,Rental,
+5645,1,Rental,
+5655,1,Rental,
+5573,1,Rental,
+9151,1,Rental,
+5655,1,Rental,
+12361,1,Downtown Association,
+5546,1,Rental,
+855,1,Retail,
+1505,1,Service,
+3466,1,Downtown Association,
+9115,1,Rental,
+6959,1,Downtown Association,
+5614,1,Rental,
+12393,1,Rental,
+1480,1,Rental,
+5662,1,Rental,
+5616,1,Rental,
+9017,1,Rental,
+5651,1,Rental,
+9183,1,Downtown Association,
+5645,1,Rental,
+2548,1,Service,
+9095,1,Rental,
+9185,1,Rental,
+5349,1,Service,
+5992,1,Rental,
+12392,1,Rental,
+9199,1,Rental,
+5553,1,Rental,
+5685,1,Rental,
+8431,1,Service,
+4948,1,Downtown Association,
+5518,1,Service,
+2439,1,Rental,
+3769,1,Rental,
+10416,1,Rental,
+4559,1,Service,
+7882,1,Service,
+5880,1,Service,
+17779,1,Service,
+13699,1,Service,
+5662,1,Rental,
+4159,1,Service,
+5981,1,Service,
+12386,1,Rental,
+6715,1,Downtown Association,
+5407,1,Downtown Association,
+4266,1,Hotel,
+2593,1,Downtown Association,
+13973,1,Service,
+5812,1,Service,
+6097,1,,
+9897,1,Service,
+2449,1,Rental,
+5651,1,Rental,
+15953,1,Downtown Association,
+12385,1,Rental,
+5652,1,Rental,
+5617,1,Rental,
+5643,1,Rental,
+5662,1,Rental,
+5805,1,Rental,
+7434,1,,
+4215,1,Rental,
+9072,1,Service,
+15953,1,Other,
+9851,1,Service,
+2760,1,Service,
+9198,1,Rental,
+15953,1,Service,
+5776,1,Service,
+4935,1,Retail,
+4935,1,Retail,
+8364,1,Service,
+3341,1,Downtown Association,
+10417,1,Downtown Association,
+12342,1,Downtown Association,
+12393,1,Rental,
+5658,1,Rental,
+5663,1,Rental,
+9110,1,Rental,
+7149,1,Service,
+11386,1,Service,
+9142,1,Rental,
+6847,1,Service,
+5651,1,Rental,
+5664,1,Rental,
+5629,1,Rental,
+12403,1,Rental,
+10347,1,Service,
+12405,1,Rental,
+12369,1,Rental,
+12407,1,Rental,
+4433,1,Service,
+5648,1,Rental,
+5652,1,Rental,
+4287,1,Retail,
+5467,1,Service,
+18875,1,Service,
+12413,1,Rental,
+5644,1,Rental,
+5638,1,Rental,
+3537,1,Rental,
+12412,1,Rental,
+11531,1,Downtown Association,
+7608,1,Service,
+1449,1,Rental,
+9143,1,Rental,
+7598,1,Service,
+12400,1,Rental,
+11205,1,Rental,
+9907,1,Service,
+7125,1,Service,
+12413,1,Rental,
+6434,1,Service,
+5224,1,Service,
+1451,1,Rental,
+4419,1,Service,
+7819,1,Retail,
+997,1,Service,
+2043,1,Service,
+5608,1,Rental,
+7478,1,Downtown Association,
+4182,1,Downtown Association,
+3040,1,,
+3633,1,,
+3156,1,,
+3270,1,,
+5656,1,Downtown Association,
+6568,1,,
+6947,1,,
+8627,1,,
+7820,1,,
+7582,1,Service,
+6204,1,,
+3860,1,,
+10839,1,Downtown Association,
+4047,1,,
+3912,1,,
+7209,1,Service,
+2011,1,Service,
+6100,1,Service,
+1960,1,Retail,
+15953,1,Service,
+12407,1,Rental,
+8715,1,Retail,
+5994,1,Service,
+5663,1,Rental,
+2424,1,Rental,
+5617,1,Rental,
+12328,1,Service,
+4746,1,Service,
+5308,1,Service,
+1392,1,Rental,
+3837,1,Service,
+7195,1,Rental,
+5684,1,Rental,
+5657,1,Rental,
+9169,1,Rental,
+6798,1,Retail,
+3090,1,Service,
+4993,1,Downtown Association,
+12313,1,Rental,
+6132,1,Retail,
+10570,1,Retail,
+5652,1,Rental,
+5398,1,Service,
+12389,1,Rental,
+10747,1,Service,
+4917,1,Service,
+7240,1,Service,
+7435,1,Downtown Association,
+5655,1,Rental,
+8200,1,Rental,
+3769,1,Service,
+4353,1,Service,
+6247,1,Service,
+5651,1,Rental,
+7058,1,Service,
+14974,1,Service,
+15953,1,Other,
+6674,1,Service,
+5658,1,Rental,
+162,1,Service,
+5627,1,Rental,
+2845,1,Service,
+5657,1,Rental,
+7209,1,Service,
+2472,1,Retail,
+14961,1,Service,
+10058,1,Rental,
+12642,1,Service,
+4272,1,Retail,
+15953,1,Service,
+7352,1,Service,
+11397,1,,
+5652,1,Rental,
+4588,1,Service,
+6237,1,Service,
+3559,1,Retail,
+952,1,Downtown Association,
+7234,1,Service,
+10970,1,Service,
+2286,1,Service,
+4564,1,Downtown Association,
+6821,1,Other,
+3754,1,Service,
+4882,1,Service,
+8682,1,Service,
+10808,1,Service,
+7357,1,Service,
+15953,1,Service,
+5027,1,Service,
+11377,1,Retail,
+7504,1,Service,
+6636,1,Service,
+4060,1,Service,
+3695,1,Service,
+5533,1,Service,
+7772,1,Retail,
+5326,1,Rental,
+13923,1,Service,
+11206,1,Service,
+11224,1,Service,
+6230,1,Service,
+4209,1,Hotel,
+3950,1,Service,
+7076,1,Service,
+12070,1,Retail,
+5595,1,Rental,
+7827,1,Service,
+2830,1,Service,
+4910,1,Service,
+10283,1,Service,
+841,1,Downtown Association,
+7092,1,Service,
+1749,1,Rental,
+2067,1,Rental,
+7203,1,Downtown Association,
+3178,1,Service,
+7484,1,Service,
+5651,1,Rental,
+2577,1,Service,
+9110,1,Rental,
+3746,1,Rental,
+3535,1,Service,
+5012,1,Retail,
+12412,1,Rental,
+5873,1,Downtown Association,
+8620,1,Other,
+9640,1,Downtown Association,
+6848,1,Service,
+7626,1,Rental,
+7456,1,Service,
+6135,1,Service,
+5631,1,Rental,
+13987,1,Retail,
+7604,1,Service,
+5664,1,Rental,
+5992,1,Other,
+15588,1,Retail,
+2551,1,Downtown Association,
+3150,1,Service,
+3121,1,,
+6328,1,Downtown Association,
+8682,1,Downtown Association,
+7135,1,Other,
+7356,1,Downtown Association,
+2437,1,Retail,
+5622,1,Rental,
+3318,1,Service,
+4293,1,Service,
+917,1,Service,
+6842,1,Downtown Association,
+9394,1,Downtown Association,
+3920,1,,
+12392,1,Rental,
+5655,1,Rental,
+2374,1,Rental,
+5656,1,Rental,
+9198,1,Rental,
+5986,1,Rental,
+6950,1,Service,
+9087,1,Rental,
+5645,1,Rental,
+7541,1,Rental,
+3573,1,Service,
+14492,1,Downtown Association,
+7744,1,Service,
+7630,1,,
+3334,1,Rental,
+3801,1,Service,
+1935,1,Service,
+5638,1,Rental,
+2742,1,Rental,
+3678,1,Rental,
+9086,1,Rental,
+6888,1,Service,
+2688,1,Service,
+5663,1,Rental,
+5649,1,Rental,
+909,1,Service,
+1435,1,Rental,
+10384,1,Downtown Association,
+7539,1,Downtown Association,
+8225,1,Service,
+5589,1,Rental,
+9185,1,Rental,
+2374,1,Service,
+9149,1,Rental,
+4938,1,Rental,
+5636,1,Rental,
+5741,1,Service,
+15953,1,Service,
+9306,1,Downtown Association,
+1981,1,Rental,
+6839,1,Downtown Association,
+7806,1,Rental,
+7919,1,Rental,
+9198,1,Rental,
+8098,1,Rental,
+2219,1,Service,
+5651,1,Rental,
+4608,1,Rental,
+5810,1,Service,
+549,1,Service,
+5714,1,Service,
+7513,1,Service,
+5658,1,Service,
+6373,1,Service,
+4859,1,Service,
+4770,1,,
+4000,1,Rental,
+7762,1,Rental,
+2449,1,Service,
+8217,1,Service,
+3517,1,Service,
+15222,1,Retail,
+10251,1,Service,
+8037,1,Other,
+14157,1,Service,
+11133,1,Service,
+7161,1,Service,
+15953,1,Service,
+12370,1,Rental,
+11003,1,Service,
+15588,1,Service,
+3573,1,Other,
+5042,1,Downtown Association,
+15953,1,Service,
+2339,1,Service,
+5529,1,Rental,
+4572,1,Service,
+5595,1,Rental,
+5649,1,Rental,
+5614,1,Rental,
+6763,1,Rental,
+7962,1,Service,
+12393,1,Rental,
+8326,1,Rental,
+5553,1,Service,
+8623,1,Retail,
+8626,1,Service,
+3999,1,Service,
+4762,1,Service,
+3410,1,Downtown Association,
+2452,1,Service,
+5657,1,Rental,
+15953,1,Retail,
+3692,1,Other,
+5692,1,Service,
+763,1,Service,
+15953,1,Rental,
+9038,1,Rental,
+5663,1,Rental,
+9207,1,Rental,
+5608,1,Rental,
+8071,1,Service,
+3228,1,Service,
+12392,1,Rental,
+12397,1,Rental,
+1281,1,Retail,
+5622,1,Rental,
+6021,1,Service,
+3139,1,Service,
+7265,1,Service,
+7675,1,Service,
+2362,1,Rental,
+6008,1,Retail,
+2255,1,Rental,
+3485,1,Downtown Association,
+5529,1,Service,
+10220,1,Retail,
+6583,1,Service,
+5019,1,Service,
+8065,1,,
+5519,1,Retail,
+2718,1,Retail,
+1477,1,Rental,
+3095,1,Service,
+5133,1,Downtown Association,
+6924,1,Service,
+7548,1,Downtown Association,
+15953,1,Rental,
+12462,1,Service,
+6611,1,Service,
+3629,1,Service,
+8326,1,Service,
+9166,1,Rental,
+7603,1,Downtown Association,
+4713,1,Service,
+4046,1,Retail,
+10157,1,Downtown Association,
+2005,1,Retail,
+12774,1,Service,
+2221,1,Retail,
+277,1,Service,
+5272,1,Service,
+1190,1,Service,
+4111,1,Retail,
+9829,1,Service,
+7856,1,Service,
+15953,1,Downtown Association,
+7212,1,Downtown Association,
+6027,1,Retail,
+6121,1,Service,
+3660,1,,
+5554,1,Service,
+11363,1,Retail,
+6849,1,Service,
+2365,1,Retail,
+5881,1,Service,
+7290,1,Downtown Association,
+2199,1,Service,
+1130,1,Service,
+5651,1,Rental,
+7189,1,Retail,
+1476,1,Rental,
+5652,1,Rental,
+5655,1,Rental,
+8679,1,Service,
+3284,1,Service,
+2233,1,Service,
+5694,1,Service,
+4173,1,Retail,
+2180,1,Downtown Association,
+2417,1,Downtown Association,
+6511,1,Retail,
+6973,1,Service,
+7204,1,Retail,
+8819,1,Downtown Association,
+6636,1,Service,
+5627,1,Rental,
+5638,1,Rental,
+5623,1,Rental,
+4578,1,Service,
+11980,1,Rental,
+15953,1,Rental,
+7248,1,Other,
+7737,1,Retail,
+12361,1,Rental,
+12169,1,Downtown Association,
+7911,1,Retail,
+7091,1,Service,
+5638,1,Rental,
+6484,1,Service,
+8339,1,Downtown Association,
+3746,1,Rental,
+744,1,,
+5105,1,,
+4208,1,,
+4570,1,,
+3697,1,,
+5105,1,,
+3697,1,,
+4790,1,,
+5105,1,,
+4629,1,,
+4921,1,,
+4047,1,,
+3416,1,,
+5932,1,,
+9362,1,Downtown Association,
+3150,1,Service,
+4608,1,,
+748,1,Service,
+2178,1,Service,
+12621,1,Service,
+5652,1,Rental,
+6345,1,Service,
+5949,1,Service,
+4882,1,Service,
+8130,1,Service,
+9793,1,Service,
+8310,1,Downtown Association,
+14034,1,Rental,
+6821,1,Retail,
+3433,1,Service,
+4287,1,Other,
+4287,1,Other,
+7765,1,Rental,
+5609,1,Rental,
+10592,1,Rental,
+108,1,Service,
+1449,1,Rental,
+5645,1,Rental,
+15953,1,Service,
+8311,1,Retail,
+6133,1,Retail,
+6167,1,Service,
+5399,1,Service,
+5631,1,Rental,
+6751,1,Service,
+2591,1,Service,
+6594,1,Rental,
+1422,1,Rental,
+5629,1,Rental,
+7177,1,Downtown Association,
+4007,1,Service,
+10410,1,Service,
+6231,1,Service,
+15953,1,Downtown Association,
+10447,1,Rental,
+9087,1,Rental,
+267,1,Service,
+7520,1,Service,
+5167,1,Service,
+6896,1,Service,
+9841,1,Service,
+5650,1,Rental,
+11088,1,Service,
+14188,1,Service,
+4349,1,Service,
+4034,1,Downtown Association,
+1950,1,Retail,
+1677,1,Downtown Association,
+5363,1,Service,
+5974,1,Rental,
+5994,1,,
+15953,1,Retail,
+6404,1,Service,
+1875,1,Retail,
+15953,1,Rental,
+15953,1,Downtown Association,
+6539,1,Retail,
+6610,1,Service,
+5977,1,Retail,
+9556,1,Other,
+6035,1,Service,
+5656,1,Rental,
+6908,1,Service,
+7546,1,Service,
+5601,1,Rental,
+2073,1,Rental,
+5655,1,Rental,
+3048,1,Retail,
+6229,1,Retail,
+3878,1,Downtown Association,
+6930,1,Retail,
+5649,1,Retail,
+8393,1,Service,
+3706,1,Service,
+6488,1,Service,
+4846,1,Retail,
+13778,1,Retail,
+5650,1,Rental,
+9185,1,Rental,
+11230,1,Downtown Association,
+4433,1,Service,
+6090,1,Service,
+10103,1,Service,
+6713,1,Downtown Association,
+1389,1,Service,
+5876,1,Service,
+10622,1,Downtown Association,
+6149,1,Service,
+8049,1,Service,
+7469,1,Downtown Association,
+2375,1,Service,
+12351,1,Downtown Association,
+5064,1,Service,
+5649,1,Rental,
+9656,1,Retail,
+11203,1,Service,
+4187,1,Rental,
+11266,1,Service,
+12109,1,Service,
+9143,1,Rental,
+5805,1,Service,
+12336,1,Rental,
+12407,1,Rental,
+9173,1,,
+216,1,Service,
+7020,1,Service,
+5648,1,Rental,
+4046,1,Rental,
+8023,1,Service,
+1570,1,Service,
+12412,1,Rental,
+3101,1,Service,
+5994,1,Service,
+15953,1,Rental,
+2408,1,Service,
+11929,1,Downtown Association,
+2096,1,Downtown Association,
+3990,1,Service,
+7311,1,Downtown Association,
+6019,1,Other,
+15953,1,Retail,
+6181,1,Service,
+5637,1,Service,
+10803,1,Other,
+2956,1,,
+7468,1,Downtown Association,
+6230,1,Retail,
+6384,1,,
+7232,1,Service,
+6007,1,Retail,
+4595,1,Service,
+1676,1,Retail,
+9877,1,Retail,
+6233,1,Service,
+7447,1,Retail,
+7314,1,Retail,
+5566,1,Downtown Association,
+3291,1,Service,
+6064,1,Rental,
+5676,1,Service,
+3628,1,Rental,
+6708,1,Downtown Association,
+12412,1,Rental,
+8064,1,Rental,
+9142,1,Rental,
+3661,1,Service,
+15953,1,Retail,
+7248,1,Service,
+5217,1,Retail,
+5652,1,Rental,
+5652,1,Rental,
+4956,1,Service,
+9401,1,Service,
+13649,1,Service,
+1524,1,Rental,
+4501,1,Service,
+5236,1,Service,
+7772,1,Other,
+8010,1,Other,
+3368,1,Rental,
+4516,1,Downtown Association,
+10437,1,Retail,
+9837,1,Retail,
+390,1,Service,
+6036,1,Service,
+6988,1,Service,
+15953,1,Rental,
+8353,1,Service,
+15953,1,Service,
+2205,1,Service,
+3669,1,Service,
+2702,1,Service,
+6447,1,Service,
+4279,1,Service,
+5628,1,Rental,
+6364,1,Downtown Association,
+6653,1,Service,
+5655,1,Rental,
+6777,1,Service,
+12398,1,Rental,
+6797,1,Other,
+5582,1,Rental,
+3669,1,Service,
+4602,1,Service,
+5643,1,Rental,
+12796,1,Service,
+8164,1,Service,
+2619,1,Service,
+7049,1,Service,
+4628,1,Service,
+1114,1,Retail,
+7111,1,Rental,
+1403,1,Downtown Association,
+2619,1,Service,
+8773,1,Service,
+4557,1,Downtown Association,
+1504,1,Retail,
+1443,1,Rental,
+2682,1,Retail,
+6813,1,Service,
+3328,1,Service,
+5622,1,Rental,
+2198,1,Service,
+1753,1,Retail,
+2285,1,Other,
+4308,1,Service,
+7563,1,Other,
+6938,1,Service,
+7147,1,Service,
+12368,1,Rental,
+11296,1,Service,
+1303,1,Retail,
+5608,1,Rental,
+2075,1,Service,
+3450,1,Retail,
+9334,1,Other,
+13714,1,Service,
+5631,1,Rental,
+4004,1,Service,
+1402,1,Rental,
+5132,1,Retail,
+7261,1,Downtown Association,
+8078,1,Service,
+6603,1,Retail,
+2407,1,Service,
+5656,1,Rental,
+5650,1,Rental,
+5655,1,Rental,
+5652,1,Rental,
+5629,1,Rental,
+5662,1,Rental,
+5650,1,Rental,
+1448,1,Rental,
+4017,1,Retail,
+6895,1,Service,
+1482,1,Rental,
+1974,1,Other,
+4999,1,Retail,
+6391,1,Service,
+4739,1,Service,
+6112,1,Service,
+3480,1,Service,
+6245,1,Retail,
+7148,1,Service,
+15953,1,Downtown Association,
+3019,1,Service,
+5848,1,Service,
+4249,1,Service,
+2011,1,Service,
+5623,1,Rental,
+4591,1,Retail,
+13305,1,Service,
+3334,1,Service,
+4607,1,Rental,
+5756,1,Service,
+6512,1,Service,
+7633,1,Downtown Association,
+1830,1,Retail,
+4362,1,Retail,
+7062,1,Service,
+10460,1,Service,
+9001,1,Downtown Association,
+10950,1,Service,
+10415,1,Service,
+11224,1,Service,
+8865,1,Service,
+3787,1,Service,
+7951,1,Service,
+5599,1,Retail,
+5622,1,Rental,
+5222,1,Other,
+734,1,Service,
+2806,1,Downtown Association,
+6870,1,Retail,
+491,1,Retail,
+3307,1,Downtown Association,
+2716,1,Service,
+3237,1,Downtown Association,
+6636,1,Service,
+1281,1,Rental,
+1935,1,Retail,
+4046,1,Retail,
+6415,1,Retail,
+8553,1,Rental,
+7794,1,Retail,
+5790,1,Service,
+2467,1,Retail,
+9261,1,Retail,
+7777,1,Service,
+5440,1,Service,
+12413,1,Rental,
+5039,1,Retail,
+3422,1,Service,
+1054,1,Service,
+6686,1,Rental,
+6425,1,Service,
+6968,1,Service,
+5953,1,Service,
+4173,1,Service,
+3542,1,Service,
+7650,1,Service,
+3496,1,Service,
+4591,1,Service,
+7987,1,Retail,
+9480,1,Service,
+5904,1,Retail,
+9059,1,Service,
+2407,1,Service,
+947,1,Downtown Association,
+10529,1,Service,
+6800,1,Retail,
+7276,1,Other,
+4279,1,Service,
+2286,1,Service,
+5648,1,Rental,
+573,1,Service,
+5602,1,Downtown Association,
+4682,1,Service,
+4682,1,Service,
+5631,1,Rental,
+5145,1,Service,
+14650,1,Retail,
+2606,1,Retail,
+2369,1,Service,
+2844,1,Service,
+5123,1,Service,
+4537,1,Downtown Association,
+6037,1,Rental,
+3038,1,Service,
+7618,1,Downtown Association,
+9389,1,Retail,
+4007,1,Service,
+8422,1,Retail,
+6889,1,Retail,
+6078,1,Service,
+1879,1,Retail,
+4033,1,Retail,
+5589,1,Rental,
+7605,1,Retail,
+12524,1,Service,
+4383,1,Downtown Association,
+12413,1,Rental,
+5629,1,Rental,
+1281,1,Downtown Association,
+5628,1,Rental,
+15953,1,Service,
+5762,1,Service,
+8067,1,Service,
+1008,1,Retail,
+9815,1,Retail,
+8702,1,Retail,
+1989,1,Other,
+978,1,Service,
+10417,1,Rental,
+15953,1,Retail,
+5631,1,Rental,
+1522,1,Service,
+3646,1,Service,
+4656,1,Service,
+5516,1,Other,
+15953,1,Downtown Association,
+5645,1,Rental,
+3320,1,Other,
+3101,1,Service,
+10416,1,Rental,
+9211,1,Service,
+6036,1,Service,
+507,1,Retail,
+8333,1,Service,
+5510,1,Downtown Association,
+6776,1,Service,
+10220,1,Retail,
+4991,1,Service,
+7820,1,Service,
+10975,1,Service,
+3682,1,Retail,
+7659,1,Service,
+9663,1,Other,
+5442,1,Other,
+8728,1,Service,
+6860,1,Service,
+8163,1,Retail,
+10531,1,Other,
+5546,1,Service,
+12146,1,Other,
+3109,1,Service,
+3264,1,Service,
+7783,1,Downtown Association,
+5925,1,Service,
+6604,1,Service,
+11600,1,Retail,
+5929,1,Service,
+11090,1,Service,
+6965,1,Service,
+2382,1,Retail,
+5495,1,Service,
+2375,1,Service,
+8191,1,Service,
+7505,1,Service,
+319,1,Service,
+7059,1,Service,
+9845,1,Downtown Association,
+5271,1,Service,
+10338,1,Downtown Association,
+10893,1,Retail,
+15953,1,Other,
+5014,1,Other,
+9494,1,Retail,
+11829,1,Retail,
+15953,1,Retail,
+5658,1,Rental,
+4111,1,Service,
+4461,1,Service,
+14584,1,Service,
+6953,1,Service,
+7951,1,Service,
+1388,1,Downtown Association,
+247,1,Service,
+12896,1,Rental,
+7938,1,Service,
+9087,1,Rental,
+12368,1,Downtown Association,
+2719,1,Rental,
+4488,1,Service,
+14026,1,Service,
+14121,1,Service,
+9785,1,Service,
+12300,1,Service,
+3502,1,Service,
+9805,1,Service,
+8322,1,Service,
+9820,1,Retail,
+5258,1,Rental,
+3074,1,Retail,
+1555,1,Rental,
+7603,1,Downtown Association,
+5369,1,Service,
+8231,1,Service,
+7261,1,Downtown Association,
+5785,1,Service,
+7070,1,Downtown Association,
+15953,1,Retail,
+3704,1,Retail,
+5070,1,Service,
+2043,1,Retail,
+6582,1,Retail,
+4587,1,Downtown Association,
+2205,1,Downtown Association,
+4012,1,Downtown Association,
+673,1,Rental,
+6588,1,Service,
+1277,1,Retail,
+6223,1,Service,
+2011,1,Downtown Association,
+6218,1,Retail,
+10313,1,Service,
+3762,1,,
+10380,1,Service,
+4215,1,Retail,
+3461,1,Retail,
+3835,1,Service,
+3796,1,Service,
+8002,1,Retail,
+2802,1,Other,
+2856,1,Retail,
+6495,1,Retail,
+8577,1,Service,
+7828,1,Service,
+4774,1,Service,
+7672,1,Service,
+12299,1,Rental,
+5652,1,Rental,
+5651,1,Rental,
+5326,1,Service,
+12411,1,Rental,
+12406,1,Rental,
+5319,1,Service,
+5648,1,Rental,
+15588,1,Rental,
+6036,1,Downtown Association,
+5651,1,Rental,
+5656,1,Rental,
+10464,1,Rental,
+12321,1,Rental,
+5665,1,Service,
+5645,1,Rental,
+12482,1,Service,
+9038,1,Rental,
+6855,1,,
+5623,1,Rental,
+15953,1,Rental,
+12349,1,Rental,
+12391,1,Rental,
+10475,1,Downtown Association,
+5655,1,Rental,
+15953,1,Service,
+10417,1,Downtown Association,
+9165,1,Service,
+5607,1,Rental,
+2768,1,Rental,
+11490,1,Service,
+4660,1,Service,
+5629,1,Rental,
+12392,1,Rental,
+8590,1,Rental,
+5651,1,Rental,
+5532,1,Rental,
+5657,1,Rental,
+5986,1,Rental,
+11224,1,Service,
+8108,1,Rental,
+5610,1,Rental,
+5592,1,Rental,
+9113,1,Rental,
+1646,1,Rental,
+10545,1,Rental,
+5656,1,Rental,
+9185,1,Rental,
+5882,1,Rental,
+13761,1,Service,
+7801,1,Rental,
+4721,1,Service,
+10416,1,Rental,
+13482,1,Service,
+9185,1,Rental,
+14874,1,Service,
+3437,1,Service,
+12398,1,Rental,
+3681,1,Service,
+4805,1,,
+5655,1,Rental,
+1893,1,Service,
+12321,1,Rental,
+7827,1,Service,
+125,1,Retail,
+6131,1,Retail,
+12186,1,Service,
+4962,1,Service,
+6362,1,,
+7892,1,Service,
+13191,1,Retail,
+14096,1,Service,
+8438,1,Service,
+5510,1,Service,
+4305,1,Service,
+2423,1,,
+6107,1,Service,
+10640,1,Rental,
+5614,1,Rental,
+15953,1,Rental,
+12425,1,Rental,
+8396,1,Service,
+1463,1,Retail,
+7709,1,Service,
+6632,1,Service,
+2089,1,Service,
+3124,1,Service,
+2766,1,Downtown Association,
+8875,1,Service,
+9170,1,Rental,
+6712,1,Downtown Association,
+8172,1,Other,
+12407,1,Rental,
+4670,1,Rental,
+5650,1,Rental,
+2442,1,Service,
+6118,1,Service,
+5656,1,Rental,
+12393,1,Rental,
+9110,1,Rental,
+6072,1,Service,
+9137,1,Rental,
+9185,1,Rental,
+15953,1,Retail,
+5645,1,Rental,
+7554,1,Service,
+6595,1,Service,
+9988,1,Downtown Association,
+1281,1,Service,
+6826,1,Service,
+12803,1,Service,
+8479,1,Service,
+2576,1,Service,
+7006,1,Retail,
+5882,1,Retail,
+2858,1,Service,
+2410,1,Downtown Association,
+7115,1,Service,
+3661,1,Downtown Association,
+3423,1,Rental,
+5977,1,Retail,
+1715,1,Service,
+4251,1,Rental,
+5567,1,Service,
+3523,1,Service,
+3333,1,Retail,
+9198,1,Rental,
+2011,1,Rental,
+6328,1,Service,
+5621,1,Rental,
+9110,1,Rental,
+6461,1,Other,
+12410,1,Rental,
+15953,1,Downtown Association,
+4977,1,Service,
+4187,1,Service,
+2312,1,Service,
+5953,1,Service,
+11935,1,Rental,
+14660,1,Service,
+2311,1,Service,
+5377,1,Other,
+2654,1,Service,
+5449,1,Retail,
+5662,1,Rental,
+2499,1,Service,
+5805,1,Service,
+8039,1,Other,
+6933,1,Retail,
+5663,1,Rental,
+5656,1,Rental,
+5621,1,Rental,
+1448,1,Rental,
+1799,1,Rental,
+7147,1,Service,
+5655,1,Rental,
+8079,1,Rental,
+9039,1,Rental,
+16318,1,Service,
+2856,1,Retail,
+14583,1,Service,
+9143,1,Rental,
+5623,1,Rental,
+429,1,Downtown Association,
+11798,1,Service,
+15588,1,Service,
+4201,1,Service,
+11027,1,Service,
+2313,1,,
+4642,1,Service,
+8248,1,Service,
+198,1,Service,
+10803,1,Downtown Association,
+2708,1,Retail,
+185,1,Service,
+5613,1,Rental,
+5918,1,Rental,
+5581,1,Service,
+5589,1,Retail,
+15953,1,Service,
+12365,1,Rental,
+2638,1,Rental,
+7217,1,Retail,
+8333,1,Retail,
+4830,1,Service,
+10475,1,Rental,
+5707,1,Retail,
+5617,1,Rental,
+5617,1,Rental,
+2327,1,Retail,
+8430,1,Retail,
+3935,1,Downtown Association,
+15953,1,Retail,
+393,1,Downtown Association,
+15953,1,Service,
+3377,1,Downtown Association,
+10873,1,Service,
+2442,1,Service,
+15953,1,Rental,
+6035,1,Downtown Association,
+7273,1,Service,
+6692,1,Retail,
+8388,1,Service,
+1907,1,Retail,
+10808,1,Downtown Association,
+8309,1,Service,
+5000,1,Service,
+8268,1,Service,
+1256,1,Rental,
+3346,1,Service,
+4588,1,Service,
+301,1,Retail,
+15526,1,Retail,
+5607,1,Rental,
+5665,1,Rental,
+7595,1,Other,
+1659,1,Service,
+4677,1,Service,
+13061,1,Downtown Association,
+5504,1,Service,
+4381,1,,
+4738,1,Downtown Association,
+6091,1,Retail,
+4305,1,Downtown Association,
+5651,1,Rental,
+1646,1,Service,
+5680,1,Service,
+7051,1,Service,
+3038,1,Downtown Association,
+4249,1,Service,
+3493,1,Retail,
+11355,1,Service,
+5278,1,Downtown Association,
+1709,1,Service,
+5973,1,Service,
+5600,1,Other,
+2401,1,Other,
+7381,1,Other,
+7742,1,Service,
+13117,1,Retail,
+6034,1,Service,
+3971,1,Service,
+2103,1,Downtown Association,
+10486,1,Downtown Association,
+8267,1,Service,
+5609,1,Service,
+4607,1,Service,
+2562,1,Downtown Association,
+4952,1,Service,
+6035,1,Other,
+14827,1,Downtown Association,
+6345,1,Retail,
+1252,1,Downtown Association,
+8051,1,Service,
+15953,1,Service,
+3452,1,Service,
+9229,1,Service,
+7171,1,Service,
+3810,1,Service,
+2576,1,Downtown Association,
+8379,1,Service,
+5840,1,Service,
+15557,1,Service,
+6504,1,Service,
+6736,1,Service,
+4595,1,Service,
+3132,1,Retail,
+1301,1,Service,
+5686,1,Service,
+9170,1,Service,
+5629,1,Rental,
+5256,1,Service,
+3034,1,Service,
+3772,1,Rental,
+7170,1,Service,
+12392,1,Rental,
+3451,1,Rental,
+3884,1,Service,
+7030,1,Service,
+6623,1,Service,
+5006,1,Service,
+5125,1,Service,
+8773,1,Service,
+5754,1,Downtown Association,
+3718,1,Service,
+7190,1,Service,
+4636,1,Service,
+14622,1,Service,
+7727,1,Service,
+9051,1,Downtown Association,
+6478,1,Service,
+6261,1,Retail,
+4642,1,Service,
+8862,1,Retail,
+6344,1,Service,
+6310,1,Service,
+7517,1,Service,
+12025,1,Other,
+6828,1,Service,
+5937,1,Service,
+7008,1,Service,
+5971,1,Service,
+979,1,Retail,
+4958,1,Service,
+12266,1,Other,
+4031,1,Downtown Association,
+6021,1,Service,
+3158,1,Service,
+4312,1,Service,
+7581,1,Downtown Association,
+4552,1,Service,
+15953,1,Other,
+5656,1,Rental,
+6051,1,Downtown Association,
+6513,1,Service,
+5650,1,Rental,
+2906,1,Downtown Association,
+5747,1,Service,
+2011,1,Service,
+4896,1,Service,
+2305,1,Service,
+1507,1,Downtown Association,
+2054,1,Retail,
+5054,1,Retail,
+10335,1,Retail,
+2101,1,Retail,
+1887,1,Service,
+7539,1,Retail,
+3010,1,Retail,
+3950,1,Retail,
+4201,1,,
+1486,1,,
+10723,1,Service,
+6953,1,Other,
+4825,1,Other,
+6126,1,Service,
+2211,1,Retail,
+5071,1,Other,
+8024,1,Retail,
+4634,1,Downtown Association,
+4109,1,Service,
+6104,1,Service,
+5678,1,Retail,
+9871,1,Service,
+6126,1,Service,
+3381,1,Service,
+9141,1,Service,
+8010,1,Service,
+12376,1,Rental,
+6616,1,Service,
+5644,1,Rental,
+15953,1,Service,
+3335,1,Service,
+7604,1,Service,
+5644,1,Rental,
+2702,1,Retail,
+12398,1,Rental,
+3803,1,Service,
+12847,1,Service,
+12393,1,Rental,
+5662,1,Rental,
+6926,1,Retail,
+5631,1,Rental,
+3692,1,Service,
+15953,1,Service,
+18875,1,Service,
+3669,1,Service,
+5665,1,Rental,
+2912,1,Service,
+12391,1,Service,
+6566,1,Service,
+5663,1,Rental,
+13577,1,Service,
+6499,1,Service,
+7652,1,Service,
+3370,1,Rental,
+6027,1,Service,
+6608,1,Service,
+3837,1,Rental,
+4138,1,,
+3941,1,,
+1500,1,Service,
+5379,1,Downtown Association,
+7994,1,Other,
+16318,1,Service,
+5665,1,Rental,
+6820,1,Service,
+2817,1,Retail,
+1039,1,Retail,
+12412,1,Rental,
+8058,1,Service,
+5210,1,Service,
+2981,1,Service,
+5655,1,Rental,
+2078,1,Downtown Association,
+5652,1,Rental,
+13940,1,Service,
+5357,1,Service,
+6408,1,Service,
+8275,1,Service,
+5302,1,Downtown Association,
+5666,1,Rental,
+12407,1,Rental,
+12379,1,Rental,
+13296,1,Rental,
+5648,1,Rental,
+3760,1,Service,
+5285,1,Service,
+5623,1,Rental,
+5595,1,Rental,
+5917,1,Rental,
+5705,1,Rental,
+9198,1,Rental,
+3373,1,,
+11935,1,Service,
+8207,1,Rental,
+3061,1,Rental,
+8207,1,Service,
+7925,1,Other,
+7570,1,Service,
+6107,1,Retail,
+11209,1,Other,
+15953,1,Service,
+7064,1,Service,
+5656,1,Rental,
+9178,1,Service,
+14426,1,Service,
+5665,1,Rental,
+5637,1,Rental,
+5683,1,Rental,
+12411,1,Rental,
+13730,1,Downtown Association,
+5502,1,Rental,
+2617,1,Downtown Association,
+892,1,Service,
+7478,1,Service,
+8799,1,Retail,
+5607,1,Rental,
+8430,1,Service,
+5161,1,Service,
+5957,1,Retail,
+11327,1,Service,
+4452,1,Other,
+15953,1,Downtown Association,
+8163,1,Service,
+14887,1,Service,
+2411,1,Rental,
+7031,1,Service,
+1632,1,Service,
+6141,1,Retail,
+5980,1,Service,
+5658,1,Rental,
+5649,1,Service,
+4938,1,Service,
+5645,1,Rental,
+8525,1,Retail,
+1889,1,Service,
+6191,1,Service,
+5574,1,Service,
+3920,1,Other,
+7143,1,Service,
+21797,1,Service,
+7938,1,Service,
+4917,1,Service,
+5125,1,Other,
+3788,1,Service,
+6247,1,Other,
+2655,1,Service,
+8779,1,Downtown Association,
+3571,1,Service,
+6734,1,Other,
+6516,1,Retail,
+5781,1,Retail,
+5805,1,Retail,
+5749,1,Downtown Association,
+4406,1,Retail,
+5831,1,Retail,
+5650,1,Retail,
+4969,1,Retail,
+6373,1,Rental,
+5662,1,Rental,
+5656,1,Rental,
+3692,1,Service,
+10135,1,Service,
+3537,1,Service,
+4959,1,Other,
+6428,1,Service,
+3368,1,Service,
+5623,1,Rental,
+5662,1,Rental,
+888,1,Rental,
+4185,1,Service,
+2214,1,Service,
+3215,1,,
+12168,1,Service,
+1708,1,Rental,
+5664,1,Rental,
+7514,1,Service,
+227,1,Retail,
+3156,1,Service,
+3293,1,Service,
+2183,1,Rental,
+1935,1,Service,
+7822,1,Service,
+5287,1,Retail,
+1039,1,Service,
+5440,1,Downtown Association,
+10367,1,Downtown Association,
+12412,1,Rental,
+2708,1,Retail,
+5651,1,Rental,
+2589,1,Service,
+5708,1,Downtown Association,
+5397,1,Service,
+3628,1,Rental,
+5665,1,Rental,
+2068,1,Rental,
+5634,1,Rental,
+4656,1,Rental,
+4391,1,Downtown Association,
+3704,1,Retail,
+3793,1,Service,
+5258,1,Retail,
+7777,1,Service,
+4041,1,Service,
+4165,1,Service,
+5326,1,Service,
+4417,1,Downtown Association,
+6425,1,Service,
+2438,1,,
+6996,1,Service,
+9549,1,Other,
+6674,1,Service,
+4538,1,Service,
+8077,1,Service,
+1310,1,Service,
+5994,1,Downtown Association,
+6692,1,Downtown Association,
+12356,1,Rental,
+4468,1,Other,
+7590,1,Downtown Association,
+6460,1,Other,
+3094,1,,
+4766,1,Service,
+7772,1,Other,
+6533,1,Retail,
+2865,1,Retail,
+5445,1,Downtown Association,
+2843,1,Retail,
+5655,1,Rental,
+5645,1,Service,
+5620,1,Rental,
+5684,1,Rental,
+13843,1,Retail,
+938,1,Retail,
+6524,1,Service,
+1799,1,Retail,
+10233,1,Service,
+5652,1,Rental,
+5663,1,Rental,
+9113,1,Rental,
+5627,1,Rental,
+5663,1,Rental,
+9149,1,Rental,
+11935,1,Rental,
+5530,1,Rental,
+19605,1,Service,
+5613,1,Rental,
+12412,1,Rental,
+10153,1,Service,
+12762,1,Downtown Association,
+5764,1,Rental,
+5608,1,Rental,
+2477,1,Rental,
+9206,1,Rental,
+10417,1,Rental,
+9086,1,Rental,
+14492,1,Service,
+8107,1,Rental,
+9150,1,Rental,
+12405,1,Rental,
+6820,1,Service,
+10416,1,Downtown Association,
+16318,1,Downtown Association,
+12363,1,Rental,
+12412,1,Rental,
+17595,1,Rental,
+3587,1,Service,
+15953,1,Service,
+12398,1,Rental,
+5026,1,Rental,
+13761,1,Service,
+1493,1,Rental,
+8396,1,Rental,
+2195,1,Rental,
+6230,1,Downtown Association,
+11108,1,Service,
+978,1,Downtown Association,
+5553,1,Rental,
+11944,1,Service,
+12110,1,Service,
+8304,1,Service,
+5655,1,Rental,
+15953,1,Service,
+6196,1,Service,
+9226,1,Service,
+13031,1,Service,
+5190,1,Retail,
+2017,1,Service,
+5652,1,Rental,
+7462,1,Service,
+5762,1,Downtown Association,
+9613,1,Other,
+3573,1,Service,
+6952,1,Downtown Association,
+15953,1,Rental,
+13666,1,Service,
+7765,1,Rental,
+4320,1,Service,
+12078,1,Retail,
+15953,1,Retail,
+9289,1,Downtown Association,
+1333,1,Service,
+5071,1,Other,
+12414,1,Rental,
+1343,1,Service,
+10263,1,Other,
+6665,1,Service,
+4557,1,Retail,
+14679,1,Service,
+2410,1,Service,
+12391,1,Rental,
+2578,1,Service,
+3843,1,Other,
+612,1,Service,
+5986,1,Rental,
+12354,1,Rental,
+5635,1,Rental,
+12393,1,Rental,
+5665,1,Rental,
+9205,1,Rental,
+5645,1,Rental,
+2051,1,Rental,
+5641,1,Rental,
+8200,1,Rental,
+7303,1,Rental,
+7778,1,Rental,
+5462,1,Rental,
+5655,1,Rental,
+5663,1,Rental,
+5634,1,Rental,
+17779,1,Service,
+12320,1,Rental,
+5656,1,Rental,
+5631,1,Rental,
+9170,1,Rental,
+9086,1,Rental,
+10535,1,Rental,
+2068,1,Rental,
+10808,1,Service,
+9635,1,Service,
+9198,1,Rental,
+5686,1,Rental,
+2806,1,Service,
+5666,1,Rental,
+5531,1,Rental,
+15953,1,Service,
+5662,1,Rental,
+9199,1,Rental,
+8658,1,Rental,
+5663,1,Rental,
+7287,1,Service,
+5519,1,Service,
+10229,1,Service,
+5644,1,Rental,
+11181,1,Service,
+3003,1,Retail,
+2379,1,Service,
+7268,1,Service,
+12410,1,Rental,
+5651,1,Rental,
+5651,1,Rental,
+5662,1,Rental,
+16683,1,Downtown Association,
+5656,1,Rental,
+7268,1,Rental,
+5663,1,Rental,
+5326,1,Service,
+7363,1,Rental,
+12482,1,Service,
+9620,1,Downtown Association,
+5603,1,Rental,
+3762,1,Service,
+2852,1,Service,
+6933,1,Service,
+10394,1,Other,
+13334,1,Service,
+8678,1,Rental,
+5649,1,Rental,
+15588,1,Service,
+3618,1,Other,
+6926,1,Downtown Association,
+7153,1,Service,
+15588,1,Downtown Association,
+581,1,Service,
+11935,1,Rental,
+9207,1,Rental,
+12391,1,Rental,
+1465,1,Rental,
+11523,1,Service,
+5608,1,Rental,
+12410,1,Rental,
+9143,1,Rental,
+5665,1,Rental,
+8004,1,Rental,
+5665,1,Rental,
+5931,1,Rental,
+9205,1,Rental,
+9913,1,Service,
+8931,1,Service,
+15018,1,Service,
+7868,1,Service,
+15116,1,Service,
+247,1,Service,
+2941,1,Downtown Association,
+7307,1,Downtown Association,
+12347,1,Rental,
+10468,1,Downtown Association,
+5628,1,Rental,
+7835,1,Rental,
+9198,1,Rental,
+12398,1,Rental,
+9087,1,Rental,
+9199,1,Rental,
+10408,1,Rental,
+5623,1,Rental,
+5425,1,Rental,
+3746,1,Rental,
+9115,1,Rental,
+2807,1,Rental,
+9185,1,Rental,
+5656,1,Rental,
+5655,1,Rental,
+5636,1,Rental,
+17779,1,Service,
+5610,1,Rental,
+9038,1,Rental,
+5028,1,Rental,
+4935,1,Retail,
+9185,1,Rental,
+5124,1,Service,
+2415,1,Downtown Association,
+2432,1,Retail,
+15953,1,Service,
+5645,1,Rental,
+5686,1,Service,
+5610,1,Rental,
+12414,1,Rental,
+1100,1,Retail,
+2358,1,Downtown Association,
+3362,1,Service,
+6840,1,,
+15588,1,Service,
+5650,1,Rental,
+10249,1,Service,
+14668,1,Service,
+12639,1,Downtown Association,
+3936,1,,
+7785,1,Rental,
+5608,1,Rental,
+9019,1,Other,
+15953,1,Service,
+7882,1,Downtown Association,
+7882,1,Service,
+6855,1,Service,
+5650,1,Rental,
+2858,1,Service,
+5652,1,Rental,
+8353,1,Downtown Association,
+6524,1,,
+6715,1,Retail,
+5490,1,Retail,
+6597,1,Downtown Association,
+13129,1,Downtown Association,
+5477,1,Rental,
+5638,1,Rental,
+12697,1,Rental,
+6321,1,Service,
+5656,1,Rental,
+10137,1,Retail,
+12460,1,Service,
+5643,1,Rental,
+4411,1,Service,
+5980,1,Rental,
+3396,1,Service,
+612,1,Retail,
+9347,1,Service,
+8396,1,Retail,
+5845,1,Retail,
+12368,1,Downtown Association,
+6672,1,Service,
+6231,1,Other,
+4517,1,Service,
+4846,1,Downtown Association,
+4798,1,Retail,
+5662,1,Rental,
+7086,1,Service,
+6380,1,Retail,
+5054,1,Service,
+6204,1,Service,
+3184,1,Downtown Association,
+3565,1,Service,
+15953,1,Service,
+7666,1,Rental,
+5650,1,Rental,
+7575,1,Downtown Association,
+12410,1,Rental,
+7193,1,Service,
+7924,1,Retail,
+1424,1,Retail,
+12397,1,Rental,
+5685,1,Rental,
+9149,1,Rental,
+12397,1,Rental,
+5994,1,Service,
+6526,1,Service,
+2526,1,Service,
+6177,1,Downtown Association,
+5656,1,Rental,
+3048,1,Service,
+5477,1,Downtown Association,
+3362,1,Service,
+1234,1,Downtown Association,
+7518,1,Retail,
+2883,1,Retail,
+6898,1,Service,
+7057,1,Service,
+5629,1,Rental,
+7560,1,Retail,
+4844,1,Service,
+5663,1,Rental,
+3214,1,Service,
+3678,1,Service,
+2919,1,Retail,
+2943,1,Retail,
+2337,1,Service,
+3159,1,Service,
+3661,1,Service,
+5608,1,Downtown Association,
+2914,1,Service,
+5684,1,Service,
+5595,1,Rental,
+3522,1,Service,
+2775,1,Retail,
+5832,1,Other,
+3495,1,Service,
+4353,1,Retail,
+6016,1,Service,
+6884,1,Service,
+6715,1,Service,
+7273,1,Service,
+3794,1,Service,
+3922,1,Service,
+3299,1,Service,
+5713,1,Service,
+1452,1,Rental,
+3590,1,Rental,
+10215,1,Service,
+5825,1,Service,
+626,1,Downtown Association,
+5987,1,Service,
+2579,1,Service,
+5230,1,Downtown Association,
+1555,1,Downtown Association,
+14563,1,Retail,
+5258,1,Service,
+15953,1,Other,
+8077,1,Service,
+4831,1,Retail,
+15953,1,Other,
+6338,1,Service,
+7300,1,Service,
+720,1,Service,
+5652,1,Rental,
+6799,1,Rental,
+5638,1,Retail,
+5656,1,Retail,
+6118,1,Downtown Association,
+5651,1,Rental,
+2709,1,Downtown Association,
+5645,1,Service,
+9355,1,Service,
+6994,1,Downtown Association,
+4433,1,Service,
+5923,1,Downtown Association,
+11266,1,Service,
+2040,1,Service,
+1616,1,Retail,
+2837,1,Other,
+7386,1,Service,
+9115,1,Rental,
+459,1,Service,
+2485,1,Service,
+4185,1,Service,
+12406,1,Rental,
+6362,1,Service,
+5650,1,Rental,
+5631,1,Retail,
+6127,1,Downtown Association,
+9243,1,Service,
+12406,1,Rental,
+10223,1,Service,
+15953,1,Service,
+8702,1,Service,
+6243,1,Service,
+6509,1,Service,
+9261,1,Service,
+2806,1,Service,
+7632,1,Retail,
+11599,1,Downtown Association,
+10185,1,Downtown Association,
+15953,1,Downtown Association,
+4343,1,Hotel,
+5131,1,Service,
+14428,1,Retail,
+6310,1,Downtown Association,
+5573,1,Service,
+9747,1,Downtown Association,
+6209,1,Downtown Association,
+15953,1,Service,
+12329,1,Rental,
+6847,1,Service,
+7302,1,Service,
+2201,1,,
+5753,1,Other,
+10467,1,Service,
+15953,1,Retail,
+5503,1,Service,
+13371,1,Retail,
+1121,1,Retail,
+5553,1,Retail,
+5365,1,Service,
+15953,1,Service,
+4091,1,Downtown Association,
+22162,1,Service,
+5446,1,Service,
+5827,1,Service,
+8324,1,Retail,
+1571,1,Service,
+8620,1,Service,
+3321,1,Service,
+4542,1,Service,
+5144,1,Retail,
+6460,1,Service,
+6923,1,Service,
+6217,1,Retail,
+4929,1,Service,
+13505,1,Service,
+6118,1,Service,
+4172,1,Service,
+5663,1,Rental,
+6793,1,Retail,
+15953,1,Other,
+1865,1,Retail,
+15953,1,Service,
+15953,1,Service,
+9163,1,Service,
+11041,1,Service,
+18875,1,Service,
+5929,1,Service,
+6183,1,Downtown Association,
+7759,1,Service,
+6392,1,Downtown Association,
+5924,1,Service,
+4490,1,Service,
+6692,1,Service,
+3996,1,Service,
+14277,1,Service,
+6849,1,Downtown Association,
+6261,1,Service,
+6499,1,Downtown Association,
+14857,1,Downtown Association,
+15953,1,Service,
+3382,1,Retail,
+6740,1,Service,
+5649,1,Rental,
+6511,1,Service,
+1290,1,Rental,
+7365,1,Downtown Association,
+5652,1,Rental,
+9208,1,Rental,
+12299,1,Rental,
+6625,1,Service,
+5655,1,Rental,
+2619,1,Service,
+12405,1,Rental,
+4474,1,Service,
+1368,1,Rental,
+11096,1,Retail,
+3459,1,Service,
+12390,1,Rental,
+10531,1,Service,
+6090,1,Rental,
+7499,1,Retail,
+5028,1,Service,
+8051,1,Service,
+12691,1,Service,
+9649,1,Retail,
+12404,1,Rental,
+10444,1,Downtown Association,
+7588,1,Service,
+1974,1,Service,
+1297,1,Rental,
+6762,1,Other,
+1524,1,Service,
+3150,1,Rental,
+5614,1,Rental,
+5728,1,Service,
+3627,1,Service,
+2898,1,Retail,
+4222,1,Hotel,
+489,1,Service,
+9207,1,Rental,
+6979,1,Service,
+6854,1,Downtown Association,
+3781,1,Downtown Association,
+2449,1,,
+7443,1,Service,
+5483,1,Service,
+4682,1,Service,
+3831,1,Service,
+12392,1,Rental,
+11097,1,Rental,
+3555,1,Service,
+4060,1,Service,
+12391,1,Service,
+8935,1,,
+5000,1,Service,
+11915,1,Service,
+8756,1,Service,
+7471,1,Service,
+5606,1,Rental,
+15953,1,Service,
+3039,1,Service,
+8806,1,Service,
+5841,1,Service,
+1178,1,Service,
+6456,1,Service,
+5662,1,Rental,
+3541,1,Service,
+11733,1,Retail,
+8816,1,Service,
+9089,1,Rental,
+5637,1,Rental,
+5663,1,Rental,
+5662,1,Rental,
+7533,1,Rental,
+8612,1,Service,
+5651,1,Rental,
+9169,1,Rental,
+5656,1,Rental,
+12696,1,Service,
+7875,1,Retail,
+7356,1,Retail,
+3485,1,Retail,
+2761,1,Other,
+8269,1,Service,
+6385,1,Rental,
+1724,1,Rental,
+4595,1,Service,
+1708,1,Retail,
+2592,1,Service,
+11266,1,Downtown Association,
+15953,1,Retail,
+15953,1,Service,
+20517,1,Retail,
+15953,1,Retail,
+7388,1,Downtown Association,
+4291,1,Hotel,
+9142,1,Rental,
+7617,1,Service,
+4853,1,Downtown Association,
+10479,1,Downtown Association,
+5932,1,Service,
+11133,1,Downtown Association,
+11791,1,Retail,
+15222,1,Service,
+5763,1,Retail,
+3345,1,Other,
+7485,1,Rental,
+6917,1,Other,
+8666,1,Retail,
+15953,1,Rental,
+3328,1,Service,
+4832,1,Other,
+10073,1,Service,
+8269,1,Service,
+1906,1,Other,
+6016,1,Retail,
+747,1,Retail,
+916,1,Retail,
+8847,1,Retail,
+7814,1,Service,
+6188,1,Retail,
+14673,1,Downtown Association,
+10599,1,Service,
+7129,1,Service,
+612,1,Service,
+7413,1,Service,
+5330,1,Retail,
+3055,1,Other,
+6104,1,Service,
+6496,1,Service,
+7132,1,Service,
+8318,1,Retail,
+7248,1,Service,
+8581,1,Service,
+7514,1,Downtown Association,
+7435,1,Service,
+11525,1,Other,
+9142,1,Rental,
+4882,1,Retail,
+2164,1,Service,
+6546,1,Downtown Association,
+7695,1,Other,
+3877,1,Other,
+2851,1,Downtown Association,
+10166,1,Retail,
+5616,1,Rental,
+13089,1,Service,
+9984,1,Service,
+8277,1,Service,
+5658,1,Service,
+1550,1,Downtown Association,
+8982,1,Downtown Association,
+4530,1,Service,
+5652,1,Rental,
+8017,1,Other,
+5665,1,Rental,
+9110,1,Rental,
+11508,1,Service,
+5630,1,Rental,
+10130,1,Service,
+12398,1,Rental,
+10975,1,Downtown Association,
+4697,1,Rental,
+3163,1,Service,
+1646,1,Service,
+4768,1,Downtown Association,
+5651,1,Rental,
+7433,1,,
+5650,1,Rental,
+8528,1,Other,
+11742,1,Service,
+5649,1,Rental,
+2544,1,Downtown Association,
+6364,1,Service,
+5152,1,,
+2292,1,Service,
+489,1,Downtown Association,
+12400,1,Rental,
+15588,1,Retail,
+7518,1,Retail,
+7891,1,Downtown Association,
+8969,1,Retail,
+7812,1,Service,
+5554,1,Service,
+8109,1,Rental,
+4831,1,Service,
+7091,1,Service,
+6135,1,Service,
+1462,1,Service,
+3878,1,Service,
+5566,1,Rental,
+6203,1,Service,
+3930,1,Rental,
+5652,1,Rental,
+7573,1,Service,
+14355,1,Service,
+7611,1,Downtown Association,
+2676,1,Service,
+6391,1,Service,
+6937,1,Service,
+15953,1,Service,
+3172,1,Retail,
+10416,1,Rental,
+10128,1,Service,
+1220,1,Rental,
+5627,1,Rental,
+6253,1,Service,
+5210,1,Service,
+1039,1,Service,
+10052,1,Downtown Association,
+9137,1,Retail,
+5071,1,Service,
+4095,1,Service,
+2782,1,Service,
+9149,1,Rental,
+8064,1,Rental,
+12513,1,Rental,
+15953,1,Rental,
+5855,1,Service,
+5663,1,Rental,
+8549,1,Other,
+10233,1,Service,
+7870,1,Service,
+5652,1,Rental,
+6223,1,Retail,
+15953,1,Rental,
+1004,1,Downtown Association,
+6448,1,Service,
+15953,1,Service,
+4866,1,Service,
+6021,1,Service,
+6231,1,Service,
+12370,1,Rental,
+7575,1,Retail,
+1477,1,Service,
+5642,1,Rental,
+6565,1,Service,
+11852,1,Service,
+5623,1,Rental,
+6488,1,Downtown Association,
+3940,1,Retail,
+2429,1,Other,
+2074,1,Service,
+7469,1,Service,
+4874,1,,
+7527,1,Service,
+1343,1,Service,
+4901,1,Downtown Association,
+8638,1,Retail,
+2012,1,Service,
+11535,1,Service,
+8170,1,Service,
+6842,1,Other,
+6027,1,Service,
+12368,1,Downtown Association,
+15953,1,Service,
+4032,1,Downtown Association,
+13209,1,Service,
+7906,1,Service,
+7079,1,Retail,
+7506,1,Retail,
+3440,1,Rental,
+3706,1,Service,
+5147,1,Downtown Association,
+7280,1,Other,
+7538,1,Other,
+4768,1,Service,
+7765,1,Downtown Association,
+3829,1,Service,
+10426,1,Service,
+5825,1,Service,
+7401,1,Service,
+5655,1,Rental,
+6729,1,Service,
+5343,1,Retail,
+4375,1,Hotel,
+6107,1,Retail,
+10454,1,Rental,
+5649,1,Rental,
+6875,1,Service,
+4727,1,Retail,
+5749,1,Service,
+5803,1,Service,
+6230,1,Service,
+4531,1,Service,
+5516,1,Service,
+8284,1,Service,
+7427,1,Retail,
+4656,1,Retail,
+15953,1,Retail,
+3874,1,Other,
+2401,1,Service,
+4935,1,Service,
+4535,1,Downtown Association,
+13031,1,Service,
+5237,1,Retail,
+3585,1,Downtown Association,
+10115,1,Retail,
+1751,1,Retail,
+4964,1,Retail,
+5349,1,Downtown Association,
+1326,1,Retail,
+2815,1,Retail,
+11991,1,Downtown Association,
+12568,1,Service,
+5825,1,Retail,
+3088,1,Service,
+4774,1,Service,
+6604,1,Retail,
+6442,1,Service,
+1312,1,Service,
+4452,1,Service,
+5348,1,Retail,
+5344,1,Downtown Association,
+6415,1,Downtown Association,
+428,1,Rental,
+4577,1,Retail,
+2290,1,Service,
+8577,1,Service,
+1100,1,Retail,
+4412,1,Service,
+2011,1,Downtown Association,
+8018,1,Service,
+978,1,Other,
+7679,1,,
+3117,1,Service,
+6330,1,Service,
+627,1,Service,
+10345,1,Service,
+4993,1,Service,
+5071,1,Service,
+1457,1,Rental,
+9939,1,Retail,
+905,1,Service,
+6946,1,Retail,
+4523,1,Downtown Association,
+15953,1,Service,
+8112,1,Service,
+6889,1,Service,
+6107,1,Retail,
+13441,1,Service,
+8130,1,Service,
+4767,1,Service,
+4181,1,Downtown Association,
+7057,1,Service,
+5445,1,Service,
+4181,1,Retail,
+4773,1,Retail,
+1414,1,Rental,
+10243,1,Other,
+7444,1,Other,
+3879,1,Service,
+6134,1,Service,
+8175,1,Downtown Association,
+7048,1,Service,
+6842,1,Service,
+5131,1,Service,
+8151,1,Retail,
+5231,1,Downtown Association,
+6314,1,Retail,
+13534,1,Service,
+4579,1,Retail,
+4682,1,Retail,
+1329,1,Downtown Association,
+1865,1,Retail,
+12132,1,Downtown Association,
+8955,1,Service,
+4840,1,Downtown Association,
+5651,1,Rental,
+8155,1,Retail,
+15953,1,Rental,
+9381,1,Service,
+6390,1,Service,
+8458,1,Downtown Association,
+2222,1,Service,
+7029,1,Retail,
+7407,1,Retail,
+6345,1,Retail,
+4017,1,Service,
+7611,1,Retail,
+2404,1,Service,
+4102,1,Hotel,
+8574,1,Service,
+14793,1,Retail,
+5385,1,Other,
+6153,1,Retail,
+5397,1,Retail,
+7680,1,Service,
+4033,1,Retail,
+10926,1,Service,
+12534,1,Retail,
+5335,1,Retail,
+13153,1,Retail,
+5652,1,Rental,
+7847,1,Retail,
+3989,1,Service,
+2073,1,Retail,
+15953,1,Downtown Association,
+2297,1,Service,
+6378,1,Service,
+4133,1,Retail,
+4465,1,Downtown Association,
+4787,1,Downtown Association,
+3139,1,Service,
+3475,1,Service,
+5776,1,Service,
+3564,1,Downtown Association,
+2521,1,Service,
+8562,1,,
+10278,1,Service,
+5124,1,Retail,
+7308,1,Other,
+7783,1,Service,
+4739,1,Service,
+4886,1,Service,
+7057,1,Service,
+11251,1,Other,
+15953,1,Other,
+14672,1,Service,
+6595,1,Retail,
+6120,1,Retail,
+10348,1,Service,
+21066,1,Downtown Association,
+10037,1,Downtown Association,
+3993,1,Rental,
+5652,1,Rental,
+3838,1,Retail,
+2255,1,Retail,
+6118,1,Service,
+5231,1,Service,
+5651,1,Rental,
+7692,1,Downtown Association,
+7555,1,Downtown Association,
+7409,1,Service,
+7590,1,Retail,
+3313,1,Service,
+10017,1,Service,
+10417,1,Rental,
+3779,1,Retail,
+1708,1,Service,
+2029,1,Retail,
+14666,1,Service,
+4859,1,Service,
+6736,1,Other,
+9267,1,Service,
+6842,1,Retail,
+4249,1,Service,
+6345,1,Downtown Association,
+269,1,Service,
+1541,1,Service,
+2495,1,Service,
+2676,1,Service,
+3804,1,Retail,
+4644,1,Service,
+8555,1,Retail,
+6380,1,Retail,
+2011,1,Rental,
+2933,1,Retail,
+5638,1,Rental,
+8058,1,Service,
+2089,1,Downtown Association,
+5645,1,Service,
+11789,1,Service,
+5389,1,Service,
+2996,1,Service,
+4140,1,Service,
+5992,1,Service,
+4111,1,Service,
+9243,1,Service,
+7626,1,Service,
+6161,1,Service,
+14339,1,Rental,
+7930,1,Service,
+13838,1,Service,
+6896,1,Downtown Association,
+9765,1,Service,
+2919,1,Service,
+2318,1,Service,
+1793,1,Downtown Association,
+4825,1,Other,
+4551,1,Service,
+11728,1,,
+6345,1,Retail,
+4104,1,Service,
+5652,1,Rental,
+9113,1,Rental,
+6562,1,Retail,
+6757,1,Retail,
+4921,1,Rental,
+15953,1,Downtown Association,
+5218,1,Service,
+7765,1,Downtown Association,
+7855,1,Retail,
+4661,1,Downtown Association,
+4165,1,Retail,
+5623,1,Rental,
+14339,1,Service,
+6923,1,Retail,
+11451,1,Other,
+5379,1,Service,
+5650,1,Rental,
+7759,1,Retail,
+1900,1,Retail,
+1900,1,Downtown Association,
+5271,1,Service,
+1997,1,Service,
+4969,1,Service,
+5622,1,Service,
+5813,1,Service,
+9494,1,Service,
+7363,1,Service,
+1032,1,Retail,
+5643,1,Rental,
+5606,1,Rental,
+5110,1,Service,
+3990,1,Service,
+8772,1,Service,
+10192,1,Service,
+5622,1,Rental,
+7973,1,Service,
+7791,1,Rental,
+3230,1,Rental,
+12348,1,Rental,
+12410,1,Rental,
+12400,1,Rental,
+9087,1,Rental,
+6398,1,Service,
+6153,1,Service,
+6392,1,Service,
+5692,1,Service,
+4097,1,Service,
+6636,1,Retail,
+4749,1,Downtown Association,
+15953,1,Retail,
+7583,1,Downtown Association,
+5868,1,Other,
+4999,1,Service,
+7700,1,Downtown Association,
+14679,1,Service,
+4830,1,Downtown Association,
+2340,1,Service,
+4957,1,Service,
+2359,1,Service,
+5154,1,Retail,
+3730,1,Service,
+3222,1,Downtown Association,
+12992,1,Retail,
+4636,1,Service,
+9003,1,Service,
+4993,1,Downtown Association,
+12356,1,Rental,
+5657,1,Rental,
+5572,1,Rental,
+6715,1,Downtown Association,
+7533,1,Service,
+8847,1,Service,
+15953,1,Retail,
+9170,1,Rental,
+9151,1,Rental,
+15953,1,Downtown Association,
+9198,1,Rental,
+15953,1,Downtown Association,
+5665,1,Rental,
+7325,1,Downtown Association,
+10132,1,Service,
+2485,1,Service,
+5655,1,Rental,
+15953,1,Downtown Association,
+5607,1,Rental,
+11019,1,Service,
+8350,1,Service,
+2463,1,Service,
+5629,1,Rental,
+5656,1,Rental,
+8443,1,Service,
+12405,1,Rental,
+5651,1,Rental,
+5622,1,Rental,
+4963,1,Downtown Association,
+9199,1,Rental,
+7653,1,Other,
+3914,1,Rental,
+7532,1,Service,
+3436,1,Downtown Association,
+3472,1,Service,
+5614,1,Rental,
+5664,1,Rental,
+12413,1,Service,
+9110,1,Rental,
+13455,1,Service,
+5645,1,Rental,
+3746,1,Rental,
+5595,1,Rental,
+9169,1,Rental,
+9142,1,Rental,
+9172,1,Downtown Association,
+2673,1,Service,
+5657,1,Rental,
+7217,1,Service,
+12048,1,Service,
+13754,1,Service,
+9745,1,Other,
+10164,1,Retail,
+16318,1,Downtown Association,
+9649,1,Retail,
+4252,1,Hotel,
+5110,1,Retail,
+1417,1,Rental,
+2995,1,Retail,
+4588,1,Downtown Association,
+5224,1,Downtown Association,
+5476,1,Retail,
+6568,1,Service,
+5460,1,Service,
+6838,1,Retail,
+9340,1,Service,
+11831,1,Downtown Association,
+7070,1,Downtown Association,
+3955,1,Downtown Association,
+14092,1,Retail,
+12414,1,Rental,
+15953,1,Rental,
+15953,1,Downtown Association,
+5953,1,Service,
+6541,1,Service,
+398,1,Service,
+7822,1,Service,
+2550,1,Service,
+9898,1,Service,
+4152,1,Service,
+7638,1,Retail,
+5651,1,Rental,
+12411,1,Rental,
+6135,1,Service,
+5622,1,Service,
+13761,1,Service,
+12091,1,Downtown Association,
+7646,1,Retail,
+7464,1,Downtown Association,
+5300,1,Service,
+1837,1,Service,
+2442,1,Service,
+10978,1,Service,
+10543,1,Downtown Association,
+2317,1,Retail,
+14235,1,Retail,
+2481,1,Service,
+11755,1,Retail,
+7386,1,Retail,
+11879,1,Service,
+1493,1,Service,
+5370,1,Service,
+5733,1,Downtown Association,
+8032,1,Service,
+5006,1,Service,
+2043,1,Rental,
+7926,1,Other,
+3223,1,Retail,
+7065,1,Retail,
+15953,1,Retail,
+2403,1,Downtown Association,
+7426,1,Service,
+10129,1,Service,
+6621,1,Service,
+5859,1,Service,
+244,1,Retail,
+11234,1,Downtown Association,
+1067,1,Service,
+6142,1,Service,
+7475,1,Downtown Association,
+3935,1,Retail,
+13254,1,Service,
+5159,1,Service,
+3054,1,Service,
+12413,1,Rental,
+7730,1,Service,
+11296,1,Retail,
+3229,1,Downtown Association,
+3251,1,Service,
+10205,1,Service,
+6736,1,Downtown Association,
+5105,1,Downtown Association,
+3109,1,Service,
+4803,1,Service,
+11797,1,Downtown Association,
+8750,1,Service,
+3775,1,Service,
+7640,1,Service,
+6930,1,Service,
+13595,1,Service,
+6996,1,Service,
+3816,1,Service,
+15588,1,Service,
+10562,1,Other,
+3545,1,,
+6379,1,Downtown Association,
+14309,1,Rental,
+7671,1,Service,
+8668,1,Downtown Association,
+1414,1,Rental,
+4252,1,Hotel,
+5714,1,Rental,
+5571,1,Rental,
+3656,1,Service,
+5603,1,Rental,
+4411,1,Service,
+14027,1,Rental,
+6002,1,Downtown Association,
+5586,1,Rental,
+6828,1,Rental,
+10566,1,Service,
+11377,1,Service,
+5649,1,Rental,
+12398,1,Rental,
+9149,1,Rental,
+6310,1,Service,
+4095,1,Rental,
+12390,1,Rental,
+5663,1,Rental,
+11000,1,Rental,
+4787,1,Service,
+12393,1,Rental,
+3572,1,Service,
+5813,1,Service,
+828,1,Service,
+6078,1,Service,
+4280,1,Service,
+7925,1,Service,
+2345,1,Service,
+5662,1,Rental,
+8176,1,Service,
+5566,1,Rental,
+4797,1,Downtown Association,
+3746,1,Rental,
+4102,1,Rental,
+3746,1,Rental,
+7953,1,Service,
+6204,1,Rental,
+5330,1,Retail,
+317,1,Service,
+5375,1,Downtown Association,
+8353,1,Other,
+1436,1,Other,
+2005,1,Service,
+521,1,Service,
+4222,1,Retail,
+2760,1,Retail,
+2957,1,Downtown Association,
+7444,1,Other,
+3542,1,Retail,
+3731,1,Rental,
+5581,1,Rental,
+13989,1,Service,
+7001,1,Service,
+5671,1,Rental,
+7812,1,Service,
+6979,1,Service,
+4207,1,Downtown Association,
+7631,1,Service,
+7631,1,Service,
+3859,1,,
+5440,1,Downtown Association,
+6159,1,Downtown Association,
+15953,1,Other,
+4671,1,Retail,
+3745,1,Downtown Association,
+5771,1,Other,
+6944,1,Service,
+4790,1,Service,
+2688,1,Service,
+15588,1,Retail,
+1928,1,Retail,
+1928,1,Retail,
+1928,1,Retail,
+1632,1,Rental,
+3811,1,Service,
+14378,1,Service,
+8016,1,Retail,
+13397,1,Retail,
+10340,1,Retail,
+5798,1,Downtown Association,
+2536,1,Retail,
+7408,1,Retail,
+7548,1,Rental,
+9243,1,Service,
+490,1,Retail,
+12393,1,Rental,
+10416,1,Rental,
+10416,1,Downtown Association,
+5572,1,Rental,
+7665,1,Downtown Association,
+1458,1,Rental,
+2481,1,Service,
+7434,1,,
+6631,1,Service,
+9848,1,Service,
+1224,1,Service,
+4238,1,Service,
+2249,1,Service,
+5683,1,Rental,
+6814,1,Retail,
+6726,1,Retail,
+7132,1,Downtown Association,
+5070,1,Downtown Association,
+3347,1,Service,
+2562,1,Service,
+11531,1,Downtown Association,
+7967,1,Rental,
+7918,1,,
+9663,1,Service,
+3101,1,,
+2073,1,Rental,
+7385,1,Downtown Association,
+6078,1,Downtown Association,
+277,1,Retail,
+6181,1,Downtown Association,
+7456,1,Service,
+2701,1,Service,
+15953,1,Service,
+8199,1,Service,
+4249,1,Retail,
+5764,1,Service,
+5879,1,Service,
+906,1,Rental,
+6233,1,Retail,
+5252,1,Downtown Association,
+1854,1,Downtown Association,
+1920,1,Downtown Association,
+7644,1,Service,
+8029,1,Service,
+6880,1,Service,
+7533,1,Downtown Association,
+9625,1,Service,
+7076,1,Downtown Association,
+5271,1,Service,
+6937,1,Service,
+5405,1,Service,
+8119,1,Retail,
+6324,1,Downtown Association,
+8093,1,Retail,
+9183,1,Service,
+1312,1,Retail,
+4602,1,,
+9263,1,Retail,
+1421,1,Rental,
+5588,1,Rental,
+8276,1,Downtown Association,
+6996,1,Service,
+8366,1,Rental,
+5496,1,Retail,
+6071,1,Service,
+9745,1,,
+3340,1,Service,
+9166,1,Rental,
+6583,1,Service,
+6853,1,Service,
+5623,1,Rental,
+4215,1,Rental,
+12411,1,Rental,
+10928,1,Service,
+8848,1,Retail,
+5991,1,Rental,
+10348,1,Retail,
+5656,1,Rental,
+4217,1,Service,
+2550,1,Service,
+4090,1,Service,
+3180,1,Downtown Association,
+5369,1,Retail,
+5656,1,Rental,
+6478,1,Retail,
+2963,1,Retail,
+2377,1,Rental,
+8892,1,Downtown Association,
+2326,1,Service,
+2187,1,Other,
+4413,1,Service,
+5608,1,Service,
+9068,1,Service,
+5813,1,Retail,
+6106,1,Service,
+2851,1,Service,
+2537,1,Retail,
+12371,1,Rental,
+3367,1,Service,
+5721,1,Retail,
+3275,1,Service,
+7335,1,Service,
+1231,1,Service,
+6218,1,Service,
+5728,1,Service,
+2787,1,Service,
+5071,1,Service,
+6754,1,Service,
+6762,1,Service,
+7203,1,Service,
+5657,1,Rental,
+713,1,Retail,
+10222,1,Downtown Association,
+7121,1,Downtown Association,
+1047,1,Service,
+5043,1,Service,
+6345,1,Service,
+6146,1,Service,
+994,1,Rental,
+7343,1,Service,
+1715,1,Retail,
+1025,1,Downtown Association,
+13904,1,Retail,
+785,1,Retail,
+6966,1,Retail,
+6457,1,Service,
+7248,1,Service,
+2501,1,Service,
+8087,1,Service,
+7386,1,Service,
+12320,1,Rental,
+8673,1,Service,
+7329,1,Service,
+12330,1,Service,
+4292,1,Other,
+8793,1,Downtown Association,
+6565,1,Service,
+6779,1,Service,
+9859,1,Service,
+7344,1,Service,
+1420,1,Service,
+2283,1,Service,
+2817,1,Service,
+5699,1,Service,
+5608,1,Rental,
+6917,1,Service,
+892,1,Downtown Association,
+2352,1,Service,
+5652,1,Rental,
+3650,1,Retail,
+7135,1,Service,
+5652,1,Rental,
+1554,1,Rental,
+3496,1,Rental,
+4795,1,Service,
+3367,1,Downtown Association,
+7484,1,Retail,
+5638,1,Rental,
+1008,1,Retail,
+12413,1,Rental,
+5154,1,,
+4172,1,Retail,
+3031,1,Retail,
+734,1,Service,
+2831,1,Retail,
+3865,1,Other,
+3831,1,Service,
+2968,1,Retail,
+1442,1,Rental,
+15953,1,Downtown Association,
+4417,1,Downtown Association,
+3576,1,Retail,
+3213,1,Service,
+6061,1,Service,
+2717,1,Service,
+8077,1,Service,
+8477,1,Service,
+7090,1,Service,
+9150,1,Rental,
+4942,1,Service,
+2323,1,Service,
+8312,1,Service,
+5291,1,Service,
+5190,1,Retail,
+3584,1,Service,
+7143,1,Retail,
+4829,1,Service,
+2401,1,Service,
+972,1,Service,
+6546,1,Service,
+4083,1,Rental,
+6566,1,Downtown Association,
+12414,1,Rental,
+2418,1,Rental,
+6674,1,Service,
+9962,1,Retail,
+4003,1,Service,
+1133,1,Retail,
+6768,1,Service,
+10144,1,Service,
+4091,1,Downtown Association,
+6373,1,Service,
+7630,1,Rental,
+7941,1,Downtown Association,
+10038,1,Retail,
+5529,1,Retail,
+6860,1,Retail,
+4733,1,Service,
+6870,1,Retail,
+9122,1,Service,
+5936,1,Service,
+4986,1,Retail,
+6757,1,Retail,
+4970,1,Service,
+6133,1,Service,
+4872,1,Downtown Association,
+7066,1,Service,
+7919,1,Retail,
+1673,1,Retail,
+7587,1,Retail,
+5008,1,Retail,
+6736,1,Retail,
+6183,1,Service,
+3144,1,Service,
+3713,1,Downtown Association,
+5621,1,Downtown Association,
+12407,1,Rental,
+2761,1,Service,
+4489,1,Service,
+6385,1,,
+5911,1,,
+8274,1,,
+7478,1,Service,
+8718,1,Downtown Association,
+6672,1,Service,
+9106,1,,
+7451,1,Downtown Association,
+10059,1,Service,
+794,1,Service,
+3753,1,Downtown Association,
+5645,1,Rental,
+5651,1,Rental,
+5601,1,Rental,
+9150,1,Rental,
+5607,1,Rental,
+9205,1,Rental,
+9214,1,Downtown Association,
+5629,1,Rental,
+5608,1,Rental,
+12406,1,Rental,
+5655,1,Rental,
+15953,1,Rental,
+1395,1,Rental,
+12327,1,Downtown Association,
+9087,1,Rental,
+11664,1,Service,
+5477,1,Rental,
+3653,1,Downtown Association,
+9208,1,Rental,
+3200,1,Service,
+6722,1,Service,
+9128,1,Rental,
+7765,1,Service,
+9206,1,Rental,
+9158,1,Service,
+12398,1,Rental,
+10495,1,Service,
+9095,1,Rental,
+9207,1,Rental,
+5607,1,Rental,
+9166,1,Rental,
+5554,1,Service,
+4235,1,Rental,
+5655,1,Rental,
+10416,1,Downtown Association,
+5064,1,Service,
+7920,1,Service,
+3902,1,Rental,
+5601,1,Rental,
+9096,1,Service,
+15953,1,Rental,
+3488,1,,
+1120,1,Service,
+4607,1,Service,
+1616,1,Retail,
+8046,1,Downtown Association,
+4279,1,Service,
+5879,1,Service,
+6964,1,Retail,
+4000,1,Service,
+7794,1,Downtown Association,
+6231,1,Retail,
+2499,1,Service,
+8151,1,Retail,
+5784,1,Retail,
+14400,1,Other,
+5546,1,Rental,
+6783,1,Downtown Association,
+5651,1,Rental,
+5608,1,Rental,
+7531,1,Service,
+5669,1,Rental,
+5655,1,Rental,
+6980,1,Service,
+5615,1,Rental,
+5103,1,Service,
+5614,1,Rental,
+7232,1,Retail,
+2017,1,Service,
+1989,1,Service,
+3688,1,Retail,
+5091,1,Service,
+12400,1,Rental,
+11019,1,Downtown Association,
+7517,1,Rental,
+5666,1,Rental,
+15953,1,Downtown Association,
+1759,1,Service,
+6268,1,,
+4320,1,Service,
+8312,1,Downtown Association,
+5656,1,Rental,
+1682,1,Retail,
+3487,1,Service,
+15953,1,Retail,
+5546,1,Retail,
+5596,1,Service,
+6352,1,Service,
+5313,1,Service,
+3927,1,Retail,
+6470,1,Service,
+11860,1,Service,
+10930,1,Downtown Association,
+12370,1,Rental,
+2205,1,Rental,
+5798,1,Service,
+3152,1,Service,
+3640,1,Service,
+4143,1,Service,
+12328,1,Rental,
+7622,1,Service,
+7185,1,Service,
+1967,1,Service,
+8589,1,Rental,
+7772,1,Rental,
+5586,1,Rental,
+14073,1,Service,
+7175,1,Service,
+5645,1,Rental,
+3746,1,Rental,
+5657,1,Rental,
+6539,1,Service,
+15953,1,Service,
+6574,1,Service,
+5651,1,Rental,
+12411,1,Rental,
+10059,1,Service,
+6933,1,Downtown Association,
+5613,1,Rental,
+12392,1,Rental,
+5650,1,Rental,
+5679,1,Rental,
+8820,1,Other,
+489,1,Service,
+6246,1,Service,
+6034,1,Retail,
+7490,1,Retail,
+6588,1,Service,
+5855,1,Downtown Association,
+5628,1,Rental,
+3445,1,Service,
+6229,1,Downtown Association,
+15953,1,Downtown Association,
+2103,1,Downtown Association,
+6308,1,Downtown Association,
+9878,1,Service,
+1963,1,Downtown Association,
+5411,1,Downtown Association,
+1086,1,Retail,
+5061,1,,
+11413,1,Other,
+7940,1,Downtown Association,
+4032,1,Retail,
+13669,1,Service,
+4047,1,Service,
+12411,1,Rental,
+4994,1,Service,
+9635,1,Downtown Association,
+6062,1,Retail,
+5754,1,Retail,
+1616,1,Service,
+8351,1,Downtown Association,
+10747,1,Service,
+9962,1,Service,
+2340,1,Other,
+5083,1,,
+14710,1,Service,
+8151,1,Service,
+5651,1,Rental,
+2380,1,Service,
+2617,1,Service,
+5952,1,Service,
+3885,1,Downtown Association,
+933,1,Service,
+4287,1,Service,
+1963,1,Retail,
+5496,1,Retail,
+11447,1,Downtown Association,
+5141,1,Service,
+3593,1,Downtown Association,
+7521,1,Retail,
+4215,1,Retail,
+5063,1,Service,
+5909,1,Downtown Association,
+7678,1,Other,
+6133,1,Service,
+9331,1,Service,
+7678,1,Service,
+12348,1,Rental,
+3474,1,Service,
+2729,1,Service,
+2059,1,Service,
+7638,1,Service,
+2933,1,Retail,
+3821,1,Service,
+4899,1,Service,
+6338,1,Other,
+3893,1,Service,
+6385,1,Downtown Association,
+7640,1,Other,
+7331,1,Downtown Association,
+15953,1,Rental,
+1520,1,Rental,
+3178,1,Retail,
+3221,1,Retail,
+5608,1,Rental,
+13084,1,Downtown Association,
+7447,1,Downtown Association,
+7709,1,Other,
+8758,1,Retail,
+5809,1,Service,
+2330,1,Rental,
+3794,1,Service,
+10494,1,Rental,
+1100,1,Service,
+2782,1,Service,
+6404,1,Retail,
+4138,1,Service,
+8340,1,Retail,
+3517,1,Other,
+4956,1,Retail,
+2999,1,Retail,
+1427,1,Rental,
+5698,1,Downtown Association,
+4747,1,Downtown Association,
+9113,1,Rental,
+7149,1,Service,
+7140,1,Service,
+3858,1,Downtown Association,
+10747,1,Retail,
+15953,1,Retail,
+13804,1,Service,
+6484,1,Retail,
+332,1,Service,
+6541,1,Service,
+7107,1,Service,
+5533,1,Service,
+3746,1,Rental,
+1487,1,Rental,
+7504,1,Other,
+2241,1,Service,
+7423,1,Service,
+1603,1,Service,
+1676,1,Downtown Association,
+5721,1,Retail,
+3660,1,Downtown Association,
+6362,1,Downtown Association,
+2681,1,Rental,
+851,1,Retail,
+5960,1,Retail,
+5714,1,Other,
+397,1,Service,
+5151,1,Service,
+5470,1,Service,
+4811,1,Retail,
+8259,1,Retail,
+1094,1,Retail,
+5651,1,Rental,
+7672,1,Other,
+5848,1,Service,
+6897,1,Service,
+15953,1,Downtown Association,
+6632,1,Retail,
+8932,1,Retail,
+8969,1,Service,
+7213,1,Service,
+10494,1,Rental,
+6880,1,Service,
+5571,1,,
+5190,1,Retail,
+15953,1,Retail,
+12468,1,Retail,
+13304,1,Retail,
+3804,1,Downtown Association,
+3184,1,Downtown Association,
+8876,1,Downtown Association,
+5210,1,Downtown Association,
+5904,1,Retail,
+4718,1,Rental,
+8945,1,Service,
+12666,1,Retail,
+4699,1,Downtown Association,
+10684,1,Retail,
+11570,1,Downtown Association,
+5357,1,Service,
+5785,1,Service,
+5880,1,Retail,
+1452,1,Rental,
+15953,1,Rental,
+6132,1,Service,
+6964,1,,
+3110,1,,
+3734,1,Service,
+8255,1,Retail,
+12908,1,Retail,
+15953,1,Retail,
+5168,1,Retail,
+5109,1,Service,
+2785,1,Other,
+5406,1,Service,
+5662,1,Rental,
+3479,1,Rental,
+8518,1,Service,
+7587,1,Service,
+4493,1,Downtown Association,
+5628,1,Rental,
+2941,1,Service,
+5789,1,Service,
+6870,1,Downtown Association,
+6362,1,Other,
+16675,1,Service,
+9894,1,Downtown Association,
+8196,1,Rental,
+7091,1,Service,
+4542,1,Downtown Association,
+6826,1,Service,
+5008,1,Service,
+2025,1,Retail,
+4172,1,Retail,
+7807,1,Service,
+8164,1,Retail,
+2027,1,Retail,
+612,1,Rental,
+12390,1,Rental,
+5662,1,Rental,
+5585,1,Service,
+4741,1,Service,
+12390,1,Rental,
+3690,1,Service,
+7429,1,Service,
+5147,1,Service,
+6611,1,Service,
+1764,1,Service,
+1616,1,,
+2249,1,Downtown Association,
+4249,1,Retail,
+10993,1,Service,
+5651,1,Rental,
+10130,1,Service,
+7861,1,Service,
+4355,1,Service,
+2767,1,Downtown Association,
+5260,1,,
+3495,1,Service,
+5475,1,Rental,
+5811,1,Rental,
+5650,1,Rental,
+2786,1,Rental,
+3107,1,Rental,
+7972,1,Retail,
+5456,1,Retail,
+2402,1,Service,
+10348,1,Downtown Association,
+4467,1,Rental,
+13273,1,Service,
+5645,1,Rental,
+8031,1,Retail,
+1827,1,Rental,
+5684,1,Rental,
+13815,1,Downtown Association,
+5666,1,Rental,
+7072,1,Rental,
+5683,1,Service,
+7651,1,Rental,
+5643,1,Retail,
+15953,1,Service,
+7048,1,Downtown Association,
+6134,1,Service,
+7422,1,Retail,
+3563,1,Rental,
+2081,1,Rental,
+5650,1,Rental,
+14777,1,Retail,
+1424,1,Rental,
+5651,1,Rental,
+5663,1,Rental,
+12398,1,Rental,
+12411,1,Rental,
+2471,1,Service,
+8462,1,Retail,
+15953,1,Downtown Association,
+3580,1,Service,
+15953,1,Rental,
+6362,1,Retail,
+7275,1,Service,
+8315,1,Service,
+5503,1,Downtown Association,
+8441,1,Downtown Association,
+4440,1,Service,
+3951,1,Service,
+15222,1,Service,
+5665,1,Rental,
+5959,1,Downtown Association,
+4683,1,Service,
+6854,1,Service,
+1256,1,Service,
+15953,1,Retail,
+6981,1,Downtown Association,
+7941,1,Service,
+6398,1,Retail,
+6121,1,Retail,
+7521,1,Retail,
+4138,1,Service,
+5741,1,Service,
+5645,1,Rental,
+12406,1,Rental,
+7317,1,Downtown Association,
+1421,1,Rental,
+4390,1,Service,
+12398,1,Rental,
+3446,1,Retail,
+7195,1,Downtown Association,
+9039,1,Rental,
+5662,1,Rental,
+5656,1,Rental,
+5665,1,Rental,
+1434,1,Rental,
+7230,1,Service,
+5874,1,Service,
+6930,1,Downtown Association,
+9086,1,Rental,
+12413,1,Rental,
+12320,1,Rental,
+3453,1,Rental,
+4207,1,Rental,
+5110,1,Retail,
+12312,1,Rental,
+3403,1,Service,
+21613,1,Rental,
+9050,1,Other,
+11531,1,Retail,
+15953,1,Retail,
+5509,1,Downtown Association,
+1677,1,Rental,
+2408,1,Other,
+6177,1,Service,
+5154,1,Service,
+6216,1,Service,
+12477,1,Service,
+6204,1,Service,
+3779,1,Service,
+7070,1,Service,
+6657,1,Service,
+2113,1,Downtown Association,
+2180,1,Service,
+5652,1,Rental,
+8289,1,Rental,
+9087,1,Rental,
+9110,1,Rental,
+12271,1,Rental,
+5657,1,Rental,
+9198,1,Rental,
+2432,1,Downtown Association,
+5440,1,Service,
+947,1,Service,
+5805,1,Service,
+8647,1,Service,
+10502,1,Service,
+10167,1,Service,
+7643,1,Downtown Association,
+13396,1,Service,
+6085,1,Service,
+5686,1,Service,
+9205,1,Service,
+6434,1,Service,
+4242,1,Service,
+12397,1,Rental,
+7107,1,Service,
+11907,1,Service,
+6891,1,Service,
+2345,1,Service,
+9256,1,Service,
+2837,1,Service,
+8024,1,Service,
+5603,1,Rental,
+2523,1,Service,
+3328,1,Service,
+3929,1,Service,
+1408,1,Rental,
+6674,1,Service,
+5344,1,Downtown Association,
+4174,1,Service,
+10174,1,Service,
+8501,1,Downtown Association,
+6994,1,Service,
+14386,1,Service,
+13304,1,Service,
+1413,1,Rental,
+2526,1,Service,
+8276,1,Retail,
+4489,1,Service,
+5635,1,Rental,
+13940,1,Service,
+10869,1,Service,
+12820,1,Service,
+5649,1,Rental,
+4901,1,Service,
+8764,1,Other,
+978,1,Retail,
+3459,1,Other,
+13316,1,Service,
+7876,1,Service,
+2178,1,Downtown Association,
+15953,1,Downtown Association,
+5425,1,Retail,
+11850,1,Service,
+7140,1,Service,
+6187,1,Service,
+1465,1,Rental,
+12299,1,Rental,
+15953,1,Service,
+4004,1,Service,
+3550,1,Service,
+5784,1,Service,
+12403,1,Rental,
+4215,1,Service,
+10993,1,Service,
+4489,1,Downtown Association,
+14096,1,Service,
+3957,1,Service,
+4433,1,Downtown Association,
+4913,1,Downtown Association,
+3461,1,Service,
+15953,1,Service,
+703,1,Service,
+6021,1,Service,
+4984,1,Other,
+12180,1,Service,
+5938,1,Service,
+3739,1,Other,
+11248,1,Retail,
+3016,1,Other,
+4033,1,Service,
+1228,1,Retail,
+709,1,Retail,
+4474,1,Downtown Association,
+6384,1,Other,
+1835,1,Retail,
+5655,1,Rental,
+5656,1,Rental,
+5663,1,Rental,
+12392,1,Rental,
+5655,1,Rental,
+12393,1,Rental,
+12371,1,Rental,
+11935,1,Rental,
+7349,1,Rental,
+5651,1,Rental,
+9113,1,Rental,
+7679,1,Rental,
+6800,1,Service,
+5651,1,Rental,
+2073,1,Retail,
+5652,1,Rental,
+8576,1,Service,
+13467,1,Service,
+9149,1,Rental,
+9206,1,Rental,
+5657,1,Rental,
+2088,1,Service,
+5666,1,Rental,
+5663,1,Rental,
+12413,1,Rental,
+12357,1,Rental,
+12392,1,Rental,
+9229,1,Rental,
+8165,1,Service,
+7351,1,Rental,
+4713,1,Service,
+5663,1,Rental,
+2229,1,Service,
+2639,1,Service,
+10286,1,Downtown Association,
+3641,1,Rental,
+10493,1,Rental,
+10417,1,Rental,
+5652,1,Rental,
+11364,1,Service,
+6796,1,Service,
+2849,1,Other,
+4893,1,Other,
+11031,1,Other,
+4571,1,Retail,
+5648,1,Rental,
+5610,1,Rental,
+3717,1,Service,
+9149,1,Rental,
+7665,1,Service,
+5652,1,Rental,
+4787,1,Other,
+2334,1,Retail,
+7205,1,Retail,
+8764,1,Service,
+6923,1,Service,
+1224,1,,
+8094,1,Service,
+8018,1,Service,
+5652,1,Rental,
+12414,1,Rental,
+8266,1,Service,
+13426,1,Service,
+1524,1,Rental,
+15953,1,Service,
+7469,1,Service,
+2737,1,Retail,
+6196,1,Other,
+5665,1,Rental,
+13860,1,Service,
+1981,1,Retail,
+7657,1,Service,
+6583,1,Downtown Association,
+7678,1,Service,
+6804,1,Service,
+3678,1,Service,
+10481,1,Rental,
+15953,1,Rental,
+3535,1,Service,
+2444,1,Retail,
+5603,1,Rental,
+1069,1,Downtown Association,
+8527,1,Other,
+6609,1,Other,
+1396,1,Service,
+5308,1,Service,
+7521,1,Service,
+5603,1,Rental,
+6204,1,Other,
+3394,1,Retail,
+5509,1,Service,
+5133,1,Service,
+7309,1,Downtown Association,
+10166,1,Service,
+6593,1,Service,
+4123,1,Rental,
+15953,1,Downtown Association,
+5663,1,Rental,
+12295,1,Downtown Association,
+7885,1,Downtown Association,
+5882,1,Service,
+3870,1,Service,
+5231,1,Service,
+6538,1,Downtown Association,
+5650,1,Rental,
+1080,1,Retail,
+2815,1,,
+8311,1,Rental,
+16318,1,Service,
+7665,1,Service,
+2473,1,Service,
+2383,1,Service,
+7064,1,Downtown Association,
+9478,1,Service,
+7713,1,Retail,
+9138,1,Retail,
+14021,1,Service,
+5153,1,Retail,
+2981,1,,
+1424,1,Rental,
+3545,1,,
+4214,1,Retail,
+12398,1,Downtown Association,
+5648,1,Rental,
+5054,1,,
+5655,1,Rental,
+2856,1,Service,
+7472,1,Service,
+3180,1,Service,
+5649,1,Rental,
+3990,1,Downtown Association,
+5650,1,Rental,
+4845,1,Other,
+2486,1,Retail,
+7156,1,Service,
+7427,1,,
+12413,1,Rental,
+15953,1,Other,
+15953,1,Rental,
+5616,1,Rental,
+1338,1,,
+11574,1,Service,
+5644,1,Rental,
+5735,1,Service,
+5180,1,Downtown Association,
+3746,1,Rental,
+4634,1,,
+5109,1,Retail,
+6020,1,Downtown Association,
+4391,1,Downtown Association,
+1611,1,Service,
+11941,1,Service,
+9338,1,Other,
+5649,1,Rental,
