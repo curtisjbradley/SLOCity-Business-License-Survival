@@ -34,5 +34,5 @@ Businesses with the same `Rate type` pay the same taxes.
 + `type` - A clustered form of `Business type`
 + `zone` - The zone associated with the parcel where the store is located.
 +  `zone_type` - Clustered form of `zone`.
-
++ `businesses_within_500m` - Number of businesses that were open within 500m at the time of business license start.
 
